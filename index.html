@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Map Viewer</title>
+  <link rel="stylesheet" href="landingstyles.css">
+  <script defer src="landingscripts.js"></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Centered Logo -->
+    <img src="logo.png" alt="Logo" class="logo">
+
+    <!-- Mode Switch Links -->
+    <div class="mode-switch">
+      <a href="#" id="simple-link" class="active">Simple</a>
+      <a href="#" id="advanced-link">Advanced</a>
+    </div>
+
+    <div class="filter-options">
+      <div class="filter-row" id="year-filter">
+        Year: <span data-filter="all" data-type="year" class="filter-option active">all</span>
+        <span data-filter="2020" data-type="year" class="filter-option">2020</span>
+        <span data-filter="2022" data-type="year" class="filter-option">2022</span>
+        <span data-filter="2024" data-type="year" class="filter-option">2024</span>
+      </div>
+      <div class="filter-row" id="type-filter">
+        Type: <span data-filter="all" data-type="type" class="filter-option active">all</span>
+        <span data-filter="federal" data-type="type" class="filter-option">federal</span>
+        <span data-filter="state" data-type="type" class="filter-option">state</span>
+        <span data-filter="local" data-type="type" class="filter-option">local</span>
+        <span data-filter="turnout" data-type="type" class="filter-option">turnout</span>
+      </div>
+    </div>
+    
+
+    <!-- Dropdown and Go Button -->
+    <div class="map-selector">
+      <select id="map-dropdown" disabled>
+        <option value="">Select a map</option>
+      </select>
+      <button id="go-button" disabled>Go</button>
+    </div>
+
+    <div id="results-tables"></div>
+  </div>
+</body>
+</html>

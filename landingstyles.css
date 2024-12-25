@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .mode-switch {
+    margin-bottom: 20px;
+  }
+  
+  .mode-switch a {
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+    color: #000;
+  }
+  
+  .mode-switch a.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .map-selector {
+    display: flex;
+    gap: 10px;
+  }
+  
+  select, button {
+    font-size: 16px;
+    padding: 5px;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .filter-row {
+    margin: 10px 0;
+  }
+  
+  .filter-option {
+    cursor: pointer;
+    margin-right: 10px;
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .filter-option.active {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+  }
+
+  #results-tables {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 800px; /* Limit table width */
+    margin-left: auto;
+    margin-right: auto; /* Center the tables */
+  }
+  
+  .results-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .results-table caption {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .results-table caption a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .results-table th, .results-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .results-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  /* Default alternating row colors */
+  .results-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .results-table tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
+  /* Party-based row coloring */
+  .results-table tr.party-dem {
+    background-color: #e0f0ff; /* Light blue */
+  }
+  
+  .results-table tr.party-rep {
+    background-color: #ffe0e0; /* Light red */
+  }
+  
+  .results-table tr.party-green {
+    background-color: #e0ffe0; /* Light green */
+  }
+  
+  .results-table tr.party-lib {
+    background-color: #ffffe0; /* Light yellow */
+  }
+  
+  .results-table tr.party-una {
+    background-color: #f0e0ff; /* Light purple */
+  }
+  
+  /* Make the table responsive */
+  @media screen and (max-width: 768px) {
+    .results-table {
+      font-size: 14px;
+    }
+  
+    .results-table caption {
+      font-size: 16px;
+    }
+  }
+  

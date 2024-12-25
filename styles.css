@@ -1,0 +1,77 @@
+/* Ensure no horizontal overflow */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
+  box-sizing: border-box;
+}
+
+/* Map container styling */
+#map {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensure padding is included in the element's width */
+}
+
+/* Title styling */
+#title {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  font-size: 24px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  display: none; /* Hidden by default */
+}
+
+/* Key container styling */
+#key {
+  position: absolute;
+  bottom: 60px;
+  left: 20px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  display: none; /* Hidden by default */
+}
+
+.key-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.key-color {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 1px solid #000;
+}
+
+/* Footer styling */
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  padding: 10px;
+  z-index: 1000;
+  box-sizing: border-box; /* Ensure padding doesn’t cause overflow */
+}
+
+/* Ensure title, key, and footer stay within the viewport */
+#title, #key, #footer {
+  margin: 0 auto;
+  max-width: 100%; /* Prevent overflow beyond the viewport */
+}

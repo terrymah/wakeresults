@@ -1,0 +1,379 @@
+[
+    {
+        "name": "2020 - Board of Election District 8",
+        "csv": "boe8_2020.csv",
+        "tags": ["2020", "local"],
+        "candidates": [
+            {
+                "name": "Lindsay Mahaffey",
+                "column": "mahaffey",
+                "total": "all",
+                "party": "dem",
+                "votes": 49724,
+                "percent": 62.27
+            },
+            {
+                "name": "Steve Bergstom",
+                "column": "bergstrom",
+                "total": "all",
+                "party": "rep",
+                "votes": 29383,
+                "percent": 36.79
+            }
+        ]
+    },
+    {
+        "name": "2022 - Board of Election District 8",
+        "csv": "boe8_2022.csv",
+        "tags": ["2022", "local"],
+        "candidates": [
+            {
+                "name": "Lindsay Mahaffey",
+                "column": "mahaffey",
+                "total": "all",
+                "party": "dem",
+                "votes": 27268,
+                "percent": 52.44
+            },
+            {
+                "name": "Steve Bergstom",
+                "column": "bergstrom",
+                "total": "all",
+                "party": "rep",
+                "votes": 17939,
+                "percent": 39.41
+            }
+        ]
+    },
+    {
+        "name": "2020 - Chief Justice",
+        "csv": "chiefjustice2020.csv",
+        "tags": ["2020", "state"],
+        "candidates": [
+            {
+                "name": "Cheri Beasley",
+                "column": "beasley",
+                "total": "all",
+                "party": "dem",
+                "votes": 381772,
+                "percent": 61.96
+            },
+            {
+                "name": "Paul Newby",
+                "column": "newby",
+                "total": "all",
+                "party": "rep",
+                "votes": 234353,
+                "percent": 38.04
+            }
+        ]
+    },
+    {
+        "name": "2020 - Governor",
+        "csv": "gov2020.csv",
+        "tags": ["2020", "state"],
+        "candidates": [
+            {
+                "name": "Roy Cooper",
+                "column": "cooper",
+                "total": "all",
+                "party": "dem",
+                "votes": 410386,
+                "percent": 65.17
+            },
+            {
+                "name": "Dan Forest",
+                "column": "forest",
+                "total": "all",
+                "party": "rep",
+                "votes": 209183,
+                "percent": 33.22
+            },
+            {
+                "name": "Steven DiFiore",
+                "column": "difiore",
+                "total": "all",
+                "party": "lib",
+                "votes": 7928,
+                "percent": 1.26
+            }
+        ]
+    },
+    {
+        "name": "2020 - Lt. Governor",
+        "csv": "ltgov2020.csv",
+        "tags": ["2020", "state"],
+        "candidates": [
+            {
+                "name": "Mark Robinson",
+                "column": "robinson",
+                "total": "all",
+                "party": "rep",
+                "votes": 240082,
+                "percent": 38.68
+            },
+            {
+                "name": "Yvonne Holley",
+                "column": "holley",
+                "total": "all",
+                "party": "dem",
+                "votes": 380586,
+                "percent": 61.32
+            }
+        ]
+    },
+    {
+        "name": "2022 - NC Supreme Court Seat 3",
+        "csv": "ncsc3_2022.csv",
+        "tags": ["2022", "state"],
+        "candidates": [
+            {
+                "name": "Lucy Inman",
+                "column": "inman",
+                "total": "all",
+                "party": "dem",
+                "votes": 283113,
+                "percent": 62.87
+            },
+            {
+                "name": "Richard Dietz",
+                "column": "dietz",
+                "total": "all",
+                "party": "rep",
+                "votes": 167175,
+                "percent": 37.13
+            }
+        ]
+    },
+    {
+        "name": "2022 - NC Supreme Court Seat 5",
+        "csv": "ncsc5_2022.csv",
+        "tags": ["2022", "state"],
+        "candidates": [
+            {
+                "name": "Sam Ervin IV",
+                "column": "ervin iv",
+                "total": "all",
+                "party": "dem",
+                "votes": 281451,
+                "percent": 62.65
+            },
+            {
+                "name": "Trey Allen",
+                "column": "allen",
+                "total": "all",
+                "party": "rep",
+                "votes": 167799,
+                "percent": 37.35
+            }
+        ]
+    },
+    {
+        "name": "2020 - President",
+        "csv": "president2020.csv",
+        "tags": ["2020", "federal"],
+        "candidates": [
+            {
+                "name": "Donald Trump",
+                "column": "trump",
+                "total": "all",
+                "party": "rep",
+                "votes": 226197,
+                "percent": 35.80
+            },
+            {
+                "name": "Joe Biden",
+                "column": "biden",
+                "total": "all",
+                "party": "dem",
+                "votes": 393336,
+                "percent": 62.25
+            }
+        ]
+    },
+    {
+        "name": "2020 - Senate",
+        "csv": "senate2020.csv",
+        "tags": ["2020", "federal"],
+        "candidates": [
+            {
+                "name": "Thom Tillis",
+                "column": "tillis",
+                "total": "all",
+                "party": "rep",
+                "votes": 232338,
+                "percent": 37.05
+            },
+            {
+                "name": "Shannon Bray",
+                "column": "bray",
+                "total": "all",
+                "party": "lib",
+                "votes": 22230,
+                "percent": 3.54
+            },
+            {
+                "name": "Cal Cunningham",
+                "column": "cunningham",
+                "total": "all",
+                "party": "dem",
+                "votes": 367718,
+                "percent": 58.63
+            }
+        ]
+    },
+    {
+        "name": "2022 - Senate",
+        "csv": "senate2022.csv",
+        "tags": ["2022", "federal"],
+        "candidates": [
+            {
+                "name": "Cheri Beasley",
+                "column": "beasley",
+                "total": "all",
+                "party": "dem",
+                "votes": 281367,
+                "percent": 62.09
+            },
+            {
+                "name": "Shannon Bray",
+                "column": "bray",
+                "total": "all",
+                "party": "lib",
+                "votes": 6634,
+                "percent": 1.46
+            },
+            {
+                "name": "Ted Budd",
+                "column": "budd",
+                "total": "all",
+                "party": "rep",
+                "votes": 160818,
+                "percent": 35.49
+            }
+        ]
+    },
+    {
+        "name": "2024 - Total Turnout",
+        "csv": "demoturnout2024.csv",
+        "tags": ["2024", "turnout"],
+        "candidates": [
+            {
+                "name": "Total Voters",
+                "column": "voted_total",
+                "total": "total"
+            }
+        ]
+    },
+    {
+        "name": "2024 - Turnout by Gender",
+        "csv": "demoturnout2024.csv",
+        "tags": ["2024", "turnout"],
+        "candidates": [
+            {
+                "name": "Female Voters",
+                "column": "gender_F_voted",
+                "total": "gender_F"
+            },
+            {
+                "name": "Male Voters",
+                "column": "gender_M_voted",
+                "total": "gender_M"
+            },
+            {
+                "name": "Unspecified Gender Voters",
+                "column": "gender_U_voted",
+                "total": "gender_U"
+            },
+            {
+                "name": "Total Voters",
+                "column": "voted_total",
+                "total": "total"
+            }            
+        ]
+    },
+    {
+        "name": "2024 - Turnout by Race",
+        "csv": "demoturnout2024.csv",
+        "tags": ["2024", "turnout"],
+        "candidates": [
+            {
+                "name": "Asian Voters",
+                "column": "race_A_voted",
+                "total": "race_A"
+            },
+            {
+                "name": "Black Voters",
+                "column": "race_B_voted",
+                "total": "race_B"
+            },
+            {
+                "name": "Multiple Race Voters",
+                "column": "race_M_voted",
+                "total": "race_M"
+            },
+            {
+                "name": "Unspecified Race Voters",
+                "column": "race_U_voted",
+                "total": "race_U"
+            },
+            {
+                "name": "White Voters",
+                "column": "race_W_voted",
+                "total": "race_W"
+            },
+            {
+                "name": "Hispanic Voters",
+                "column": "ethnic_HL_voted",
+                "total": "ethnic_HL"
+            },
+            {
+                "name": "Total Voters",
+                "column": "voted_total",
+                "total": "total"
+            }
+        ]
+    },
+    {
+        "name": "2024 - Turnout by Party",
+        "csv": "demoturnout2024.csv",
+        "tags": ["2024", "turnout"],
+        "candidates": [
+            {
+                "name": "Democratic Voters",
+                "column": "party_DEM_voted",
+                "total": "party_DEM",
+                "party": "dem"
+            },
+            {
+                "name": "Republican Voters",
+                "column": "party_REP_voted",
+                "total": "party_REP",
+                "party": "rep"
+            },
+            {
+                "name": "Green Party Voters",
+                "column": "party_GRE_voted",
+                "total": "party_GRE",
+                "party": "green"
+            },
+            {
+                "name": "Libertarian Voters",
+                "column": "party_LIB_voted",
+                "total": "party_LIB",
+                "party": "lib"
+            },
+            {
+                "name": "Unaffiliated Voters",
+                "column": "party_UNA_voted",
+                "total": "party_UNA",
+                "party": "una"
+            },     
+            {
+                "name": "Total Voters",
+                "column": "voted_total",
+                "total": "total"
+            }
+        ]
+    }
+]
