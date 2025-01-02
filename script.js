@@ -1,4 +1,4 @@
-import { initializeMap, loadGeoJson, styleFeature, onEachFeature } from './mapUtils.js';
+import { loadGeoJson, styleFeature, onEachFeature } from './mapUtils.js';
 import { initColors, getColorScaleForColumn } from './colorScale.js';
 
 let precinctData = {};
@@ -97,7 +97,7 @@ async function calculatePrecinctData(csvFiles, portionColumns, totalColumns) {
               // Calculate the "all" column for the split precinct
               const allColumnName = `all_${csvFile}`;
               const allTotal = Object.keys(row)
-                .filter(key => key !== "id" && key !== "under") // Exclude "id" and "under"
+                .filter(key => key !== "id" && key !== "under" && key !== "over") // Exclude "id" and "under"
                 .reduce((sum, key) => {
                   const value = parseFloat(row[key]) || 0;
                   return sum + value / numSplits;
@@ -187,9 +187,16 @@ const portionColumns = getQueryParam('portion', 'party_DEM_voted,party_REP_voted
 const totalColumns = getQueryParam('total', 'party_DEM,party_REP').split(',');
 const friendlyNames = getQueryParam('name', 'Democrat,Republican').split(',');
 const colorPreferences = getQueryParam('color', 'blue,red').split(',');
+
 const showLabels = getQueryParam('labels', 'no') === 'yes';
-const showTitle = getQueryParam('title', 'yes') === 'yes';
+const showTitle = getQueryParam('showTitle', 'yes') === 'yes';
+const title = getQueryParam('title');
+
 const showKey = getQueryParam('key', 'yes') === 'yes';
+const absoluteModeOn = getQueryParam('absoluteMode', 'no') === 'yes';
+const winnerTakeAllOn = getQueryParam('wta', 'no') === 'yes';
+
+const mapEnabled = getQueryParam('showMap', 'yes') === 'yes';
 
 // Validate that the lengths match
 if (portionColumns.length !== totalColumns.length || portionColumns.length !== friendlyNames.length) {
@@ -212,40 +219,42 @@ const keyElement = document.getElementById('key');
 const toggleLabelsCheckbox = document.getElementById('toggleLabels');
 const toggleTitleCheckbox = document.getElementById('toggleTitle');
 const toggleKeyCheckbox = document.getElementById('toggleKey');
-const winnerTakeAllCheckbox = document.createElement('input');
-const absoluteModeCheckbox = document.createElement('input');
-
-// Add Winner Take All checkbox
-winnerTakeAllCheckbox.type = 'checkbox';
-winnerTakeAllCheckbox.id = 'winnerTakeAll';
-winnerTakeAllCheckbox.checked = false;
-const winnerTakeAllLabel = document.createElement('label');
-winnerTakeAllLabel.textContent = ' Winner Take All';
-winnerTakeAllLabel.htmlFor = 'winnerTakeAll';
-document.getElementById('footer').appendChild(winnerTakeAllCheckbox);
-document.getElementById('footer').appendChild(winnerTakeAllLabel);
-
-// Add Absolute Mode checkbox
-absoluteModeCheckbox.type = 'checkbox';
-absoluteModeCheckbox.id = 'absoluteMode';
-absoluteModeCheckbox.checked = false;
-const absoluteModeLabel = document.createElement('label');
-absoluteModeLabel.textContent = ' Absolute Mode';
-absoluteModeLabel.htmlFor = 'absoluteMode';
-document.getElementById('footer').appendChild(absoluteModeCheckbox);
-document.getElementById('footer').appendChild(absoluteModeLabel);
-
+const winnerTakeAllCheckbox = document.getElementById('winnerTakeAll');
+const absoluteModeCheckbox = document.getElementById('absoluteMode');
+const toggleMapCheckbox = document.getElementById('toggleMap');
 // Set initial visibility based on arguments
-titleElement.style.display = showTitle ? 'block' : 'none';
-keyElement.style.display = showKey ? 'block' : 'none';
 toggleLabelsCheckbox.checked = showLabels;
+
+titleElement.style.display = showTitle ? 'block' : 'none';
 toggleTitleCheckbox.checked = showTitle;
+
+keyElement.style.display = showKey ? 'block' : 'none';
 toggleKeyCheckbox.checked = showKey;
 
-titleElement.innerText = "Fixme";
+titleElement.style.display = showTitle ? 'block' : 'none';
+toggleTitleCheckbox.checked = showTitle;
+titleElement.innerText = title;
+
+absoluteModeCheckbox.checked = absoluteModeOn;
+
+winnerTakeAllCheckbox.checked = winnerTakeAllOn;
+
+toggleMapCheckbox.checked = mapEnabled;
 
 // Map Initialization
-const map = initializeMap('map');
+let backgroundLayer;
+const map = L.map('map');
+
+backgroundLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '© OpenStreetMap contributors'
+}).addTo(map); // Add the layer to the map initially
+
+// Set the initial visibility of the background map layer
+if (!mapEnabled) {
+  map.removeLayer(backgroundLayer); // Remove the layer if the parameter is "no"
+}
+
 const labelMarkers = [];
 
 // Checkbox event listeners
@@ -279,6 +288,16 @@ toggleTitleCheckbox.addEventListener('change', () => {
 
 toggleKeyCheckbox.addEventListener('change', () => {
   keyElement.style.display = toggleKeyCheckbox.checked ? 'block' : 'none';
+});
+
+toggleMapCheckbox.addEventListener('change', () => {
+  if (toggleMapCheckbox.checked) {
+    // Add the background layer back to the map
+    backgroundLayer.addTo(map);
+  } else {
+    // Remove the background layer from the map
+    map.removeLayer(backgroundLayer);
+  }
 });
 
 const friendlyNameMap = {}; // Map column names to friendly names

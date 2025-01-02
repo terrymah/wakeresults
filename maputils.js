@@ -1,14 +1,5 @@
 import { getColorScaleForColumn, initColors, getColorForMargin, getGradientColor } from './colorScale.js';
 
-export function initializeMap(containerId) {
-  const map = L.map(containerId);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-  return map;
-}
-
 export function loadGeoJson(map, geoJsonFileUrl, precinctData, styleFeature, onEachFeature, labelMarkers) {
   fetch(geoJsonFileUrl)
     .then(response => {
@@ -32,7 +23,7 @@ export function loadGeoJson(map, geoJsonFileUrl, precinctData, styleFeature, onE
 
       map.fitBounds(geoJsonLayer.getBounds());
     })
-    .catch(error => alert(`Error loading GeoJSON file: ${error.message}`));
+    //.catch(error => alert(`Error loading GeoJSON file: ${error.message}`));
 }
 
 export function styleFeature(feature, precinctData, enabledColumns, portionColumns, totalColumns, absoluteMode, winnerTakeAll) {
