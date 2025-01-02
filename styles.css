@@ -100,3 +100,16 @@ html, body {
 #logo:hover {
   opacity: 1; /* Full opacity on hover */
 }
+
+/* Smaller screens (mobile) */
+@media (max-width: 768px) {
+  #logo {
+    width: 40px; /* Smaller size for tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  #logo {
+    width: 30px; /* Smaller size for phones */
+  }
+}
