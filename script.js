@@ -1,4 +1,4 @@
-import { loadGeoJson, styleFeature, onEachFeature } from './mapUtils.js';
+import { loadGeoJson, styleFeature, onEachFeature } from './maputils.js';
 import { initColors, getColorScaleForColumn } from './colorScale.js';
 
 let precinctData = {};
