@@ -81,3 +81,22 @@ html, body {
 .leaflet-interactive:focus {
   outline: none;
 }
+
+/* Logo styling */
+#logo-container {
+  position: absolute;
+  bottom: 10px; /* Adjust distance from the bottom */
+  right: 10px; /* Adjust distance from the right */
+  z-index: 1000; /* Ensure it is above the map */
+}
+
+#logo {
+  width: 200px; /* Adjust the size of the logo */
+  height: auto; /* Maintain aspect ratio */
+  opacity: 0.5; /* Slightly transparent */
+  transition: opacity 0.2s ease; /* Smooth hover effect */
+}
+
+#logo:hover {
+  opacity: 1; /* Full opacity on hover */
+}
