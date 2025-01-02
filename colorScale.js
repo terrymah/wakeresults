@@ -126,7 +126,7 @@
       }
     });
   
-    console.log('Assigned Colors:', assignedColors);
+    
   }
 
   function getColorScaleForColumn(column) {

@@ -283,7 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
       .map(candidate => partyColors[candidate.political_party] || partyColors.default)
       .join(",");
     const name = selectedElection.candidates.map(candidate => candidate.name).join(",");
-    const title = encodeURIComponent(selectedElection.name) + `(${selectedElection.year})`;
+    const title = encodeURIComponent(selectedElection.name) + ` (${selectedElection.year})`;
 
     return `map.html?file=${file}&csv=${csv}&portion=${portion}&total=${total}&color=${color}&name=${name}&title=${title}`;
   }

@@ -194,7 +194,7 @@ const title = getQueryParam('title');
 
 const showKey = getQueryParam('key', 'yes') === 'yes';
 const absoluteModeOn = getQueryParam('absoluteMode', 'no') === 'yes';
-const winnerTakeAllOn = getQueryParam('wta', 'no') === 'yes';
+let styleMode = getQueryParam('styleMode', 'gradient');
 
 const mapEnabled = getQueryParam('showMap', 'yes') === 'yes';
 
@@ -219,9 +219,10 @@ const keyElement = document.getElementById('key');
 const toggleLabelsCheckbox = document.getElementById('toggleLabels');
 const toggleTitleCheckbox = document.getElementById('toggleTitle');
 const toggleKeyCheckbox = document.getElementById('toggleKey');
-const winnerTakeAllCheckbox = document.getElementById('winnerTakeAll');
 const absoluteModeCheckbox = document.getElementById('absoluteMode');
 const toggleMapCheckbox = document.getElementById('toggleMap');
+const styleOptions = document.getElementsByName('styleMode');
+
 // Set initial visibility based on arguments
 toggleLabelsCheckbox.checked = showLabels;
 
@@ -237,13 +238,13 @@ titleElement.innerText = title;
 
 absoluteModeCheckbox.checked = absoluteModeOn;
 
-winnerTakeAllCheckbox.checked = winnerTakeAllOn;
-
 toggleMapCheckbox.checked = mapEnabled;
 
 // Map Initialization
 let backgroundLayer;
 const map = L.map('map');
+const arrowLayerGroup = L.layerGroup();
+arrowLayerGroup.addTo(map);
 
 backgroundLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
@@ -258,16 +259,33 @@ if (!mapEnabled) {
 const labelMarkers = [];
 
 // Checkbox event listeners
-winnerTakeAllCheckbox.addEventListener('change', () => {
-  if (!winnerTakeAllCheckbox.checked && absoluteModeCheckbox.checked) {
-    absoluteModeCheckbox.checked = false;
+styleOptions.forEach(radio => {
+  if (radio.value === styleMode) {
+    radio.checked = true;
+  } else {
+    radio.checked = false;
   }
-  reloadMap(precinctData);
-});
+
+  radio.addEventListener('change', event => {
+    styleMode = event.target.value; // Update the mode
+    if (styleMode !== 'winnerTakeAll') {
+      absoluteModeCheckbox.checked = false;
+    }
+    reloadMap(precinctData); // Reload the map to apply the new mode
+  });
+});  
 
 absoluteModeCheckbox.addEventListener('change', () => {
   if (absoluteModeCheckbox.checked) {
-    winnerTakeAllCheckbox.checked = true;
+    // Checkbox event listeners
+    styleOptions.forEach(radio => {
+      if (radio.value === 'winnerTakeAll') {
+        radio.checked = true;
+      } else {
+        radio.checked = false;
+      }
+    });  
+    styleMode = 'winnerTakeAll';
   }
   reloadMap(precinctData);
 });
@@ -380,6 +398,8 @@ function reloadMap(precinctData) {
     }
   });
 
+  arrowLayerGroup.clearLayers();
+
   // Clear label markers
   labelMarkers.forEach(marker => map.removeLayer(marker));
   labelMarkers.length = 0;
@@ -401,7 +421,9 @@ function reloadMap(precinctData) {
         portionColumns,
         totalColumns,
         absoluteModeCheckbox.checked,
-        winnerTakeAllCheckbox.checked
+        styleMode,
+        map,
+        arrowLayerGroup
       ),
     (feature, layer) =>
       onEachFeature(
@@ -414,7 +436,8 @@ function reloadMap(precinctData) {
         enabledColumns,
         labelMarkers,
         toggleLabelsCheckbox,
-        friendlyNameMap
+        friendlyNameMap,
+        map
       )
   );
 }

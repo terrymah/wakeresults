@@ -14,6 +14,7 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
+  background-color: white;
   box-sizing: border-box; /* Ensure padding is included in the element's width */
 }
 

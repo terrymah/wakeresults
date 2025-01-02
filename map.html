@@ -12,12 +12,25 @@
   <div id="key"></div>
   <div id="map"></div>
   <div id="footer">
-    <label><input type="checkbox" id="toggleLabels" checked /> Show Labels</label>
-    <label><input type="checkbox" id="toggleTitle" checked /> Show Title</label>
-    <label><input type="checkbox" id="toggleKey" checked /> Show Key</label>
-    <label><input type="checkbox" id="winnerTakeAll" checked /> Winner Take All</label>
-    <label><input type="checkbox" id="absoluteMode" checked /> Absolute Mode</label>
-    <label><input type="checkbox" id="toggleMap" checked /> Show Map</label>
+    <label><input type="checkbox" id="toggleLabels" checked /> Labels</label>
+    <label><input type="checkbox" id="toggleTitle" checked /> Title</label>
+    <label><input type="checkbox" id="toggleKey" checked /> Key</label>
+    <label><input type="checkbox" id="absoluteMode" checked /> Absolute</label>
+    <label><input type="checkbox" id="toggleMap" checked /> Map</label>
+    <div id="styleOptions">
+      <label>
+        <input type="radio" name="styleMode" value="gradient" checked />
+        Gradient
+      </label>
+      <label>
+        <input type="radio" name="styleMode" value="winnerTakeAll" />
+        Solid
+      </label>
+      <label>
+        <input type="radio" name="styleMode" value="arrows" />
+        Trend
+      </label>
+    </div>
   </div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
