@@ -68,7 +68,9 @@ def mutate_contest_title(title: str) -> str:
         "Recreation ": "Rec ",
         "Recreational ": "Rec ",
         " Bonds": " Bond",
-        "Wake Co. ": "Wake County "
+        "Wake Co. ": "Wake County ",
+        "Wake Co ": "Wake County ",
+        "Soil Water": "Soil and Water"
     }
 
     # Remove specific phrases

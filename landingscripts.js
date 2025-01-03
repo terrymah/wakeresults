@@ -10,7 +10,20 @@ function sortElections(elections) {
     const scopeA = determineScope(a.tags, scopePriority);
     const scopeB = determineScope(b.tags, scopePriority);
 
-    return scopeA - scopeB; // Lower priority number comes first
+    if (scopeA !== scopeB) {
+      return scopeA - scopeB; // Lower priority number comes first
+    }
+
+    // Step 3: Elections without a "ref" tag come before those with one
+    const hasRefA = a.ref ? 1 : 0; // 1 if "ref" tag exists, 0 otherwise
+    const hasRefB = b.ref ? 1 : 0;
+
+    if (hasRefA !== hasRefB) {
+      return hasRefA - hasRefB; // Elections without "ref" come first
+    }
+
+    // Step 4: Alphabetical order by name (case-insensitive)
+    return a.name.toLowerCase().localeCompare(b.name.toLowerCase());
   });
 }
 
@@ -74,6 +87,38 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 500) // 500ms delay
   );
 
+  // Reset Button Logic
+  const resetButton = document.getElementById("reset-button");
+
+  resetButton.addEventListener("click", () => {
+    // Reset all filters to "all"
+    selectedYear = "all";
+    selectedType = "all";
+    textFilter = ""; // Clear the text filter
+  
+    // Clear the text filter input
+    const textFilterInput = document.getElementById("text-filter");
+    textFilterInput.value = "";
+  
+    // Reset active states on filter buttons
+    document.querySelectorAll(".filter-option[data-type='year']").forEach(btn => {
+      btn.classList.remove("active");
+      if (btn.getAttribute("data-filter") === "all") {
+        btn.classList.add("active");
+      }
+    });
+  
+    document.querySelectorAll(".filter-option[data-type='type']").forEach(btn => {
+      btn.classList.remove("active");
+      if (btn.getAttribute("data-filter") === "all") {
+        btn.classList.add("active");
+      }
+    });
+  
+    // Reapply filters
+    applyFilters();
+  });
+  
   const jsonFiles = [
     "2016.json",
     "2017.json",
@@ -220,8 +265,14 @@ document.addEventListener("DOMContentLoaded", () => {
       // Determine the number of winners
       const pick = election.pick || 1; // Default to 1 if "pick" is not present
 
+      // Filter out "over", "under", and "Write-In" candidates for winner determination
+      const eligibleCandidates = election.candidates.filter(candidate => {
+        const name = candidate.name.toLowerCase();
+        return name !== "over" && name !== "under" && name !== "write-in";
+      });
+
       // Find the winners: sort by votes and pick the top "pick" candidates
-      const winners = election.candidates
+      const winners = eligibleCandidates
         .slice() // Create a shallow copy to avoid mutating the original array
         .sort((a, b) => b.votes - a.votes) // Sort by votes descending
         .slice(0, pick); // Get the top "pick" candidates
@@ -264,17 +315,36 @@ document.addEventListener("DOMContentLoaded", () => {
     // Clear the current dropdown options
     candidateDropdown.innerHTML = '<option value="">Select a candidate</option>';
   
-    // Populate dropdown with candidates from the filtered elections
+    // Iterate through filtered elections
     elections.forEach(election => {
-      election.candidates.forEach(candidate => {
-        const option = document.createElement("option");
-        option.value = JSON.stringify({ candidateName: candidate.name, electionYear: election.year, electionName: election.name });
-        option.textContent = `${candidate.name} (${election.year} - ${election.name})`;
-        candidateDropdown.appendChild(option);
-      });
+      // Check if the text filter matches the election name
+      const matchesElectionName = election.name.toLowerCase().includes(textFilter);
+  
+      if (matchesElectionName) {
+        // Add all candidates from the matching election
+        election.candidates.forEach(candidate => {
+          const option = document.createElement("option");
+          option.value = JSON.stringify({ candidateName: candidate.name, electionYear: election.year, electionName: election.name });
+          option.textContent = `${candidate.name} (${election.year} - ${election.name})`;
+          candidateDropdown.appendChild(option);
+        });
+      } else {
+        // If the text filter doesn't match the election name, check candidates
+        election.candidates.forEach(candidate => {
+          const matchesCandidateName = candidate.name.toLowerCase().includes(textFilter);
+  
+          if (matchesCandidateName) {
+            const option = document.createElement("option");
+            option.value = JSON.stringify({ candidateName: candidate.name, electionYear: election.year, electionName: election.name });
+            option.textContent = `${candidate.name} (${election.year} - ${election.name})`;
+            candidateDropdown.appendChild(option);
+          }
+        });
+      }
     });
   
     // Disable the Plus button if no candidate is selected
+    plusButton.disabled = true; // Reset Plus button state
     candidateDropdown.addEventListener("change", () => {
       plusButton.disabled = candidateDropdown.value === "";
     });

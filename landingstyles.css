@@ -207,3 +207,17 @@ button.link-style:hover {
   margin-top: 20px;
   font-size: 18px;
 }
+
+.reset-link {
+  background: none;
+  border: none;
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 0.9em;
+  margin-left: 10px;
+}
+
+.reset-link:hover {
+  color: darkblue;
+}
