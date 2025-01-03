@@ -1,0 +1,2636 @@
+{
+  "contests": [
+    {
+      "name": "Wake County Board of Commissioners 1",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_1.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Greg Jones",
+          "political_party": "REP",
+          "votes": 152589,
+          "total_votes": 430625,
+          "percent": 35.43,
+          "total": "all"
+        },
+        {
+          "name": "Sig Hutchinson",
+          "political_party": "DEM",
+          "votes": 264587,
+          "total_votes": 430625,
+          "percent": 61.44,
+          "total": "all"
+        },
+        {
+          "name": "Tim Jowers",
+          "political_party": "LIB",
+          "votes": 13449,
+          "total_votes": 430625,
+          "percent": 3.12,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 129,
+          "total_votes": 430625,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8399,
+          "total_votes": 430625,
+          "percent": 1.95,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 2",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_2.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Frann L. Sarpolus",
+          "political_party": "REP",
+          "votes": 155545,
+          "total_votes": 427794,
+          "percent": 36.36,
+          "total": "all"
+        },
+        {
+          "name": "Matt Calabria",
+          "political_party": "DEM",
+          "votes": 272249,
+          "total_votes": 427794,
+          "percent": 63.64,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 126,
+          "total_votes": 427794,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 11233,
+          "total_votes": 427794,
+          "percent": 2.63,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 3",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_3.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jessica Holmes",
+          "political_party": "DEM",
+          "votes": 299695,
+          "total_votes": 299695,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 139458,
+          "total_votes": 299695,
+          "percent": 46.53,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 4",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_4.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Kim Coley",
+          "political_party": "REP",
+          "votes": 163394,
+          "total_votes": 428643,
+          "percent": 38.12,
+          "total": "all"
+        },
+        {
+          "name": "Susan P. Evans",
+          "political_party": "DEM",
+          "votes": 265249,
+          "total_votes": 428643,
+          "percent": 61.88,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 101,
+          "total_votes": 428643,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10409,
+          "total_votes": 428643,
+          "percent": 2.43,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 5",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_5.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "James West",
+          "political_party": "DEM",
+          "votes": 298686,
+          "total_votes": 298686,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 140467,
+          "total_votes": 298686,
+          "percent": 47.03,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 6",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_6.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "David Blackwelder",
+          "political_party": "REP",
+          "votes": 163601,
+          "total_votes": 425841,
+          "percent": 38.42,
+          "total": "all"
+        },
+        {
+          "name": "Greg Ford",
+          "political_party": "DEM",
+          "votes": 262240,
+          "total_votes": 425841,
+          "percent": 61.58,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 350,
+          "total_votes": 425841,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 12962,
+          "total_votes": 425841,
+          "percent": 3.04,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 7",
+      "csv_file": "2018_Wake_County_Board_of_Commissioners_7.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Alex Moore",
+          "political_party": "REP",
+          "votes": 157633,
+          "total_votes": 425410,
+          "percent": 37.05,
+          "total": "all"
+        },
+        {
+          "name": "Vickie Adamson",
+          "political_party": "DEM",
+          "votes": 267777,
+          "total_votes": 425410,
+          "percent": 62.95,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 136,
+          "total_votes": 425410,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 13607,
+          "total_votes": 425410,
+          "percent": 3.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Clerk of Superior Court",
+      "csv_file": "2018_Wake_County_Clerk_of_Superior_Court.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Blair Williams",
+          "political_party": "DEM",
+          "votes": 253061,
+          "total_votes": 428159,
+          "percent": 59.1,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer Knox",
+          "political_party": "REP",
+          "votes": 175098,
+          "total_votes": 428159,
+          "percent": 40.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 77,
+          "total_votes": 428159,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10917,
+          "total_votes": 428159,
+          "percent": 2.55,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Soil and Water",
+      "csv_file": "2018_Wake_Soil_and_Water.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "David P. Adams",
+          "political_party": "NON",
+          "votes": 79158,
+          "total_votes": 564483,
+          "percent": 14.02,
+          "total": "all"
+        },
+        {
+          "name": "Ian McMillan",
+          "political_party": "NON",
+          "votes": 88620,
+          "total_votes": 564483,
+          "percent": 15.7,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer (Jenna) Austin Wadsworth",
+          "political_party": "NON",
+          "votes": 195733,
+          "total_votes": 564483,
+          "percent": 34.67,
+          "total": "all"
+        },
+        {
+          "name": "Jonathan Garza",
+          "political_party": "NON",
+          "votes": 84547,
+          "total_votes": 564483,
+          "percent": 14.98,
+          "total": "all"
+        },
+        {
+          "name": "Nervahna Crew",
+          "political_party": "NON",
+          "votes": 116425,
+          "total_votes": 564483,
+          "percent": 20.63,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 706,
+          "total_votes": 564483,
+          "percent": 0.13,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 308219,
+          "total_votes": 564483,
+          "percent": 54.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 1",
+      "csv_file": "2018_Wake_County_Board_of_Education_1.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donald Mial",
+          "political_party": "NON",
+          "votes": 14566,
+          "total_votes": 43506,
+          "percent": 33.48,
+          "total": "all"
+        },
+        {
+          "name": "Heather Scott",
+          "political_party": "NON",
+          "votes": 17163,
+          "total_votes": 43506,
+          "percent": 39.45,
+          "total": "all"
+        },
+        {
+          "name": "Jim Thompson",
+          "political_party": "NON",
+          "votes": 11777,
+          "total_votes": 43506,
+          "percent": 27.07,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 85,
+          "total_votes": 43506,
+          "percent": 0.2,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8321,
+          "total_votes": 43506,
+          "percent": 19.13,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 2",
+      "csv_file": "2018_Wake_County_Board_of_Education_2.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Monika Johnson-Hostler",
+          "political_party": "NON",
+          "votes": 27114,
+          "total_votes": 27114,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 14,
+          "total_votes": 27114,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 18074,
+          "total_votes": 27114,
+          "percent": 66.66,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 3",
+      "csv_file": "2018_Wake_County_Board_of_Education_3.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Roxie Cash",
+          "political_party": "NON",
+          "votes": 23204,
+          "total_votes": 42567,
+          "percent": 54.51,
+          "total": "all"
+        },
+        {
+          "name": "Shaun Pollenz",
+          "political_party": "NON",
+          "votes": 19363,
+          "total_votes": 42567,
+          "percent": 45.49,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 49,
+          "total_votes": 42567,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8240,
+          "total_votes": 42567,
+          "percent": 19.36,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 4",
+      "csv_file": "2018_Wake_County_Board_of_Education_4.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Keith A. Sutton",
+          "political_party": "NON",
+          "votes": 28577,
+          "total_votes": 28577,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 28577,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8614,
+          "total_votes": 28577,
+          "percent": 30.14,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 5",
+      "csv_file": "2018_Wake_County_Board_of_Education_5.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Martin",
+          "political_party": "NON",
+          "votes": 23008,
+          "total_votes": 32875,
+          "percent": 69.99,
+          "total": "all"
+        },
+        {
+          "name": "Logan T. Martin",
+          "political_party": "NON",
+          "votes": 9867,
+          "total_votes": 32875,
+          "percent": 30.01,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 42,
+          "total_votes": 32875,
+          "percent": 0.13,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7485,
+          "total_votes": 32875,
+          "percent": 22.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 6",
+      "csv_file": "2018_Wake_County_Board_of_Education_6.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Kushner",
+          "political_party": "NON",
+          "votes": 32969,
+          "total_votes": 32969,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 17,
+          "total_votes": 32969,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 17056,
+          "total_votes": 32969,
+          "percent": 51.73,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 7",
+      "csv_file": "2018_Wake_County_Board_of_Education_7.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Kathy Hartenstine",
+          "political_party": "NON",
+          "votes": 28813,
+          "total_votes": 28813,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 28813,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 19339,
+          "total_votes": 28813,
+          "percent": 67.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 8",
+      "csv_file": "2018_Wake_County_Board_of_Education_8.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bob Melone",
+          "political_party": "NON",
+          "votes": 16702,
+          "total_votes": 49778,
+          "percent": 33.55,
+          "total": "all"
+        },
+        {
+          "name": "John M. Crowe",
+          "political_party": "NON",
+          "votes": 2303,
+          "total_votes": 49778,
+          "percent": 4.63,
+          "total": "all"
+        },
+        {
+          "name": "Lindsay Mahaffey",
+          "political_party": "NON",
+          "votes": 30773,
+          "total_votes": 49778,
+          "percent": 61.82,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 82,
+          "total_votes": 49778,
+          "percent": 0.16,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9333,
+          "total_votes": 49778,
+          "percent": 18.75,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 9",
+      "csv_file": "2018_Wake_County_Board_of_Education_9.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bill Fletcher",
+          "political_party": "NON",
+          "votes": 26101,
+          "total_votes": 26101,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 11,
+          "total_votes": 26101,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 21967,
+          "total_votes": 26101,
+          "percent": 84.16,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Sheriff",
+      "csv_file": "2018_Wake_County_Sheriff.csv",
+      "year": 2018,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donnie Harrison",
+          "political_party": "REP",
+          "votes": 195240,
+          "total_votes": 431377,
+          "percent": 45.26,
+          "total": "all"
+        },
+        {
+          "name": "Gerald M. Baker",
+          "political_party": "DEM",
+          "votes": 236137,
+          "total_votes": 431377,
+          "percent": 54.74,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 167,
+          "total_votes": 431377,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7609,
+          "total_votes": 431377,
+          "percent": 1.76,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 11",
+      "csv_file": "2018_NC_House_11.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Allison Dahle",
+          "political_party": "DEM",
+          "votes": 23266,
+          "total_votes": 33611,
+          "percent": 69.22,
+          "total": "all"
+        },
+        {
+          "name": "Travis Groo",
+          "political_party": "LIB",
+          "votes": 1166,
+          "total_votes": 33611,
+          "percent": 3.47,
+          "total": "all"
+        },
+        {
+          "name": "Tyler Brooks",
+          "political_party": "REP",
+          "votes": 9179,
+          "total_votes": 33611,
+          "percent": 27.31,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 7,
+          "total_votes": 33611,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 523,
+          "total_votes": 33611,
+          "percent": 1.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 33",
+      "csv_file": "2018_NC_House_33.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Anne Murtha",
+          "political_party": "REP",
+          "votes": 6468,
+          "total_votes": 30368,
+          "percent": 21.3,
+          "total": "all"
+        },
+        {
+          "name": "Rosa U. Gill",
+          "political_party": "DEM",
+          "votes": 23900,
+          "total_votes": 30368,
+          "percent": 78.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 14,
+          "total_votes": 30368,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 562,
+          "total_votes": 30368,
+          "percent": 1.85,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 34",
+      "csv_file": "2018_NC_House_34.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Cap Hayes",
+          "political_party": "LIB",
+          "votes": 970,
+          "total_votes": 40221,
+          "percent": 2.41,
+          "total": "all"
+        },
+        {
+          "name": "Catherine Whiteford",
+          "political_party": "REP",
+          "votes": 12903,
+          "total_votes": 40221,
+          "percent": 32.08,
+          "total": "all"
+        },
+        {
+          "name": "Grier Martin",
+          "political_party": "DEM",
+          "votes": 26348,
+          "total_votes": 40221,
+          "percent": 65.51,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 31,
+          "total_votes": 40221,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 554,
+          "total_votes": 40221,
+          "percent": 1.38,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 35",
+      "csv_file": "2018_NC_House_35.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Malone",
+          "political_party": "REP",
+          "votes": 20668,
+          "total_votes": 45387,
+          "percent": 45.54,
+          "total": "all"
+        },
+        {
+          "name": "Michael Nelson",
+          "political_party": "LIB",
+          "votes": 1532,
+          "total_votes": 45387,
+          "percent": 3.38,
+          "total": "all"
+        },
+        {
+          "name": "Terence Everitt",
+          "political_party": "DEM",
+          "votes": 23187,
+          "total_votes": 45387,
+          "percent": 51.09,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 17,
+          "total_votes": 45387,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 537,
+          "total_votes": 45387,
+          "percent": 1.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 36",
+      "csv_file": "2018_NC_House_36.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Julie von Haefen",
+          "political_party": "DEM",
+          "votes": 21551,
+          "total_votes": 43523,
+          "percent": 49.52,
+          "total": "all"
+        },
+        {
+          "name": "Nelson Dollar",
+          "political_party": "REP",
+          "votes": 20667,
+          "total_votes": 43523,
+          "percent": 47.49,
+          "total": "all"
+        },
+        {
+          "name": "Robyn Haley Pegram",
+          "political_party": "LIB",
+          "votes": 1305,
+          "total_votes": 43523,
+          "percent": 3.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 22,
+          "total_votes": 43523,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 442,
+          "total_votes": 43523,
+          "percent": 1.02,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 37",
+      "csv_file": "2018_NC_House_37.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Guy Meilleur",
+          "political_party": "LIB",
+          "votes": 1018,
+          "total_votes": 45680,
+          "percent": 2.23,
+          "total": "all"
+        },
+        {
+          "name": "John B. Adcock",
+          "political_party": "REP",
+          "votes": 21859,
+          "total_votes": 45680,
+          "percent": 47.85,
+          "total": "all"
+        },
+        {
+          "name": "Mrs. Sydney Batch",
+          "political_party": "DEM",
+          "votes": 22803,
+          "total_votes": 45680,
+          "percent": 49.92,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 13,
+          "total_votes": 45680,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 477,
+          "total_votes": 45680,
+          "percent": 1.04,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 38",
+      "csv_file": "2018_NC_House_38.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Bobby Yates Emory",
+          "political_party": "LIB",
+          "votes": 768,
+          "total_votes": 29285,
+          "percent": 2.62,
+          "total": "all"
+        },
+        {
+          "name": "Ken Bagnal",
+          "political_party": "REP",
+          "votes": 4532,
+          "total_votes": 29285,
+          "percent": 15.48,
+          "total": "all"
+        },
+        {
+          "name": "Yvonne Lewis Holley",
+          "political_party": "DEM",
+          "votes": 23985,
+          "total_votes": 29285,
+          "percent": 81.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 14,
+          "total_votes": 29285,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 482,
+          "total_votes": 29285,
+          "percent": 1.65,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 39",
+      "csv_file": "2018_NC_House_39.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Darren Jackson",
+          "political_party": "DEM",
+          "votes": 24172,
+          "total_votes": 36402,
+          "percent": 66.4,
+          "total": "all"
+        },
+        {
+          "name": "Martin Matuszewski",
+          "political_party": "LIB",
+          "votes": 789,
+          "total_votes": 36402,
+          "percent": 2.17,
+          "total": "all"
+        },
+        {
+          "name": "Rhonda Allen",
+          "political_party": "REP",
+          "votes": 11441,
+          "total_votes": 36402,
+          "percent": 31.43,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 38,
+          "total_votes": 36402,
+          "percent": 0.1,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 448,
+          "total_votes": 36402,
+          "percent": 1.23,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 40",
+      "csv_file": "2018_NC_House_40.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "David Ulmer",
+          "political_party": "LIB",
+          "votes": 1767,
+          "total_votes": 47216,
+          "percent": 3.74,
+          "total": "all"
+        },
+        {
+          "name": "Joe John",
+          "political_party": "DEM",
+          "votes": 24193,
+          "total_votes": 47216,
+          "percent": 51.24,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Avila",
+          "political_party": "REP",
+          "votes": 21256,
+          "total_votes": 47216,
+          "percent": 45.02,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 16,
+          "total_votes": 47216,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 512,
+          "total_votes": 47216,
+          "percent": 1.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 41",
+      "csv_file": "2018_NC_House_41.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Emmanuel Wilder",
+          "political_party": "REP",
+          "votes": 13262,
+          "total_votes": 39893,
+          "percent": 33.24,
+          "total": "all"
+        },
+        {
+          "name": "Gale Adcock",
+          "political_party": "DEM",
+          "votes": 26631,
+          "total_votes": 39893,
+          "percent": 66.76,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 12,
+          "total_votes": 39893,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 736,
+          "total_votes": 39893,
+          "percent": 1.84,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 49",
+      "csv_file": "2018_NC_House_49.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Cynthia Ball",
+          "political_party": "DEM",
+          "votes": 27538,
+          "total_votes": 41553,
+          "percent": 66.27,
+          "total": "all"
+        },
+        {
+          "name": "David Robertson",
+          "political_party": "REP",
+          "votes": 12929,
+          "total_votes": 41553,
+          "percent": 31.11,
+          "total": "all"
+        },
+        {
+          "name": "Jonathan Horst",
+          "political_party": "LIB",
+          "votes": 1086,
+          "total_votes": 41553,
+          "percent": 2.61,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 27,
+          "total_votes": 41553,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 530,
+          "total_votes": 41553,
+          "percent": 1.28,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 14",
+      "csv_file": "2018_NC_State_Senate_14.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dan Blue",
+          "political_party": "DEM",
+          "votes": 55035,
+          "total_votes": 77124,
+          "percent": 71.36,
+          "total": "all"
+        },
+        {
+          "name": "Richard Haygood",
+          "political_party": "LIB",
+          "votes": 2138,
+          "total_votes": 77124,
+          "percent": 2.77,
+          "total": "all"
+        },
+        {
+          "name": "Sandy Andrews",
+          "political_party": "REP",
+          "votes": 19951,
+          "total_votes": 77124,
+          "percent": 25.87,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 31,
+          "total_votes": 77124,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 671,
+          "total_votes": 77124,
+          "percent": 0.87,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 15",
+      "csv_file": "2018_NC_State_Senate_15.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Alan David Michael",
+          "political_party": "REP",
+          "votes": 19365,
+          "total_votes": 83175,
+          "percent": 23.28,
+          "total": "all"
+        },
+        {
+          "name": "Brian Lewis",
+          "political_party": "LIB",
+          "votes": 3005,
+          "total_votes": 83175,
+          "percent": 3.61,
+          "total": "all"
+        },
+        {
+          "name": "Jay J. Chaudhuri",
+          "political_party": "DEM",
+          "votes": 60805,
+          "total_votes": 83175,
+          "percent": 73.1,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 16,
+          "total_votes": 83175,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 1178,
+          "total_votes": 83175,
+          "percent": 1.42,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 16",
+      "csv_file": "2018_NC_State_Senate_16.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Irving",
+          "political_party": "LIB",
+          "votes": 3382,
+          "total_votes": 97025,
+          "percent": 3.49,
+          "total": "all"
+        },
+        {
+          "name": "Paul Smith",
+          "political_party": "REP",
+          "votes": 30308,
+          "total_votes": 97025,
+          "percent": 31.24,
+          "total": "all"
+        },
+        {
+          "name": "Wiley Nickel",
+          "political_party": "DEM",
+          "votes": 63335,
+          "total_votes": 97025,
+          "percent": 65.28,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 69,
+          "total_votes": 97025,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 868,
+          "total_votes": 97025,
+          "percent": 0.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 17",
+      "csv_file": "2018_NC_State_Senate_17.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Bruce Basson",
+          "political_party": "LIB",
+          "votes": 3016,
+          "total_votes": 98897,
+          "percent": 3.05,
+          "total": "all"
+        },
+        {
+          "name": "Sam Searcy",
+          "political_party": "DEM",
+          "votes": 50040,
+          "total_votes": 98897,
+          "percent": 50.6,
+          "total": "all"
+        },
+        {
+          "name": "Tamara Barringer",
+          "political_party": "REP",
+          "votes": 45841,
+          "total_votes": 98897,
+          "percent": 46.35,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 58,
+          "total_votes": 98897,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 896,
+          "total_votes": 98897,
+          "percent": 0.91,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 18",
+      "csv_file": "2018_NC_State_Senate_18.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brad Hessel",
+          "political_party": "LIB",
+          "votes": 2196,
+          "total_votes": 78459,
+          "percent": 2.8,
+          "total": "all"
+        },
+        {
+          "name": "John Alexander",
+          "political_party": "REP",
+          "votes": 38421,
+          "total_votes": 78459,
+          "percent": 48.97,
+          "total": "all"
+        },
+        {
+          "name": "Mack Paul",
+          "political_party": "DEM",
+          "votes": 37842,
+          "total_votes": 78459,
+          "percent": 48.23,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 41,
+          "total_votes": 78459,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 645,
+          "total_votes": 78459,
+          "percent": 0.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 2",
+      "csv_file": "2018_US_House_2.csv",
+      "year": 2018,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "George Holding",
+          "political_party": "REP",
+          "votes": 85151,
+          "total_votes": 178335,
+          "percent": 47.75,
+          "total": "all"
+        },
+        {
+          "name": "Jeff Matemu",
+          "political_party": "LIB",
+          "votes": 5593,
+          "total_votes": 178335,
+          "percent": 3.14,
+          "total": "all"
+        },
+        {
+          "name": "Linda Coleman",
+          "political_party": "DEM",
+          "votes": 87591,
+          "total_votes": 178335,
+          "percent": 49.12,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 61,
+          "total_votes": 178335,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 977,
+          "total_votes": 178335,
+          "percent": 0.55,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 4",
+      "csv_file": "2018_US_House_4.csv",
+      "year": 2018,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Barbara Howe",
+          "political_party": "LIB",
+          "votes": 9543,
+          "total_votes": 258163,
+          "percent": 3.7,
+          "total": "all"
+        },
+        {
+          "name": "David Price",
+          "political_party": "DEM",
+          "votes": 182062,
+          "total_votes": 258163,
+          "percent": 70.52,
+          "total": "all"
+        },
+        {
+          "name": "Steve A. (Von) Loor",
+          "political_party": "REP",
+          "votes": 66558,
+          "total_votes": 258163,
+          "percent": 25.78,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 141,
+          "total_votes": 258163,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 1476,
+          "total_votes": 258163,
+          "percent": 0.57,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Parks and Rec Bond",
+      "csv_file": "2018_Wake_County_Parks_and_Rec_Bond.csv",
+      "year": 2018,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 136310,
+          "total_votes": 426329,
+          "percent": 31.97,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 290019,
+          "total_votes": 426329,
+          "percent": 68.03,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 184,
+          "total_votes": 426329,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 12640,
+          "total_votes": 426329,
+          "percent": 2.96,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Transportation Bond",
+      "csv_file": "2018_Holly_Springs_Transportation_Bond.csv",
+      "year": 2018,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 5667,
+          "total_votes": 14161,
+          "percent": 40.02,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 8494,
+          "total_votes": 14161,
+          "percent": 59.98,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 5,
+          "total_votes": 14161,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 375,
+          "total_votes": 14161,
+          "percent": 2.65,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Community College Bond",
+      "csv_file": "2018_Wake_County_Community_College_Bond.csv",
+      "year": 2018,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 148324,
+          "total_votes": 424603,
+          "percent": 34.93,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 276279,
+          "total_votes": 424603,
+          "percent": 65.07,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 254,
+          "total_votes": 424603,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 14296,
+          "total_votes": 424603,
+          "percent": 3.37,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County School Bond",
+      "csv_file": "2018_Wake_County_School_Bond.csv",
+      "year": 2018,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 141528,
+          "total_votes": 425297,
+          "percent": 33.28,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 283769,
+          "total_votes": 425297,
+          "percent": 66.72,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 581,
+          "total_votes": 425297,
+          "percent": 0.14,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 13275,
+          "total_votes": 425297,
+          "percent": 3.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 1",
+      "csv_file": "2018_NC_Court_of_Appeals_Judge_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Andrew T. Heath",
+          "political_party": "REP",
+          "votes": 160917,
+          "total_votes": 428556,
+          "percent": 37.55,
+          "total": "all"
+        },
+        {
+          "name": "John S. Arrowood",
+          "political_party": "DEM",
+          "votes": 267639,
+          "total_votes": 428556,
+          "percent": 62.45,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 44,
+          "total_votes": 428556,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10553,
+          "total_votes": 428556,
+          "percent": 2.46,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 2",
+      "csv_file": "2018_NC_Court_of_Appeals_Judge_Seat_2.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Jefferson G. Griffin",
+          "political_party": "REP",
+          "votes": 126666,
+          "total_votes": 428311,
+          "percent": 29.57,
+          "total": "all"
+        },
+        {
+          "name": "Sandra Alice Ray",
+          "political_party": "REP",
+          "votes": 45711,
+          "total_votes": 428311,
+          "percent": 10.67,
+          "total": "all"
+        },
+        {
+          "name": "Tobias (Toby) Hampson",
+          "political_party": "DEM",
+          "votes": 255934,
+          "total_votes": 428311,
+          "percent": 59.75,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 920,
+          "total_votes": 428311,
+          "percent": 0.21,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9922,
+          "total_votes": 428311,
+          "percent": 2.32,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 3",
+      "csv_file": "2018_NC_Court_of_Appeals_Judge_Seat_3.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Allegra Katherine Collins",
+          "political_party": "DEM",
+          "votes": 259521,
+          "total_votes": 429410,
+          "percent": 60.44,
+          "total": "all"
+        },
+        {
+          "name": "Chuck Kitchen",
+          "political_party": "REP",
+          "votes": 150179,
+          "total_votes": 429410,
+          "percent": 34.97,
+          "total": "all"
+        },
+        {
+          "name": "Michael Monaco, Sr.",
+          "political_party": "LIB",
+          "votes": 19710,
+          "total_votes": 429410,
+          "percent": 4.59,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 110,
+          "total_votes": 429410,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9633,
+          "total_votes": 429410,
+          "percent": 2.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Supreme Court Associate Justice Seat 1",
+      "csv_file": "2018_NC_Supreme_Court_Associate_Justice_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Anita Earls",
+          "political_party": "DEM",
+          "votes": 261231,
+          "total_votes": 430216,
+          "percent": 60.72,
+          "total": "all"
+        },
+        {
+          "name": "Barbara Jackson",
+          "political_party": "REP",
+          "votes": 130147,
+          "total_votes": 430216,
+          "percent": 30.25,
+          "total": "all"
+        },
+        {
+          "name": "Christopher (Chris) Anglin",
+          "political_party": "REP",
+          "votes": 38838,
+          "total_votes": 430216,
+          "percent": 9.03,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 461,
+          "total_votes": 430216,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8476,
+          "total_votes": 430216,
+          "percent": 1.97,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10D Seat 1",
+      "csv_file": "2018_NC_Superior_Court_Judge_10D_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Keith Gregory",
+          "political_party": "DEM",
+          "votes": 48873,
+          "total_votes": 69171,
+          "percent": 70.66,
+          "total": "all"
+        },
+        {
+          "name": "Matt Van Sickle",
+          "political_party": "UNA",
+          "votes": 20298,
+          "total_votes": 69171,
+          "percent": 29.34,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 20,
+          "total_votes": 69171,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9678,
+          "total_votes": 69171,
+          "percent": 13.99,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10B Seat 1",
+      "csv_file": "2018_NC_Superior_Court_Judge_10B_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Vince Rozier, Jr.",
+          "political_party": "DEM",
+          "votes": 42488,
+          "total_votes": 42488,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9672,
+          "total_votes": 42488,
+          "percent": 22.76,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10A Seat 1",
+      "csv_file": "2018_NC_District_Court_Judge_District_10A_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Michael J. Denning",
+          "political_party": "REP",
+          "votes": 43695,
+          "total_votes": 43695,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 33114,
+          "total_votes": 43695,
+          "percent": 75.78,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10B Seat 1",
+      "csv_file": "2018_NC_District_Court_Judge_District_10B_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Craig Croom",
+          "political_party": "DEM",
+          "votes": 37652,
+          "total_votes": 37652,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 13287,
+          "total_votes": 37652,
+          "percent": 35.29,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 1",
+      "csv_file": "2018_NC_District_Court_Judge_District_10D_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Margaret Phillips Eagles",
+          "political_party": "DEM",
+          "votes": 86910,
+          "total_votes": 86910,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 48206,
+          "total_votes": 86910,
+          "percent": 55.47,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 2",
+      "csv_file": "2018_NC_District_Court_Judge_District_10D_Seat_2.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Evan Charles Schreier",
+          "political_party": "REP",
+          "votes": 8685,
+          "total_votes": 126981,
+          "percent": 6.84,
+          "total": "all"
+        },
+        {
+          "name": "J. Brian Ratledge",
+          "political_party": "REP",
+          "votes": 38615,
+          "total_votes": 126981,
+          "percent": 30.41,
+          "total": "all"
+        },
+        {
+          "name": "Nicolette Fulton",
+          "political_party": "UNA",
+          "votes": 9744,
+          "total_votes": 126981,
+          "percent": 7.67,
+          "total": "all"
+        },
+        {
+          "name": "Rebecca Anne Edwards",
+          "political_party": "DEM",
+          "votes": 36239,
+          "total_votes": 126981,
+          "percent": 28.54,
+          "total": "all"
+        },
+        {
+          "name": "Walter Rand",
+          "political_party": "DEM",
+          "votes": 33698,
+          "total_votes": 126981,
+          "percent": 26.54,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2993,
+          "total_votes": 126981,
+          "percent": 2.36,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 5142,
+          "total_votes": 126981,
+          "percent": 4.05,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 3",
+      "csv_file": "2018_NC_District_Court_Judge_District_10D_Seat_3.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Ned W. Mangum",
+          "political_party": "REP",
+          "votes": 69004,
+          "total_votes": 69004,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 66112,
+          "total_votes": 69004,
+          "percent": 95.81,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10E Seat 1",
+      "csv_file": "2018_NC_District_Court_Judge_District_10E_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Ms. Sam Hamadani",
+          "political_party": "DEM",
+          "votes": 37081,
+          "total_votes": 37081,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10951,
+          "total_votes": 37081,
+          "percent": 29.53,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10E Seat 2",
+      "csv_file": "2018_NC_District_Court_Judge_District_10E_Seat_2.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Louis Meyer",
+          "political_party": "DEM",
+          "votes": 37294,
+          "total_votes": 37294,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10738,
+          "total_votes": 37294,
+          "percent": 28.79,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10F Seat 1",
+      "csv_file": "2018_NC_District_Court_Judge_District_10F_Seat_1.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Kris D. Bailey",
+          "political_party": "REP",
+          "votes": 36179,
+          "total_votes": 36179,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 34001,
+          "total_votes": 36179,
+          "percent": 93.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Protect Right To Hunt and Fish",
+      "csv_file": "2018_Protect_Right_To_Hunt_and_Fish.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 252686,
+          "total_votes": 430517,
+          "percent": 58.69,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 177831,
+          "total_votes": 430517,
+          "percent": 41.31,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 463,
+          "total_votes": 430517,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8173,
+          "total_votes": 430517,
+          "percent": 1.9,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Strengthening Victims Rights",
+      "csv_file": "2018_Strengthening_Victims_Rights.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 218706,
+          "total_votes": 430516,
+          "percent": 50.8,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 211810,
+          "total_votes": 430516,
+          "percent": 49.2,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 385,
+          "total_votes": 430516,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8252,
+          "total_votes": 430516,
+          "percent": 1.92,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Bipartisan Board of Ethics and Elections",
+      "csv_file": "2018_Bipartisan_Board_of_Ethics_and_Elections.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 298954,
+          "total_votes": 423621,
+          "percent": 70.57,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 124667,
+          "total_votes": 423621,
+          "percent": 29.43,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 202,
+          "total_votes": 423621,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 15330,
+          "total_votes": 423621,
+          "percent": 3.62,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Nonpartisan Judicial Merit Commission",
+      "csv_file": "2018_Nonpartisan_Judicial_Merit_Commission.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 317759,
+          "total_votes": 422635,
+          "percent": 75.19,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 104876,
+          "total_votes": 422635,
+          "percent": 24.81,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 274,
+          "total_votes": 422635,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 16244,
+          "total_votes": 422635,
+          "percent": 3.84,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Maximum Income Tax Rate of 7.0%",
+      "csv_file": "2018_Maximum_Income_Tax_Rate_of_7.0%.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 239040,
+          "total_votes": 431565,
+          "percent": 55.39,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 192525,
+          "total_votes": 431565,
+          "percent": 44.61,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 306,
+          "total_votes": 431565,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7282,
+          "total_votes": 431565,
+          "percent": 1.69,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Require Photo Id To Vote",
+      "csv_file": "2018_Require_Photo_Id_To_Vote.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 247199,
+          "total_votes": 434223,
+          "percent": 56.93,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 187024,
+          "total_votes": 434223,
+          "percent": 43.07,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 236,
+          "total_votes": 434223,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 4694,
+          "total_votes": 434223,
+          "percent": 1.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "District Attorney District 11",
+      "csv_file": "2018_District_Attorney_District_11.csv",
+      "year": 2018,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "John Walter Bryant",
+          "political_party": "REP",
+          "votes": 158730,
+          "total_votes": 431693,
+          "percent": 36.77,
+          "total": "all"
+        },
+        {
+          "name": "Nancy (Lorrin) Freeman",
+          "political_party": "DEM",
+          "votes": 272963,
+          "total_votes": 431693,
+          "percent": 63.23,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 116,
+          "total_votes": 431693,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7344,
+          "total_votes": 431693,
+          "percent": 1.7,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

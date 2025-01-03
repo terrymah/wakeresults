@@ -1,0 +1,1266 @@
+{
+  "contests": [
+    {
+      "name": "Apex Mayor",
+      "csv_file": "2023_Apex_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jacques K. Gilbert",
+          "political_party": "NON",
+          "votes": 7586,
+          "total_votes": 8047,
+          "percent": 94.27,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 461,
+          "total_votes": 8047,
+          "percent": 5.73,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1176,
+          "total_votes": 8047,
+          "percent": 14.61,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Apex Town Council",
+      "csv_file": "2023_Apex_Town_Council.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Arno Zegerman",
+          "political_party": "NON",
+          "votes": 3991,
+          "total_votes": 17588,
+          "percent": 22.69,
+          "total": "all"
+        },
+        {
+          "name": "Dylan Hale",
+          "political_party": "NON",
+          "votes": 3195,
+          "total_votes": 17588,
+          "percent": 18.17,
+          "total": "all"
+        },
+        {
+          "name": "Gregory Marcos (Gregorio) Lyon",
+          "political_party": "NON",
+          "votes": 2798,
+          "total_votes": 17588,
+          "percent": 15.91,
+          "total": "all"
+        },
+        {
+          "name": "Tayon Williams Dancy",
+          "political_party": "NON",
+          "votes": 2151,
+          "total_votes": 17588,
+          "percent": 12.23,
+          "total": "all"
+        },
+        {
+          "name": "Terry Mahaffey",
+          "political_party": "NON",
+          "votes": 5415,
+          "total_votes": 17588,
+          "percent": 30.79,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 38,
+          "total_votes": 17588,
+          "percent": 0.22,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 17588,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 814,
+          "total_votes": 17588,
+          "percent": 4.63,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Cary Town Council D",
+      "csv_file": "2023_Cary_Town_Council_D.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Rachel Jordan",
+          "political_party": "NON",
+          "votes": 2057,
+          "total_votes": 4443,
+          "percent": 46.3,
+          "total": "all"
+        },
+        {
+          "name": "Sarika Bansal",
+          "political_party": "NON",
+          "votes": 2386,
+          "total_votes": 4443,
+          "percent": 53.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 4443,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 4443,
+          "percent": 0.05,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Mayor",
+      "csv_file": "2023_Fuquay-Varina_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Blake Massengill",
+          "political_party": "NON",
+          "votes": 3979,
+          "total_votes": 4703,
+          "percent": 84.61,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 724,
+          "total_votes": 4703,
+          "percent": 15.39,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 4703,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1391,
+          "total_votes": 4703,
+          "percent": 29.58,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Board of Commissioners",
+      "csv_file": "2023_Fuquay-Varina_Board_of_Commissioners.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Charlie Adcock",
+          "political_party": "NON",
+          "votes": 3077,
+          "total_votes": 14806,
+          "percent": 20.78,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Gardner",
+          "political_party": "NON",
+          "votes": 3396,
+          "total_votes": 14806,
+          "percent": 22.94,
+          "total": "all"
+        },
+        {
+          "name": "Mike Ferig",
+          "political_party": "NON",
+          "votes": 2258,
+          "total_votes": 14806,
+          "percent": 15.25,
+          "total": "all"
+        },
+        {
+          "name": "Nolan Perry",
+          "political_party": "NON",
+          "votes": 2773,
+          "total_votes": 14806,
+          "percent": 18.73,
+          "total": "all"
+        },
+        {
+          "name": "William (Bill) Harris",
+          "political_party": "NON",
+          "votes": 3174,
+          "total_votes": 14806,
+          "percent": 21.44,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 128,
+          "total_votes": 14806,
+          "percent": 0.86,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 12,
+          "total_votes": 14806,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 3435,
+          "total_votes": 14806,
+          "percent": 23.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Mayor",
+      "csv_file": "2023_Garner_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Buddy Gupton",
+          "political_party": "NON",
+          "votes": 1956,
+          "total_votes": 2088,
+          "percent": 93.68,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 132,
+          "total_votes": 2088,
+          "percent": 6.32,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 315,
+          "total_votes": 2088,
+          "percent": 15.09,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Town Council",
+      "csv_file": "2023_Garner_Town_Council.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Demian Dellinger",
+          "political_party": "NON",
+          "votes": 1639,
+          "total_votes": 6015,
+          "percent": 27.25,
+          "total": "all"
+        },
+        {
+          "name": "Elmo Vance",
+          "political_party": "NON",
+          "votes": 1851,
+          "total_votes": 6015,
+          "percent": 30.77,
+          "total": "all"
+        },
+        {
+          "name": "Phil Matthews",
+          "political_party": "NON",
+          "votes": 1347,
+          "total_votes": 6015,
+          "percent": 22.39,
+          "total": "all"
+        },
+        {
+          "name": "Rex Whaley",
+          "political_party": "NON",
+          "votes": 1136,
+          "total_votes": 6015,
+          "percent": 18.89,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 42,
+          "total_votes": 6015,
+          "percent": 0.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 6,
+          "total_votes": 6015,
+          "percent": 0.1,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1136,
+          "total_votes": 6015,
+          "percent": 18.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Town Council",
+      "csv_file": "2023_Holly_Springs_Town_Council.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Dennis",
+          "political_party": "NON",
+          "votes": 3254,
+          "total_votes": 14377,
+          "percent": 22.63,
+          "total": "all"
+        },
+        {
+          "name": "Chris Deshazor",
+          "political_party": "NON",
+          "votes": 3904,
+          "total_votes": 14377,
+          "percent": 27.15,
+          "total": "all"
+        },
+        {
+          "name": "Danielle Hewetson",
+          "political_party": "NON",
+          "votes": 3485,
+          "total_votes": 14377,
+          "percent": 24.24,
+          "total": "all"
+        },
+        {
+          "name": "Jack Turnwald",
+          "political_party": "NON",
+          "votes": 3168,
+          "total_votes": 14377,
+          "percent": 22.04,
+          "total": "all"
+        },
+        {
+          "name": "Staci Almquist",
+          "political_party": "NON",
+          "votes": 533,
+          "total_votes": 14377,
+          "percent": 3.71,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 33,
+          "total_votes": 14377,
+          "percent": 0.23,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 6,
+          "total_votes": 14377,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 912,
+          "total_votes": 14377,
+          "percent": 6.34,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Mayor",
+      "csv_file": "2023_Knightdale_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jessica Day",
+          "political_party": "NON",
+          "votes": 767,
+          "total_votes": 815,
+          "percent": 94.11,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 48,
+          "total_votes": 815,
+          "percent": 5.89,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 44,
+          "total_votes": 815,
+          "percent": 5.4,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Town Council",
+      "csv_file": "2023_Knightdale_Town_Council.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ben McDonald",
+          "political_party": "NON",
+          "votes": 642,
+          "total_votes": 1341,
+          "percent": 47.87,
+          "total": "all"
+        },
+        {
+          "name": "Stephen Morgan",
+          "political_party": "NON",
+          "votes": 642,
+          "total_votes": 1341,
+          "percent": 47.87,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 57,
+          "total_votes": 1341,
+          "percent": 4.25,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 290,
+          "total_votes": 1341,
+          "percent": 21.63,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council At-Large",
+      "csv_file": "2023_Morrisville_Town_Council_At-Large.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Patty W. Cheng",
+          "political_party": "NON",
+          "votes": 510,
+          "total_votes": 2196,
+          "percent": 23.22,
+          "total": "all"
+        },
+        {
+          "name": "Satish S. Garimella",
+          "political_party": "NON",
+          "votes": 1665,
+          "total_votes": 2196,
+          "percent": 75.82,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 21,
+          "total_votes": 2196,
+          "percent": 0.96,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 81,
+          "total_votes": 2196,
+          "percent": 3.69,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 1",
+      "csv_file": "2023_Morrisville_Town_Council_1.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Anne Robotti",
+          "political_party": "NON",
+          "votes": 1300,
+          "total_votes": 2257,
+          "percent": 57.6,
+          "total": "all"
+        },
+        {
+          "name": "Subba Reddy Madireddy",
+          "political_party": "NON",
+          "votes": 950,
+          "total_votes": 2257,
+          "percent": 42.09,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 7,
+          "total_votes": 2257,
+          "percent": 0.31,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 2257,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 18,
+          "total_votes": 2257,
+          "percent": 0.8,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 3",
+      "csv_file": "2023_Morrisville_Town_Council_3.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Liz Johnson",
+          "political_party": "NON",
+          "votes": 1992,
+          "total_votes": 2049,
+          "percent": 97.22,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 57,
+          "total_votes": 2049,
+          "percent": 2.78,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 235,
+          "total_votes": 2049,
+          "percent": 11.47,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Mayor",
+      "csv_file": "2023_Rolesville_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ronnie Currin",
+          "political_party": "NON",
+          "votes": 1115,
+          "total_votes": 1566,
+          "percent": 71.2,
+          "total": "all"
+        },
+        {
+          "name": "Scott M. Wagoner",
+          "political_party": "NON",
+          "votes": 443,
+          "total_votes": 1566,
+          "percent": 28.29,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 8,
+          "total_votes": 1566,
+          "percent": 0.51,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 14,
+          "total_votes": 1566,
+          "percent": 0.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Board of Commissioners",
+      "csv_file": "2023_Rolesville_Board_of_Commissioners.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Lenwood V. Long, Jr.",
+          "political_party": "NON",
+          "votes": 865,
+          "total_votes": 2631,
+          "percent": 32.88,
+          "total": "all"
+        },
+        {
+          "name": "Michael Paul",
+          "political_party": "NON",
+          "votes": 930,
+          "total_votes": 2631,
+          "percent": 35.35,
+          "total": "all"
+        },
+        {
+          "name": "Michelle Medley",
+          "political_party": "NON",
+          "votes": 812,
+          "total_votes": 2631,
+          "percent": 30.86,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 24,
+          "total_votes": 2631,
+          "percent": 0.91,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 512,
+          "total_votes": 2631,
+          "percent": 19.46,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Board of Commissioners",
+      "csv_file": "2023_Wake_Forest_Board_of_Commissioners.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Adam B. Wright",
+          "political_party": "NON",
+          "votes": 2949,
+          "total_votes": 12919,
+          "percent": 22.83,
+          "total": "all"
+        },
+        {
+          "name": "Ben Clapsaddle",
+          "political_party": "NON",
+          "votes": 2610,
+          "total_votes": 12919,
+          "percent": 20.2,
+          "total": "all"
+        },
+        {
+          "name": "Faith Cross",
+          "political_party": "NON",
+          "votes": 2318,
+          "total_votes": 12919,
+          "percent": 17.94,
+          "total": "all"
+        },
+        {
+          "name": "Jim Thompson",
+          "political_party": "NON",
+          "votes": 1103,
+          "total_votes": 12919,
+          "percent": 8.54,
+          "total": "all"
+        },
+        {
+          "name": "Joe Kimray",
+          "political_party": "NON",
+          "votes": 1964,
+          "total_votes": 12919,
+          "percent": 15.2,
+          "total": "all"
+        },
+        {
+          "name": "Tom Ballman",
+          "political_party": "NON",
+          "votes": 1869,
+          "total_votes": 12919,
+          "percent": 14.47,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 106,
+          "total_votes": 12919,
+          "percent": 0.82,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 3,
+          "total_votes": 12919,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2482,
+          "total_votes": 12919,
+          "percent": 19.21,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Mayor",
+      "csv_file": "2023_Wendell_Mayor.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Virginia (Ginna) Gray",
+          "political_party": "NON",
+          "votes": 1290,
+          "total_votes": 1384,
+          "percent": 93.21,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 94,
+          "total_votes": 1384,
+          "percent": 6.79,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 302,
+          "total_votes": 1384,
+          "percent": 21.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Board of Commissioners",
+      "csv_file": "2023_Wendell_Board_of_Commissioners.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Braxton Davis Honeycutt",
+          "political_party": "NON",
+          "votes": 580,
+          "total_votes": 3117,
+          "percent": 18.61,
+          "total": "all"
+        },
+        {
+          "name": "Joe DeLoach",
+          "political_party": "NON",
+          "votes": 616,
+          "total_votes": 3117,
+          "percent": 19.76,
+          "total": "all"
+        },
+        {
+          "name": "Jon Olson",
+          "political_party": "NON",
+          "votes": 309,
+          "total_votes": 3117,
+          "percent": 9.91,
+          "total": "all"
+        },
+        {
+          "name": "Jorge E. Cordova",
+          "political_party": "NON",
+          "votes": 385,
+          "total_votes": 3117,
+          "percent": 12.35,
+          "total": "all"
+        },
+        {
+          "name": "Kris Rixon",
+          "political_party": "NON",
+          "votes": 456,
+          "total_votes": 3117,
+          "percent": 14.63,
+          "total": "all"
+        },
+        {
+          "name": "Philip Tarnaski",
+          "political_party": "NON",
+          "votes": 464,
+          "total_votes": 3117,
+          "percent": 14.89,
+          "total": "all"
+        },
+        {
+          "name": "Taylor Ullrich",
+          "political_party": "NON",
+          "votes": 295,
+          "total_votes": 3117,
+          "percent": 9.46,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 12,
+          "total_votes": 3117,
+          "percent": 0.38,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 245,
+          "total_votes": 3117,
+          "percent": 7.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Board of Commissioners",
+      "csv_file": "2023_Zebulon_Board_of_Commissioners.csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Amber Batiste Davis",
+          "political_party": "NON",
+          "votes": 381,
+          "total_votes": 1940,
+          "percent": 19.64,
+          "total": "all"
+        },
+        {
+          "name": "Curtis Cotton III",
+          "political_party": "NON",
+          "votes": 173,
+          "total_votes": 1940,
+          "percent": 8.92,
+          "total": "all"
+        },
+        {
+          "name": "Jessica Daniels Harrison",
+          "political_party": "NON",
+          "votes": 412,
+          "total_votes": 1940,
+          "percent": 21.24,
+          "total": "all"
+        },
+        {
+          "name": "Larry Loucks",
+          "political_party": "NON",
+          "votes": 267,
+          "total_votes": 1940,
+          "percent": 13.76,
+          "total": "all"
+        },
+        {
+          "name": "Michael A. Germano",
+          "political_party": "NON",
+          "votes": 320,
+          "total_votes": 1940,
+          "percent": 16.49,
+          "total": "all"
+        },
+        {
+          "name": "Shannon Baxter",
+          "political_party": "NON",
+          "votes": 378,
+          "total_votes": 1940,
+          "percent": 19.48,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 9,
+          "total_votes": 1940,
+          "percent": 0.46,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 262,
+          "total_votes": 1940,
+          "percent": 13.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Parks and Rec Bond",
+      "csv_file": "2023_Holly_Springs_Parks_and_Rec_Bond.csv",
+      "year": 2023,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 2718,
+          "total_votes": 7403,
+          "percent": 36.71,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 4685,
+          "total_votes": 7403,
+          "percent": 63.29,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 252,
+          "total_votes": 7403,
+          "percent": 3.4,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Parks and Rec Bond",
+      "csv_file": "2023_Fuquay-Varina_Parks_and_Rec_Bond.csv",
+      "year": 2023,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 3521,
+          "total_votes": 6009,
+          "percent": 58.6,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2488,
+          "total_votes": 6009,
+          "percent": 41.4,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 82,
+          "total_votes": 6009,
+          "percent": 1.36,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Parks and Rec Facilities Bond",
+      "csv_file": "2023_Wendell_Parks_and_Rec_Facilities_Bond.csv",
+      "year": 2023,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 536,
+          "total_votes": 1666,
+          "percent": 32.17,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 1130,
+          "total_votes": 1666,
+          "percent": 67.83,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 24,
+          "total_votes": 1666,
+          "percent": 1.44,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Transportation Bond",
+      "csv_file": "2023_Wendell_Transportation_Bond.csv",
+      "year": 2023,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 459,
+          "total_votes": 1666,
+          "percent": 27.55,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 1207,
+          "total_votes": 1666,
+          "percent": 72.45,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 21,
+          "total_votes": 1666,
+          "percent": 1.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Board of Commissioners (Unexpired)",
+      "csv_file": "2023_Fuquay-Varina_Board_of_Commissioners_(Unexpired).csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Elizabeth Parent",
+          "political_party": "NON",
+          "votes": 2905,
+          "total_votes": 5837,
+          "percent": 49.77,
+          "total": "all"
+        },
+        {
+          "name": "Jason Ora Wunsch",
+          "political_party": "NON",
+          "votes": 2912,
+          "total_votes": 5837,
+          "percent": 49.89,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 20,
+          "total_votes": 5837,
+          "percent": 0.34,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 5,
+          "total_votes": 5837,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 253,
+          "total_votes": 5837,
+          "percent": 4.33,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Town Council (Unexpired)",
+      "csv_file": "2023_Holly_Springs_Town_Council_(Unexpired).csv",
+      "year": 2023,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Annie Drees",
+          "political_party": "NON",
+          "votes": 3444,
+          "total_votes": 7466,
+          "percent": 46.13,
+          "total": "all"
+        },
+        {
+          "name": "Brian Norman",
+          "political_party": "NON",
+          "votes": 3070,
+          "total_votes": 7466,
+          "percent": 41.12,
+          "total": "all"
+        },
+        {
+          "name": "Scoop Green",
+          "political_party": "NON",
+          "votes": 621,
+          "total_votes": 7466,
+          "percent": 8.32,
+          "total": "all"
+        },
+        {
+          "name": "Travis Groo",
+          "political_party": "NON",
+          "votes": 317,
+          "total_votes": 7466,
+          "percent": 4.25,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 14,
+          "total_votes": 7466,
+          "percent": 0.19,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 25,
+          "total_votes": 7466,
+          "percent": 0.33,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 163,
+          "total_votes": 7466,
+          "percent": 2.18,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

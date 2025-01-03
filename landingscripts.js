@@ -75,7 +75,14 @@ document.addEventListener("DOMContentLoaded", () => {
   );
 
   const jsonFiles = [
-    "index.json",
+    "2016.json",
+    "2017.json",
+    "2018.json",
+    "2019.json",
+    "2020.json",
+    "2021.json",
+    "2022.json",
+    "2023.json",
     "maps.json"
   ];
 
@@ -300,8 +307,9 @@ document.addEventListener("DOMContentLoaded", () => {
       const selectedElection = electionObjects.find(election => election.name === electionName && election.year === electionYear);
       const selectedCandidate = selectedElection.candidates.find(candidate => candidate.name === candidateName);
       // Add the full candidate details to the selectedCandidates array
+      const calcName = `${selectedCandidate.name} (${electionYear})`;
       selectedCandidates.push({
-        name: `${selectedCandidate.name} (${electionYear})`,
+        name: calcName,
         column: selectedCandidate.column || selectedCandidate.name,
         total: selectedCandidate.total,
         party: selectedCandidate.political_party,
@@ -310,7 +318,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       // Add a label for the selected candidate
-      addCandidateLabel(selectedCandidate.name, electionYear, selectedElection.name);
+      addCandidateLabel(calcName, electionYear, selectedElection.name);
 
       // Clear dropdown selection
       candidateDropdown.value = "";
@@ -367,6 +375,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     minusButton.addEventListener("click", () => {
       // Remove the candidate from the selectedCandidates array
+      console.log(`name: ${candidateName} election: ${electionName}`);
+      console.log(selectedCandidates);
       selectedCandidates = selectedCandidates.filter(
         candidate => !(candidate.name === candidateName && candidate.electionName === electionName)
       );

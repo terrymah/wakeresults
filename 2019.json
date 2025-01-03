@@ -1,0 +1,962 @@
+{
+  "contests": [
+    {
+      "name": "Apex Mayor",
+      "csv_file": "2019_Apex_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jacques Gilbert",
+          "political_party": "NON",
+          "votes": 4430,
+          "total_votes": 4501,
+          "percent": 98.42,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 71,
+          "total_votes": 4501,
+          "percent": 1.58,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 431,
+          "total_votes": 4501,
+          "percent": 9.58,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Apex Town Council",
+      "csv_file": "2019_Apex_Town_Council.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Cheryl F. Stallings",
+          "political_party": "NON",
+          "votes": 3706,
+          "total_votes": 9037,
+          "percent": 41.01,
+          "total": "all"
+        },
+        {
+          "name": "Terry Mahaffey",
+          "political_party": "NON",
+          "votes": 3748,
+          "total_votes": 9037,
+          "percent": 41.47,
+          "total": "all"
+        },
+        {
+          "name": "Wesley Moyer",
+          "political_party": "NON",
+          "votes": 1559,
+          "total_votes": 9037,
+          "percent": 17.25,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 24,
+          "total_votes": 9037,
+          "percent": 0.27,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 6,
+          "total_votes": 9037,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 993,
+          "total_votes": 9037,
+          "percent": 10.99,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Mayor",
+      "csv_file": "2019_Fuquay-Varina_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "John W. Byrne",
+          "political_party": "NON",
+          "votes": 1398,
+          "total_votes": 1523,
+          "percent": 91.79,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 125,
+          "total_votes": 1523,
+          "percent": 8.21,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 191,
+          "total_votes": 1523,
+          "percent": 12.54,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Board of Commissioners",
+      "csv_file": "2019_Fuquay-Varina_Board_of_Commissioners.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Larry Smith",
+          "political_party": "NON",
+          "votes": 1189,
+          "total_votes": 4543,
+          "percent": 26.17,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Gardner",
+          "political_party": "NON",
+          "votes": 1205,
+          "total_votes": 4543,
+          "percent": 26.52,
+          "total": "all"
+        },
+        {
+          "name": "Qisoundra (Qi) Flowers",
+          "political_party": "NON",
+          "votes": 875,
+          "total_votes": 4543,
+          "percent": 19.26,
+          "total": "all"
+        },
+        {
+          "name": "William (Bill) Harris",
+          "political_party": "NON",
+          "votes": 1274,
+          "total_votes": 4543,
+          "percent": 28.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 843,
+          "total_votes": 4543,
+          "percent": 18.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Mayor",
+      "csv_file": "2019_Garner_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Charles Dingee",
+          "political_party": "NON",
+          "votes": 689,
+          "total_votes": 3838,
+          "percent": 17.95,
+          "total": "all"
+        },
+        {
+          "name": "Ken Marshburn",
+          "political_party": "NON",
+          "votes": 1482,
+          "total_votes": 3838,
+          "percent": 38.61,
+          "total": "all"
+        },
+        {
+          "name": "Mona Parks",
+          "political_party": "NON",
+          "votes": 862,
+          "total_votes": 3838,
+          "percent": 22.46,
+          "total": "all"
+        },
+        {
+          "name": "Ronnie S. Williams",
+          "political_party": "NON",
+          "votes": 805,
+          "total_votes": 3838,
+          "percent": 20.97,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10,
+          "total_votes": 3838,
+          "percent": 0.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Town Council",
+      "csv_file": "2019_Garner_Town_Council.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Daniel Simmons",
+          "political_party": "NON",
+          "votes": 535,
+          "total_votes": 9051,
+          "percent": 5.91,
+          "total": "all"
+        },
+        {
+          "name": "Demian Dellinger",
+          "political_party": "NON",
+          "votes": 2219,
+          "total_votes": 9051,
+          "percent": 24.52,
+          "total": "all"
+        },
+        {
+          "name": "Elmo E. Vance, Jr.",
+          "political_party": "NON",
+          "votes": 2476,
+          "total_votes": 9051,
+          "percent": 27.36,
+          "total": "all"
+        },
+        {
+          "name": "Phil Matthews",
+          "political_party": "NON",
+          "votes": 2015,
+          "total_votes": 9051,
+          "percent": 22.26,
+          "total": "all"
+        },
+        {
+          "name": "Rachel Tourdot",
+          "political_party": "NON",
+          "votes": 1782,
+          "total_votes": 9051,
+          "percent": 19.69,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 24,
+          "total_votes": 9051,
+          "percent": 0.27,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 3,
+          "total_votes": 9051,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2397,
+          "total_votes": 9051,
+          "percent": 26.48,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Town Council",
+      "csv_file": "2019_Holly_Springs_Town_Council.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Aaron Wolff",
+          "political_party": "NON",
+          "votes": 1673,
+          "total_votes": 6322,
+          "percent": 26.46,
+          "total": "all"
+        },
+        {
+          "name": "Cheri Lee",
+          "political_party": "NON",
+          "votes": 1198,
+          "total_votes": 6322,
+          "percent": 18.95,
+          "total": "all"
+        },
+        {
+          "name": "Garrett Raczek",
+          "political_party": "NON",
+          "votes": 876,
+          "total_votes": 6322,
+          "percent": 13.86,
+          "total": "all"
+        },
+        {
+          "name": "Shaun McGrath",
+          "political_party": "NON",
+          "votes": 1400,
+          "total_votes": 6322,
+          "percent": 22.14,
+          "total": "all"
+        },
+        {
+          "name": "Tom O'Brien",
+          "political_party": "NON",
+          "votes": 1175,
+          "total_votes": 6322,
+          "percent": 18.59,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 4,
+          "total_votes": 6322,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 656,
+          "total_votes": 6322,
+          "percent": 10.38,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Mayor",
+      "csv_file": "2019_Knightdale_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "James Roberson",
+          "political_party": "NON",
+          "votes": 817,
+          "total_votes": 852,
+          "percent": 95.89,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 35,
+          "total_votes": 852,
+          "percent": 4.11,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 852,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8,
+          "total_votes": 852,
+          "percent": 0.94,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Town Council",
+      "csv_file": "2019_Knightdale_Town_Council.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ben McDonald",
+          "political_party": "NON",
+          "votes": 681,
+          "total_votes": 1430,
+          "percent": 47.62,
+          "total": "all"
+        },
+        {
+          "name": "Stephen Morgan",
+          "political_party": "NON",
+          "votes": 698,
+          "total_votes": 1430,
+          "percent": 48.81,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 51,
+          "total_votes": 1430,
+          "percent": 3.57,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 283,
+          "total_votes": 1430,
+          "percent": 19.79,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council At-Large",
+      "csv_file": "2019_Morrisville_Town_Council_At-Large.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Satish Garimella",
+          "political_party": "NON",
+          "votes": 1832,
+          "total_votes": 1875,
+          "percent": 97.71,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 43,
+          "total_votes": 1875,
+          "percent": 2.29,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2,
+          "total_votes": 1875,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 299,
+          "total_votes": 1875,
+          "percent": 15.95,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 1",
+      "csv_file": "2019_Morrisville_Town_Council_1.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Anne Robotti",
+          "political_party": "NON",
+          "votes": 1186,
+          "total_votes": 2240,
+          "percent": 52.95,
+          "total": "all"
+        },
+        {
+          "name": "Michael (Mike) Schlink",
+          "political_party": "NON",
+          "votes": 1054,
+          "total_votes": 2240,
+          "percent": 47.05,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 2240,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 44,
+          "total_votes": 2240,
+          "percent": 1.96,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 3",
+      "csv_file": "2019_Morrisville_Town_Council_3.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Liz Johnson",
+          "political_party": "NON",
+          "votes": 1834,
+          "total_votes": 1856,
+          "percent": 98.81,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 22,
+          "total_votes": 1856,
+          "percent": 1.19,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 391,
+          "total_votes": 1856,
+          "percent": 21.07,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Mayor",
+      "csv_file": "2019_Rolesville_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ronnie Currin",
+          "political_party": "NON",
+          "votes": 827,
+          "total_votes": 952,
+          "percent": 86.87,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 125,
+          "total_votes": 952,
+          "percent": 13.13,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 63,
+          "total_votes": 952,
+          "percent": 6.62,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Board of Commissioners",
+      "csv_file": "2019_Rolesville_Board_of_Commissioners.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "April Sneed",
+          "political_party": "NON",
+          "votes": 387,
+          "total_votes": 1909,
+          "percent": 20.27,
+          "total": "all"
+        },
+        {
+          "name": "Edward (Ed) Carelli",
+          "political_party": "NON",
+          "votes": 223,
+          "total_votes": 1909,
+          "percent": 11.68,
+          "total": "all"
+        },
+        {
+          "name": "Michelle Medley",
+          "political_party": "NON",
+          "votes": 521,
+          "total_votes": 1909,
+          "percent": 27.29,
+          "total": "all"
+        },
+        {
+          "name": "Sheilah Sutton",
+          "political_party": "NON",
+          "votes": 497,
+          "total_votes": 1909,
+          "percent": 26.03,
+          "total": "all"
+        },
+        {
+          "name": "Steven D. Dieckhaus",
+          "political_party": "NON",
+          "votes": 281,
+          "total_votes": 1909,
+          "percent": 14.72,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 8,
+          "total_votes": 1909,
+          "percent": 0.42,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 177,
+          "total_votes": 1909,
+          "percent": 9.27,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Board of Commissioners",
+      "csv_file": "2019_Wake_Forest_Board_of_Commissioners.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Adam B. Wright",
+          "political_party": "NON",
+          "votes": 1484,
+          "total_votes": 8311,
+          "percent": 17.86,
+          "total": "all"
+        },
+        {
+          "name": "Anne Reeve",
+          "political_party": "NON",
+          "votes": 715,
+          "total_votes": 8311,
+          "percent": 8.6,
+          "total": "all"
+        },
+        {
+          "name": "Chad Sary",
+          "political_party": "NON",
+          "votes": 1580,
+          "total_votes": 8311,
+          "percent": 19.01,
+          "total": "all"
+        },
+        {
+          "name": "Greg Bartholomew",
+          "political_party": "NON",
+          "votes": 756,
+          "total_votes": 8311,
+          "percent": 9.1,
+          "total": "all"
+        },
+        {
+          "name": "Heather Loftin Holding",
+          "political_party": "NON",
+          "votes": 1259,
+          "total_votes": 8311,
+          "percent": 15.15,
+          "total": "all"
+        },
+        {
+          "name": "Jim Dyer",
+          "political_party": "NON",
+          "votes": 1488,
+          "total_votes": 8311,
+          "percent": 17.9,
+          "total": "all"
+        },
+        {
+          "name": "Sean Sullivan",
+          "political_party": "NON",
+          "votes": 1029,
+          "total_votes": 8311,
+          "percent": 12.38,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 3,
+          "total_votes": 8311,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 721,
+          "total_votes": 8311,
+          "percent": 8.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Mayor",
+      "csv_file": "2019_Wendell_Mayor.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Braxton Davis Honeycutt",
+          "political_party": "NON",
+          "votes": 302,
+          "total_votes": 1191,
+          "percent": 25.36,
+          "total": "all"
+        },
+        {
+          "name": "Virginia (Ginna) Gray",
+          "political_party": "NON",
+          "votes": 889,
+          "total_votes": 1191,
+          "percent": 74.64,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 1191,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 4,
+          "total_votes": 1191,
+          "percent": 0.34,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Board of Commissioners",
+      "csv_file": "2019_Wendell_Board_of_Commissioners.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ben Carroll",
+          "political_party": "NON",
+          "votes": 423,
+          "total_votes": 1917,
+          "percent": 22.07,
+          "total": "all"
+        },
+        {
+          "name": "Joe DeLoach",
+          "political_party": "NON",
+          "votes": 708,
+          "total_votes": 1917,
+          "percent": 36.93,
+          "total": "all"
+        },
+        {
+          "name": "Philip Tarnaski",
+          "political_party": "NON",
+          "votes": 786,
+          "total_votes": 1917,
+          "percent": 41.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 432,
+          "total_votes": 1917,
+          "percent": 22.54,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Board of Commissioners",
+      "csv_file": "2019_Zebulon_Board_of_Commissioners.csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Don Bumgarner",
+          "political_party": "NON",
+          "votes": 172,
+          "total_votes": 1255,
+          "percent": 13.71,
+          "total": "all"
+        },
+        {
+          "name": "Glenn York",
+          "political_party": "NON",
+          "votes": 283,
+          "total_votes": 1255,
+          "percent": 22.55,
+          "total": "all"
+        },
+        {
+          "name": "Larry Loucks",
+          "political_party": "NON",
+          "votes": 268,
+          "total_votes": 1255,
+          "percent": 21.35,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Price Wagner",
+          "political_party": "NON",
+          "votes": 55,
+          "total_votes": 1255,
+          "percent": 4.38,
+          "total": "all"
+        },
+        {
+          "name": "Sam Hayes",
+          "political_party": "NON",
+          "votes": 164,
+          "total_votes": 1255,
+          "percent": 13.07,
+          "total": "all"
+        },
+        {
+          "name": "Shannon Baxter",
+          "political_party": "NON",
+          "votes": 231,
+          "total_votes": 1255,
+          "percent": 18.41,
+          "total": "all"
+        },
+        {
+          "name": "Stan R. Nowell",
+          "political_party": "NON",
+          "votes": 82,
+          "total_votes": 1255,
+          "percent": 6.53,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 223,
+          "total_votes": 1255,
+          "percent": 17.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 2 (Unexpired)",
+      "csv_file": "2019_Morrisville_Town_Council_2_(Unexpired).csv",
+      "year": 2019,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donna L. Fender",
+          "political_party": "NON",
+          "votes": 1186,
+          "total_votes": 2261,
+          "percent": 52.45,
+          "total": "all"
+        },
+        {
+          "name": "Kristen Richardson",
+          "political_party": "NON",
+          "votes": 954,
+          "total_votes": 2261,
+          "percent": 42.19,
+          "total": "all"
+        },
+        {
+          "name": "Matt Joseph",
+          "political_party": "NON",
+          "votes": 121,
+          "total_votes": 2261,
+          "percent": 5.35,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2,
+          "total_votes": 2261,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 23,
+          "total_votes": 2261,
+          "percent": 1.02,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

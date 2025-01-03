@@ -1,0 +1,3255 @@
+{
+  "contests": [
+    {
+      "name": "Wake County Board of Commissioners 1",
+      "csv_file": "2022_Wake_County_Board_of_Commissioners_1.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Chanel N. Harris",
+          "political_party": "REP",
+          "votes": 169854,
+          "total_votes": 444014,
+          "percent": 38.25,
+          "total": "all"
+        },
+        {
+          "name": "Donald Mial",
+          "political_party": "DEM",
+          "votes": 274160,
+          "total_votes": 444014,
+          "percent": 61.75,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 136,
+          "total_votes": 444014,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10373,
+          "total_votes": 444014,
+          "percent": 2.34,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 2",
+      "csv_file": "2022_Wake_County_Board_of_Commissioners_2.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Mark McMains",
+          "political_party": "REP",
+          "votes": 165728,
+          "total_votes": 444326,
+          "percent": 37.3,
+          "total": "all"
+        },
+        {
+          "name": "Matt Calabria",
+          "political_party": "DEM",
+          "votes": 278598,
+          "total_votes": 444326,
+          "percent": 62.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 231,
+          "total_votes": 444326,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 9964,
+          "total_votes": 444326,
+          "percent": 2.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 3",
+      "csv_file": "2022_Wake_County_Board_of_Commissioners_3.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Cheryl F. Stallings",
+          "political_party": "DEM",
+          "votes": 273439,
+          "total_votes": 444766,
+          "percent": 61.48,
+          "total": "all"
+        },
+        {
+          "name": "Irina Comer",
+          "political_party": "REP",
+          "votes": 171327,
+          "total_votes": 444766,
+          "percent": 38.52,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 132,
+          "total_votes": 444766,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 9630,
+          "total_votes": 444766,
+          "percent": 2.17,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 7",
+      "csv_file": "2022_Wake_County_Board_of_Commissioners_7.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Vickie Adamson",
+          "political_party": "DEM",
+          "votes": 307850,
+          "total_votes": 307850,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 146666,
+          "total_votes": 307850,
+          "percent": 47.64,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Clerk of Superior Court",
+      "csv_file": "2022_Wake_County_Clerk_of_Superior_Court.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Blair Williams",
+          "political_party": "DEM",
+          "votes": 307757,
+          "total_votes": 307757,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 146772,
+          "total_votes": 307757,
+          "percent": 47.69,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Sheriff",
+      "csv_file": "2022_Wake_County_Sheriff.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donnie Harrison",
+          "political_party": "REP",
+          "votes": 207666,
+          "total_votes": 449565,
+          "percent": 46.19,
+          "total": "all"
+        },
+        {
+          "name": "Willie Rowe",
+          "political_party": "DEM",
+          "votes": 241899,
+          "total_votes": 449565,
+          "percent": 53.81,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 322,
+          "total_votes": 449565,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4649,
+          "total_votes": 449565,
+          "percent": 1.03,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 1",
+      "csv_file": "2022_Wake_County_Board_of_Education_1.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Ben Clapsaddle",
+          "political_party": "NON",
+          "votes": 17240,
+          "total_votes": 42350,
+          "percent": 40.71,
+          "total": "all"
+        },
+        {
+          "name": "Cheryl Caulfield",
+          "political_party": "NON",
+          "votes": 24776,
+          "total_votes": 42350,
+          "percent": 58.5,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 334,
+          "total_votes": 42350,
+          "percent": 0.79,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 49,
+          "total_votes": 42350,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6214,
+          "total_votes": 42350,
+          "percent": 14.67,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 2",
+      "csv_file": "2022_Wake_County_Board_of_Education_2.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Dorian Hamilton",
+          "political_party": "NON",
+          "votes": 4700,
+          "total_votes": 44401,
+          "percent": 10.59,
+          "total": "all"
+        },
+        {
+          "name": "Monica Ruiz",
+          "political_party": "NON",
+          "votes": 19287,
+          "total_votes": 44401,
+          "percent": 43.44,
+          "total": "all"
+        },
+        {
+          "name": "Monika Johnson-Hostler",
+          "political_party": "NON",
+          "votes": 20092,
+          "total_votes": 44401,
+          "percent": 45.25,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 322,
+          "total_votes": 44401,
+          "percent": 0.73,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 332,
+          "total_votes": 44401,
+          "percent": 0.75,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6814,
+          "total_votes": 44401,
+          "percent": 15.35,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 3",
+      "csv_file": "2022_Wake_County_Board_of_Education_3.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Brooks Lowe",
+          "political_party": "NON",
+          "votes": 4563,
+          "total_votes": 52412,
+          "percent": 8.71,
+          "total": "all"
+        },
+        {
+          "name": "Doug Hammack",
+          "political_party": "NON",
+          "votes": 21736,
+          "total_votes": 52412,
+          "percent": 41.47,
+          "total": "all"
+        },
+        {
+          "name": "Wing Ng",
+          "political_party": "NON",
+          "votes": 25850,
+          "total_votes": 52412,
+          "percent": 49.32,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 263,
+          "total_votes": 52412,
+          "percent": 0.5,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 101,
+          "total_votes": 52412,
+          "percent": 0.19,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6392,
+          "total_votes": 52412,
+          "percent": 12.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 4",
+      "csv_file": "2022_Wake_County_Board_of_Education_4.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Becky Lew-Hobbs",
+          "political_party": "NON",
+          "votes": 7041,
+          "total_votes": 33276,
+          "percent": 21.16,
+          "total": "all"
+        },
+        {
+          "name": "Daniel L. Grant-King",
+          "political_party": "NON",
+          "votes": 1691,
+          "total_votes": 33276,
+          "percent": 5.08,
+          "total": "all"
+        },
+        {
+          "name": "Michael T. Williams",
+          "political_party": "NON",
+          "votes": 3258,
+          "total_votes": 33276,
+          "percent": 9.79,
+          "total": "all"
+        },
+        {
+          "name": "Tara Waters",
+          "political_party": "NON",
+          "votes": 21055,
+          "total_votes": 33276,
+          "percent": 63.27,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 231,
+          "total_votes": 33276,
+          "percent": 0.69,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 287,
+          "total_votes": 33276,
+          "percent": 0.86,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4310,
+          "total_votes": 33276,
+          "percent": 12.95,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 5",
+      "csv_file": "2022_Wake_County_Board_of_Education_5.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Dawn P. Townsend",
+          "political_party": "NON",
+          "votes": 4293,
+          "total_votes": 41189,
+          "percent": 10.42,
+          "total": "all"
+        },
+        {
+          "name": "Jackie Boegel",
+          "political_party": "NON",
+          "votes": 12004,
+          "total_votes": 41189,
+          "percent": 29.14,
+          "total": "all"
+        },
+        {
+          "name": "Lynn Edmonds",
+          "political_party": "NON",
+          "votes": 22087,
+          "total_votes": 41189,
+          "percent": 53.62,
+          "total": "all"
+        },
+        {
+          "name": "Ross Beamon",
+          "political_party": "NON",
+          "votes": 2382,
+          "total_votes": 41189,
+          "percent": 5.78,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 423,
+          "total_votes": 41189,
+          "percent": 1.03,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 350,
+          "total_votes": 41189,
+          "percent": 0.85,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8142,
+          "total_votes": 41189,
+          "percent": 19.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 6",
+      "csv_file": "2022_Wake_County_Board_of_Education_6.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Chad Stall",
+          "political_party": "NON",
+          "votes": 7295,
+          "total_votes": 43678,
+          "percent": 16.7,
+          "total": "all"
+        },
+        {
+          "name": "Dajma Livingston",
+          "political_party": "NON",
+          "votes": 3527,
+          "total_votes": 43678,
+          "percent": 8.08,
+          "total": "all"
+        },
+        {
+          "name": "Mary-Lewis Freeman",
+          "political_party": "NON",
+          "votes": 4318,
+          "total_votes": 43678,
+          "percent": 9.89,
+          "total": "all"
+        },
+        {
+          "name": "Patrice Nealon",
+          "political_party": "NON",
+          "votes": 7140,
+          "total_votes": 43678,
+          "percent": 16.35,
+          "total": "all"
+        },
+        {
+          "name": "Sam Hershey",
+          "political_party": "NON",
+          "votes": 21185,
+          "total_votes": 43678,
+          "percent": 48.5,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 213,
+          "total_votes": 43678,
+          "percent": 0.49,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 500,
+          "total_votes": 43678,
+          "percent": 1.14,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 7417,
+          "total_votes": 43678,
+          "percent": 16.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 7",
+      "csv_file": "2022_Wake_County_Board_of_Education_7.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Heagarty",
+          "political_party": "NON",
+          "votes": 22746,
+          "total_votes": 43373,
+          "percent": 52.44,
+          "total": "all"
+        },
+        {
+          "name": "Jacob Arthur",
+          "political_party": "NON",
+          "votes": 11227,
+          "total_votes": 43373,
+          "percent": 25.88,
+          "total": "all"
+        },
+        {
+          "name": "Katie Thuy Long",
+          "political_party": "NON",
+          "votes": 9183,
+          "total_votes": 43373,
+          "percent": 21.17,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 217,
+          "total_votes": 43373,
+          "percent": 0.5,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 86,
+          "total_votes": 43373,
+          "percent": 0.2,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 5531,
+          "total_votes": 43373,
+          "percent": 12.75,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 8",
+      "csv_file": "2022_Wake_County_Board_of_Education_8.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Lindsay Mahaffey",
+          "political_party": "NON",
+          "votes": 27268,
+          "total_votes": 45517,
+          "percent": 59.91,
+          "total": "all"
+        },
+        {
+          "name": "Steve Bergstrom",
+          "political_party": "NON",
+          "votes": 17939,
+          "total_votes": 45517,
+          "percent": 39.41,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 310,
+          "total_votes": 45517,
+          "percent": 0.68,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 40,
+          "total_votes": 45517,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4727,
+          "total_votes": 45517,
+          "percent": 10.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 9",
+      "csv_file": "2022_Wake_County_Board_of_Education_9.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Michele Morrow",
+          "political_party": "NON",
+          "votes": 18255,
+          "total_votes": 51214,
+          "percent": 35.64,
+          "total": "all"
+        },
+        {
+          "name": "Tara Ann Cartwright",
+          "political_party": "NON",
+          "votes": 4127,
+          "total_votes": 51214,
+          "percent": 8.06,
+          "total": "all"
+        },
+        {
+          "name": "Tyler Swanson",
+          "political_party": "NON",
+          "votes": 28570,
+          "total_votes": 51214,
+          "percent": 55.79,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 262,
+          "total_votes": 51214,
+          "percent": 0.51,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 106,
+          "total_votes": 51214,
+          "percent": 0.21,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 5694,
+          "total_votes": 51214,
+          "percent": 11.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Soil and Water",
+      "csv_file": "2022_Wake_Soil_and_Water.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Alex Baldwin",
+          "political_party": "NON",
+          "votes": 83218,
+          "total_votes": 573381,
+          "percent": 14.51,
+          "total": "all"
+        },
+        {
+          "name": "Beth Pugh Farrell",
+          "political_party": "NON",
+          "votes": 146245,
+          "total_votes": 573381,
+          "percent": 25.51,
+          "total": "all"
+        },
+        {
+          "name": "Brian K. Lewis",
+          "political_party": "NON",
+          "votes": 52322,
+          "total_votes": 573381,
+          "percent": 9.13,
+          "total": "all"
+        },
+        {
+          "name": "Jenna Wadsworth",
+          "political_party": "NON",
+          "votes": 200088,
+          "total_votes": 573381,
+          "percent": 34.9,
+          "total": "all"
+        },
+        {
+          "name": "Stephen E. Xavier",
+          "political_party": "NON",
+          "votes": 86846,
+          "total_votes": 573381,
+          "percent": 15.15,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 4662,
+          "total_votes": 573381,
+          "percent": 0.81,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 396,
+          "total_votes": 573381,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 335210,
+          "total_votes": 573381,
+          "percent": 58.46,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh Mayor",
+      "csv_file": "2022_Raleigh_Mayor.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "DaQuanta Copeland",
+          "political_party": "NON",
+          "votes": 15640,
+          "total_votes": 153476,
+          "percent": 10.19,
+          "total": "all"
+        },
+        {
+          "name": "Mary-Ann Baldwin",
+          "political_party": "NON",
+          "votes": 71521,
+          "total_votes": 153476,
+          "percent": 46.6,
+          "total": "all"
+        },
+        {
+          "name": "Terrance (Truth) Ruth",
+          "political_party": "NON",
+          "votes": 62371,
+          "total_votes": 153476,
+          "percent": 40.64,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 3944,
+          "total_votes": 153476,
+          "percent": 2.57,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 190,
+          "total_votes": 153476,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 16066,
+          "total_votes": 153476,
+          "percent": 10.47,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council At-Large",
+      "csv_file": "2022_Raleigh_City_Council_At-Large.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Anne S. Franklin",
+          "political_party": "NON",
+          "votes": 38976,
+          "total_votes": 262966,
+          "percent": 14.82,
+          "total": "all"
+        },
+        {
+          "name": "James Bledsoe",
+          "political_party": "NON",
+          "votes": 31257,
+          "total_votes": 262966,
+          "percent": 11.89,
+          "total": "all"
+        },
+        {
+          "name": "John Odom",
+          "political_party": "NON",
+          "votes": 36700,
+          "total_votes": 262966,
+          "percent": 13.96,
+          "total": "all"
+        },
+        {
+          "name": "Jonathan Melton",
+          "political_party": "NON",
+          "votes": 50539,
+          "total_votes": 262966,
+          "percent": 19.22,
+          "total": "all"
+        },
+        {
+          "name": "Joshua Bradley",
+          "political_party": "NON",
+          "votes": 18143,
+          "total_votes": 262966,
+          "percent": 6.9,
+          "total": "all"
+        },
+        {
+          "name": "Ms. Stormie Denise Forte",
+          "political_party": "NON",
+          "votes": 61026,
+          "total_votes": 262966,
+          "percent": 23.21,
+          "total": "all"
+        },
+        {
+          "name": "Portia W. Rochelle",
+          "political_party": "NON",
+          "votes": 25256,
+          "total_votes": 262966,
+          "percent": 9.6,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 1069,
+          "total_votes": 262966,
+          "percent": 0.41,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 394,
+          "total_votes": 262966,
+          "percent": 0.15,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 76097,
+          "total_votes": 262966,
+          "percent": 28.94,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council A",
+      "csv_file": "2022_Raleigh_City_Council_A.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Catherine (Cat) Lawson",
+          "political_party": "NON",
+          "votes": 10614,
+          "total_votes": 33604,
+          "percent": 31.59,
+          "total": "all"
+        },
+        {
+          "name": "Mary Black-Branch",
+          "political_party": "NON",
+          "votes": 13181,
+          "total_votes": 33604,
+          "percent": 39.22,
+          "total": "all"
+        },
+        {
+          "name": "Whitney Hill",
+          "political_party": "NON",
+          "votes": 9666,
+          "total_votes": 33604,
+          "percent": 28.76,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 143,
+          "total_votes": 33604,
+          "percent": 0.43,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 54,
+          "total_votes": 33604,
+          "percent": 0.16,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6503,
+          "total_votes": 33604,
+          "percent": 19.35,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council B",
+      "csv_file": "2022_Raleigh_City_Council_B.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Frank Pierce",
+          "political_party": "NON",
+          "votes": 4044,
+          "total_votes": 26432,
+          "percent": 15.3,
+          "total": "all"
+        },
+        {
+          "name": "Jakob Lorberblatt",
+          "political_party": "NON",
+          "votes": 1054,
+          "total_votes": 26432,
+          "percent": 3.99,
+          "total": "all"
+        },
+        {
+          "name": "Megan Patton",
+          "political_party": "NON",
+          "votes": 11003,
+          "total_votes": 26432,
+          "percent": 41.63,
+          "total": "all"
+        },
+        {
+          "name": "Minu Lee",
+          "political_party": "NON",
+          "votes": 8139,
+          "total_votes": 26432,
+          "percent": 30.79,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 267,
+          "total_votes": 26432,
+          "percent": 1.01,
+          "total": "all"
+        },
+        {
+          "name": "Zainab (ZB) Baloch",
+          "political_party": "NON",
+          "votes": 1925,
+          "total_votes": 26432,
+          "percent": 7.28,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 402,
+          "total_votes": 26432,
+          "percent": 1.52,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6237,
+          "total_votes": 26432,
+          "percent": 23.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council C",
+      "csv_file": "2022_Raleigh_City_Council_C.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Corey Branch",
+          "political_party": "NON",
+          "votes": 11418,
+          "total_votes": 25526,
+          "percent": 44.73,
+          "total": "all"
+        },
+        {
+          "name": "Frank T. Fields III",
+          "political_party": "NON",
+          "votes": 7629,
+          "total_votes": 25526,
+          "percent": 29.89,
+          "total": "all"
+        },
+        {
+          "name": "Wanda Hunter",
+          "political_party": "NON",
+          "votes": 6357,
+          "total_votes": 25526,
+          "percent": 24.9,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 122,
+          "total_votes": 25526,
+          "percent": 0.48,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 46,
+          "total_votes": 25526,
+          "percent": 0.18,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 3049,
+          "total_votes": 25526,
+          "percent": 11.94,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council D",
+      "csv_file": "2022_Raleigh_City_Council_D.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jane Harrison",
+          "political_party": "NON",
+          "votes": 12408,
+          "total_votes": 22059,
+          "percent": 56.25,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer Truman",
+          "political_party": "NON",
+          "votes": 4310,
+          "total_votes": 22059,
+          "percent": 19.54,
+          "total": "all"
+        },
+        {
+          "name": "Rob Baumgart",
+          "political_party": "NON",
+          "votes": 2353,
+          "total_votes": 22059,
+          "percent": 10.67,
+          "total": "all"
+        },
+        {
+          "name": "Todd Kennedy",
+          "political_party": "NON",
+          "votes": 2889,
+          "total_votes": 22059,
+          "percent": 13.1,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 99,
+          "total_votes": 22059,
+          "percent": 0.45,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 181,
+          "total_votes": 22059,
+          "percent": 0.82,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4518,
+          "total_votes": 22059,
+          "percent": 20.48,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council E",
+      "csv_file": "2022_Raleigh_City_Council_E.csv",
+      "year": 2022,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Christina Jones",
+          "political_party": "NON",
+          "votes": 16762,
+          "total_votes": 32983,
+          "percent": 50.82,
+          "total": "all"
+        },
+        {
+          "name": "David Knight",
+          "political_party": "NON",
+          "votes": 15999,
+          "total_votes": 32983,
+          "percent": 48.51,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 222,
+          "total_votes": 32983,
+          "percent": 0.67,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 32,
+          "total_votes": 32983,
+          "percent": 0.1,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8114,
+          "total_votes": 32983,
+          "percent": 24.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "District Attorney District 10",
+      "csv_file": "2022_District_Attorney_District_10.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Jeff Dobson",
+          "political_party": "REP",
+          "votes": 168396,
+          "total_votes": 444103,
+          "percent": 37.92,
+          "total": "all"
+        },
+        {
+          "name": "Nancy (Lorrin) Freeman",
+          "political_party": "DEM",
+          "votes": 275707,
+          "total_votes": 444103,
+          "percent": 62.08,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 117,
+          "total_votes": 444103,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10296,
+          "total_votes": 444103,
+          "percent": 2.32,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 8",
+      "csv_file": "2022_NC_Court_of_Appeals_Judge_Seat_8.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Carolyn Jennings Thompson",
+          "political_party": "DEM",
+          "votes": 278130,
+          "total_votes": 447291,
+          "percent": 62.18,
+          "total": "all"
+        },
+        {
+          "name": "Julee Tate Flood",
+          "political_party": "REP",
+          "votes": 169161,
+          "total_votes": 447291,
+          "percent": 37.82,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 98,
+          "total_votes": 447291,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 7129,
+          "total_votes": 447291,
+          "percent": 1.59,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 9",
+      "csv_file": "2022_NC_Court_of_Appeals_Judge_Seat_9.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brad A. Salmon",
+          "political_party": "DEM",
+          "votes": 263137,
+          "total_votes": 446758,
+          "percent": 58.9,
+          "total": "all"
+        },
+        {
+          "name": "Donna Stroud",
+          "political_party": "REP",
+          "votes": 183621,
+          "total_votes": 446758,
+          "percent": 41.1,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 277,
+          "total_votes": 446758,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 7491,
+          "total_votes": 446758,
+          "percent": 1.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 10",
+      "csv_file": "2022_NC_Court_of_Appeals_Judge_Seat_10.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Gale Murray Adams",
+          "political_party": "DEM",
+          "votes": 276392,
+          "total_votes": 446787,
+          "percent": 61.86,
+          "total": "all"
+        },
+        {
+          "name": "John M. Tyson",
+          "political_party": "REP",
+          "votes": 170395,
+          "total_votes": 446787,
+          "percent": 38.14,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 117,
+          "total_votes": 446787,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 7634,
+          "total_votes": 446787,
+          "percent": 1.71,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 11",
+      "csv_file": "2022_NC_Court_of_Appeals_Judge_Seat_11.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Darren Jackson",
+          "political_party": "DEM",
+          "votes": 275662,
+          "total_votes": 446055,
+          "percent": 61.8,
+          "total": "all"
+        },
+        {
+          "name": "Michael J. Stading",
+          "political_party": "REP",
+          "votes": 170393,
+          "total_votes": 446055,
+          "percent": 38.2,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 149,
+          "total_votes": 446055,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8322,
+          "total_votes": 446055,
+          "percent": 1.87,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10A Seat 1",
+      "csv_file": "2022_NC_District_Court_Judge_District_10A_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Rashad Hauter",
+          "political_party": "REP",
+          "votes": 48989,
+          "total_votes": 48989,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 33297,
+          "total_votes": 48989,
+          "percent": 67.97,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10B Seat 1",
+      "csv_file": "2022_NC_District_Court_Judge_District_10B_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "David K. Baker",
+          "political_party": "DEM",
+          "votes": 37605,
+          "total_votes": 37605,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 12606,
+          "total_votes": 37605,
+          "percent": 33.52,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 1",
+      "csv_file": "2022_NC_District_Court_Judge_District_10D_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Margaret Eagles",
+          "political_party": "DEM",
+          "votes": 90385,
+          "total_votes": 90385,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 50780,
+          "total_votes": 90385,
+          "percent": 56.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 2",
+      "csv_file": "2022_NC_District_Court_Judge_District_10D_Seat_2.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "J. Brian Ratledge",
+          "political_party": "REP",
+          "votes": 75891,
+          "total_votes": 75891,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 65282,
+          "total_votes": 75891,
+          "percent": 86.02,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 3",
+      "csv_file": "2022_NC_District_Court_Judge_District_10D_Seat_3.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Ned W. Mangum",
+          "political_party": "REP",
+          "votes": 75295,
+          "total_votes": 75295,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 65880,
+          "total_votes": 75295,
+          "percent": 87.5,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10E Seat 1",
+      "csv_file": "2022_NC_District_Court_Judge_District_10E_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Sam Hamadani",
+          "political_party": "DEM",
+          "votes": 33634,
+          "total_votes": 33634,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10126,
+          "total_votes": 33634,
+          "percent": 30.11,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10E Seat 2",
+      "csv_file": "2022_NC_District_Court_Judge_District_10E_Seat_2.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Louis Meyer",
+          "political_party": "DEM",
+          "votes": 33751,
+          "total_votes": 33751,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10011,
+          "total_votes": 33751,
+          "percent": 29.66,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10F Seat 1",
+      "csv_file": "2022_NC_District_Court_Judge_District_10F_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Asia Prince",
+          "political_party": "REP",
+          "votes": 30756,
+          "total_votes": 80259,
+          "percent": 38.32,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer Bedford",
+          "political_party": "DEM",
+          "votes": 49503,
+          "total_votes": 80259,
+          "percent": 61.68,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 20,
+          "total_votes": 80259,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1586,
+          "total_votes": 80259,
+          "percent": 1.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 11",
+      "csv_file": "2022_NC_House_11.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Allison A. Dahle",
+          "political_party": "DEM",
+          "votes": 20946,
+          "total_votes": 20946,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8571,
+          "total_votes": 20946,
+          "percent": 40.92,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 21",
+      "csv_file": "2022_NC_House_21.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Gerard Falzon",
+          "political_party": "REP",
+          "votes": 8342,
+          "total_votes": 27857,
+          "percent": 29.95,
+          "total": "all"
+        },
+        {
+          "name": "Joshua Morris",
+          "political_party": "LIB",
+          "votes": 658,
+          "total_votes": 27857,
+          "percent": 2.36,
+          "total": "all"
+        },
+        {
+          "name": "Ya Liu",
+          "political_party": "DEM",
+          "votes": 18857,
+          "total_votes": 27857,
+          "percent": 67.69,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 27857,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 302,
+          "total_votes": 27857,
+          "percent": 1.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 33",
+      "csv_file": "2022_NC_House_33.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Costello",
+          "political_party": "LIB",
+          "votes": 1008,
+          "total_votes": 32670,
+          "percent": 3.09,
+          "total": "all"
+        },
+        {
+          "name": "Rosa U. Gill",
+          "political_party": "DEM",
+          "votes": 19471,
+          "total_votes": 32670,
+          "percent": 59.6,
+          "total": "all"
+        },
+        {
+          "name": "Stephanie Dingee",
+          "political_party": "REP",
+          "votes": 12191,
+          "total_votes": 32670,
+          "percent": 37.32,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 16,
+          "total_votes": 32670,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 536,
+          "total_votes": 32670,
+          "percent": 1.64,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 34",
+      "csv_file": "2022_NC_House_34.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Ashley Seshul",
+          "political_party": "REP",
+          "votes": 14856,
+          "total_votes": 40510,
+          "percent": 36.67,
+          "total": "all"
+        },
+        {
+          "name": "Kat McDonald",
+          "political_party": "LIB",
+          "votes": 1241,
+          "total_votes": 40510,
+          "percent": 3.06,
+          "total": "all"
+        },
+        {
+          "name": "Tim Longest",
+          "political_party": "DEM",
+          "votes": 24413,
+          "total_votes": 40510,
+          "percent": 60.26,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 10,
+          "total_votes": 40510,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 629,
+          "total_votes": 40510,
+          "percent": 1.55,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 35",
+      "csv_file": "2022_NC_House_35.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Fred Von Canon",
+          "political_party": "REP",
+          "votes": 17106,
+          "total_votes": 37147,
+          "percent": 46.05,
+          "total": "all"
+        },
+        {
+          "name": "Joseph Serio",
+          "political_party": "LIB",
+          "votes": 728,
+          "total_votes": 37147,
+          "percent": 1.96,
+          "total": "all"
+        },
+        {
+          "name": "Terence Everitt",
+          "political_party": "DEM",
+          "votes": 19313,
+          "total_votes": 37147,
+          "percent": 51.99,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 12,
+          "total_votes": 37147,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 379,
+          "total_votes": 37147,
+          "percent": 1.02,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 36",
+      "csv_file": "2022_NC_House_36.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "John Harris",
+          "political_party": "REP",
+          "votes": 16220,
+          "total_votes": 39154,
+          "percent": 41.43,
+          "total": "all"
+        },
+        {
+          "name": "Julie von Haefen",
+          "political_party": "DEM",
+          "votes": 21966,
+          "total_votes": 39154,
+          "percent": 56.1,
+          "total": "all"
+        },
+        {
+          "name": "Kyle Ward",
+          "political_party": "LIB",
+          "votes": 968,
+          "total_votes": 39154,
+          "percent": 2.47,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 20,
+          "total_votes": 39154,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 385,
+          "total_votes": 39154,
+          "percent": 0.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 37",
+      "csv_file": "2022_NC_House_37.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Kelly",
+          "political_party": "DEM",
+          "votes": 18110,
+          "total_votes": 40232,
+          "percent": 45.01,
+          "total": "all"
+        },
+        {
+          "name": "Christopher Robinson",
+          "political_party": "LIB",
+          "votes": 862,
+          "total_votes": 40232,
+          "percent": 2.14,
+          "total": "all"
+        },
+        {
+          "name": "Erin Pare",
+          "political_party": "REP",
+          "votes": 21260,
+          "total_votes": 40232,
+          "percent": 52.84,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 13,
+          "total_votes": 40232,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 369,
+          "total_votes": 40232,
+          "percent": 0.92,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 38",
+      "csv_file": "2022_NC_House_38.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Abe Jones",
+          "political_party": "DEM",
+          "votes": 24036,
+          "total_votes": 27487,
+          "percent": 87.44,
+          "total": "all"
+        },
+        {
+          "name": "Christopher Mizelle",
+          "political_party": "LIB",
+          "votes": 3451,
+          "total_votes": 27487,
+          "percent": 12.56,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 7,
+          "total_votes": 27487,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1332,
+          "total_votes": 27487,
+          "percent": 4.85,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 39",
+      "csv_file": "2022_NC_House_39.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Greg Jones",
+          "political_party": "REP",
+          "votes": 12274,
+          "total_votes": 30819,
+          "percent": 39.83,
+          "total": "all"
+        },
+        {
+          "name": "James A. Roberson",
+          "political_party": "DEM",
+          "votes": 18545,
+          "total_votes": 30819,
+          "percent": 60.17,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 30819,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 464,
+          "total_votes": 30819,
+          "percent": 1.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 40",
+      "csv_file": "2022_NC_House_40.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Joe John",
+          "political_party": "DEM",
+          "votes": 24633,
+          "total_votes": 44971,
+          "percent": 54.78,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Avila",
+          "political_party": "REP",
+          "votes": 19227,
+          "total_votes": 44971,
+          "percent": 42.75,
+          "total": "all"
+        },
+        {
+          "name": "Michael Nelson",
+          "political_party": "LIB",
+          "votes": 1111,
+          "total_votes": 44971,
+          "percent": 2.47,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 12,
+          "total_votes": 44971,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 478,
+          "total_votes": 44971,
+          "percent": 1.06,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 41",
+      "csv_file": "2022_NC_House_41.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Bruce K. Forster",
+          "political_party": "REP",
+          "votes": 12632,
+          "total_votes": 37698,
+          "percent": 33.51,
+          "total": "all"
+        },
+        {
+          "name": "Kevin Terrett",
+          "political_party": "LIB",
+          "votes": 970,
+          "total_votes": 37698,
+          "percent": 2.57,
+          "total": "all"
+        },
+        {
+          "name": "Maria Cervania",
+          "political_party": "DEM",
+          "votes": 24096,
+          "total_votes": 37698,
+          "percent": 63.92,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 13,
+          "total_votes": 37698,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 598,
+          "total_votes": 37698,
+          "percent": 1.59,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 49",
+      "csv_file": "2022_NC_House_49.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Cynthia Ball",
+          "political_party": "DEM",
+          "votes": 22519,
+          "total_votes": 33229,
+          "percent": 67.77,
+          "total": "all"
+        },
+        {
+          "name": "David Robertson",
+          "political_party": "REP",
+          "votes": 9764,
+          "total_votes": 33229,
+          "percent": 29.38,
+          "total": "all"
+        },
+        {
+          "name": "Michael Oakes",
+          "political_party": "LIB",
+          "votes": 946,
+          "total_votes": 33229,
+          "percent": 2.85,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 29,
+          "total_votes": 33229,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 626,
+          "total_votes": 33229,
+          "percent": 1.88,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 66",
+      "csv_file": "2022_NC_House_66.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Ives Brizuela de Sholar",
+          "political_party": "REP",
+          "votes": 7220,
+          "total_votes": 26533,
+          "percent": 27.21,
+          "total": "all"
+        },
+        {
+          "name": "Micao Penaflor",
+          "political_party": "LIB",
+          "votes": 707,
+          "total_votes": 26533,
+          "percent": 2.66,
+          "total": "all"
+        },
+        {
+          "name": "Sarah Crawford",
+          "political_party": "DEM",
+          "votes": 18606,
+          "total_votes": 26533,
+          "percent": 70.12,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 3,
+          "total_votes": 26533,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 432,
+          "total_votes": 26533,
+          "percent": 1.63,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 13",
+      "csv_file": "2022_NC_State_Senate_13.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "David Bankert",
+          "political_party": "REP",
+          "votes": 28002,
+          "total_votes": 81713,
+          "percent": 34.27,
+          "total": "all"
+        },
+        {
+          "name": "Lisa Grafstein",
+          "political_party": "DEM",
+          "votes": 50942,
+          "total_votes": 81713,
+          "percent": 62.34,
+          "total": "all"
+        },
+        {
+          "name": "Michael C. Munger",
+          "political_party": "LIB",
+          "votes": 2769,
+          "total_votes": 81713,
+          "percent": 3.39,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 14,
+          "total_votes": 81713,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1298,
+          "total_votes": 81713,
+          "percent": 1.59,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 14",
+      "csv_file": "2022_NC_State_Senate_14.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Baker",
+          "political_party": "REP",
+          "votes": 18385,
+          "total_votes": 65280,
+          "percent": 28.16,
+          "total": "all"
+        },
+        {
+          "name": "Dan Blue",
+          "political_party": "DEM",
+          "votes": 45020,
+          "total_votes": 65280,
+          "percent": 68.96,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Laszacs",
+          "political_party": "LIB",
+          "votes": 1875,
+          "total_votes": 65280,
+          "percent": 2.87,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 29,
+          "total_votes": 65280,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 910,
+          "total_votes": 65280,
+          "percent": 1.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 15",
+      "csv_file": "2022_NC_State_Senate_15.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Emanuela Prister",
+          "political_party": "REP",
+          "votes": 22787,
+          "total_votes": 77722,
+          "percent": 29.32,
+          "total": "all"
+        },
+        {
+          "name": "Jay J. Chaudhuri",
+          "political_party": "DEM",
+          "votes": 52472,
+          "total_votes": 77722,
+          "percent": 67.51,
+          "total": "all"
+        },
+        {
+          "name": "Sammie Brooks",
+          "political_party": "LIB",
+          "votes": 2463,
+          "total_votes": 77722,
+          "percent": 3.17,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 19,
+          "total_votes": 77722,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1410,
+          "total_votes": 77722,
+          "percent": 1.81,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 16",
+      "csv_file": "2022_NC_State_Senate_16.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dee Watson",
+          "political_party": "LIB",
+          "votes": 1771,
+          "total_votes": 75484,
+          "percent": 2.35,
+          "total": "all"
+        },
+        {
+          "name": "Gale Adcock",
+          "political_party": "DEM",
+          "votes": 49204,
+          "total_votes": 75484,
+          "percent": 65.18,
+          "total": "all"
+        },
+        {
+          "name": "James Powers",
+          "political_party": "REP",
+          "votes": 23161,
+          "total_votes": 75484,
+          "percent": 30.68,
+          "total": "all"
+        },
+        {
+          "name": "Michael Trudeau",
+          "political_party": "GRE",
+          "votes": 1348,
+          "total_votes": 75484,
+          "percent": 1.79,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 25,
+          "total_votes": 75484,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 848,
+          "total_votes": 75484,
+          "percent": 1.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 17",
+      "csv_file": "2022_NC_State_Senate_17.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Mark Cavaliero",
+          "political_party": "REP",
+          "votes": 40167,
+          "total_votes": 87368,
+          "percent": 45.97,
+          "total": "all"
+        },
+        {
+          "name": "Mrs. Sydney Batch",
+          "political_party": "DEM",
+          "votes": 45279,
+          "total_votes": 87368,
+          "percent": 51.83,
+          "total": "all"
+        },
+        {
+          "name": "Patrick J. Bowersox",
+          "political_party": "LIB",
+          "votes": 1922,
+          "total_votes": 87368,
+          "percent": 2.2,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 14,
+          "total_votes": 87368,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 720,
+          "total_votes": 87368,
+          "percent": 0.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 18",
+      "csv_file": "2022_NC_State_Senate_18.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "E. C. Sykes",
+          "political_party": "REP",
+          "votes": 27091,
+          "total_votes": 61170,
+          "percent": 44.29,
+          "total": "all"
+        },
+        {
+          "name": "Mary Wills Bode",
+          "political_party": "DEM",
+          "votes": 32537,
+          "total_votes": 61170,
+          "percent": 53.19,
+          "total": "all"
+        },
+        {
+          "name": "Ryan Brown",
+          "political_party": "LIB",
+          "votes": 1542,
+          "total_votes": 61170,
+          "percent": 2.52,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 22,
+          "total_votes": 61170,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 468,
+          "total_votes": 61170,
+          "percent": 0.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10A Seat 1",
+      "csv_file": "2022_NC_Superior_Court_Judge_10A_Seat_1.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Paul C. Ridgeway",
+          "political_party": "DEM",
+          "votes": 46882,
+          "total_votes": 46882,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 17077,
+          "total_votes": 46882,
+          "percent": 36.43,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Supreme Court Associate Justice Seat 3",
+      "csv_file": "2022_NC_Supreme_Court_Associate_Justice_Seat_3.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Lucy Inman",
+          "political_party": "DEM",
+          "votes": 283126,
+          "total_votes": 450331,
+          "percent": 62.87,
+          "total": "all"
+        },
+        {
+          "name": "Richard Dietz",
+          "political_party": "REP",
+          "votes": 167205,
+          "total_votes": 450331,
+          "percent": 37.13,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 162,
+          "total_votes": 450331,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4038,
+          "total_votes": 450331,
+          "percent": 0.9,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Supreme Court Associate Justice Seat 5",
+      "csv_file": "2022_NC_Supreme_Court_Associate_Justice_Seat_5.csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Sam J. Ervin IV",
+          "political_party": "DEM",
+          "votes": 281458,
+          "total_votes": 449281,
+          "percent": 62.65,
+          "total": "all"
+        },
+        {
+          "name": "Trey Allen",
+          "political_party": "REP",
+          "votes": 167823,
+          "total_votes": 449281,
+          "percent": 37.35,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 273,
+          "total_votes": 449281,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4965,
+          "total_votes": 449281,
+          "percent": 1.11,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US Senate",
+      "csv_file": "2022_US_Senate.csv",
+      "year": 2022,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Cheri Beasley",
+          "political_party": "DEM",
+          "votes": 281375,
+          "total_votes": 453196,
+          "percent": 62.09,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Hoh",
+          "political_party": "GRE",
+          "votes": 4103,
+          "total_votes": 453196,
+          "percent": 0.91,
+          "total": "all"
+        },
+        {
+          "name": "Shannon W. Bray",
+          "political_party": "LIB",
+          "votes": 6634,
+          "total_votes": 453196,
+          "percent": 1.46,
+          "total": "all"
+        },
+        {
+          "name": "Ted Budd",
+          "political_party": "REP",
+          "votes": 160818,
+          "total_votes": 453196,
+          "percent": 35.49,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 266,
+          "total_votes": 453196,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 184,
+          "total_votes": 453196,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1134,
+          "total_votes": 453196,
+          "percent": 0.25,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10A Seat 3 (Unexpired)",
+      "csv_file": "2022_NC_District_Court_Judge_District_10A_Seat_3_(Unexpired).csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Cynthia Baddour Kenney",
+          "political_party": "DEM",
+          "votes": 47782,
+          "total_votes": 47782,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 34500,
+          "total_votes": 47782,
+          "percent": 72.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 2",
+      "csv_file": "2022_US_House_2.csv",
+      "year": 2022,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Christine E. Villaverde",
+          "political_party": "REP",
+          "votes": 104168,
+          "total_votes": 294890,
+          "percent": 35.32,
+          "total": "all"
+        },
+        {
+          "name": "Deborah K. Ross",
+          "political_party": "DEM",
+          "votes": 190722,
+          "total_votes": 294890,
+          "percent": 64.68,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 56,
+          "total_votes": 294890,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1924,
+          "total_votes": 294890,
+          "percent": 0.65,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 13",
+      "csv_file": "2022_US_House_13.csv",
+      "year": 2022,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Bo Hines",
+          "political_party": "REP",
+          "votes": 59279,
+          "total_votes": 155941,
+          "percent": 38.01,
+          "total": "all"
+        },
+        {
+          "name": "Wiley Nickel",
+          "political_party": "DEM",
+          "votes": 96662,
+          "total_votes": 155941,
+          "percent": 61.99,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 42,
+          "total_votes": 155941,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1664,
+          "total_votes": 155941,
+          "percent": 1.07,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 4 (Unexpired)",
+      "csv_file": "2022_NC_District_Court_Judge_District_10D_Seat_4_(Unexpired).csv",
+      "year": 2022,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Rhonda Graham Young",
+          "political_party": "DEM",
+          "votes": 88175,
+          "total_votes": 88175,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 52991,
+          "total_votes": 88175,
+          "percent": 60.1,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh Parks and Rec Facilities Bond",
+      "csv_file": "2022_Raleigh_Parks_and_Rec_Facilities_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 43546,
+          "total_votes": 162671,
+          "percent": 26.77,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 119125,
+          "total_votes": 162671,
+          "percent": 73.23,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 83,
+          "total_votes": 162671,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6996,
+          "total_votes": 162671,
+          "percent": 4.3,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Roadway and Transportation Bond",
+      "csv_file": "2022_Wake_Forest_Roadway_and_Transportation_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 4520,
+          "total_votes": 19132,
+          "percent": 23.63,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 14612,
+          "total_votes": 19132,
+          "percent": 76.37,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 19132,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 903,
+          "total_votes": 19132,
+          "percent": 4.72,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Parks and Rec Bond",
+      "csv_file": "2022_Wake_Forest_Parks_and_Rec_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 5680,
+          "total_votes": 19168,
+          "percent": 29.63,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 13488,
+          "total_votes": 19168,
+          "percent": 70.37,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 19168,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 864,
+          "total_votes": 19168,
+          "percent": 4.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Greenway Improvement Bond",
+      "csv_file": "2022_Wake_Forest_Greenway_Improvement_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 6176,
+          "total_votes": 19138,
+          "percent": 32.27,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 12962,
+          "total_votes": 19138,
+          "percent": 67.73,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 4,
+          "total_votes": 19138,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 902,
+          "total_votes": 19138,
+          "percent": 4.71,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Parking Facilities Bond",
+      "csv_file": "2022_Wake_Forest_Parking_Facilities_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 8423,
+          "total_votes": 19035,
+          "percent": 44.25,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 10612,
+          "total_votes": 19035,
+          "percent": 55.75,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 6,
+          "total_votes": 19035,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1002,
+          "total_votes": 19035,
+          "percent": 5.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County School Bond",
+      "csv_file": "2022_Wake_County_School_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 125933,
+          "total_votes": 436158,
+          "percent": 28.87,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 310225,
+          "total_votes": 436158,
+          "percent": 71.13,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 253,
+          "total_votes": 436158,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 18105,
+          "total_votes": 436158,
+          "percent": 4.15,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Community College Bond",
+      "csv_file": "2022_Wake_County_Community_College_Bond.csv",
+      "year": 2022,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 132381,
+          "total_votes": 435352,
+          "percent": 30.41,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 302971,
+          "total_votes": 435352,
+          "percent": 69.59,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 121,
+          "total_votes": 435352,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 19031,
+          "total_votes": 435352,
+          "percent": 4.37,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

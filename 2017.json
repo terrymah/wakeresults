@@ -1,0 +1,1075 @@
+{
+  "contests": [
+    {
+      "name": "Apex Town Council",
+      "csv_file": "2017_Apex_Town_Council.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Audra Killingsworth",
+          "political_party": "",
+          "votes": 3843,
+          "total_votes": 17226,
+          "percent": 22.31,
+          "total": "all"
+        },
+        {
+          "name": "Brett Gantt",
+          "political_party": "",
+          "votes": 4275,
+          "total_votes": 17226,
+          "percent": 24.82,
+          "total": "all"
+        },
+        {
+          "name": "David Hooks",
+          "political_party": "",
+          "votes": 2411,
+          "total_votes": 17226,
+          "percent": 14.0,
+          "total": "all"
+        },
+        {
+          "name": "Graham Wilson",
+          "political_party": "",
+          "votes": 2131,
+          "total_votes": 17226,
+          "percent": 12.37,
+          "total": "all"
+        },
+        {
+          "name": "Nicole Dozier",
+          "political_party": "",
+          "votes": 4466,
+          "total_votes": 17226,
+          "percent": 25.93,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 100,
+          "total_votes": 17226,
+          "percent": 0.58,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 3,
+          "total_votes": 17226,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 1756,
+          "total_votes": 17226,
+          "percent": 10.19,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Mayor",
+      "csv_file": "2017_Fuquay-Varina_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "John W. Byrne",
+          "political_party": "",
+          "votes": 1560,
+          "total_votes": 2497,
+          "percent": 62.47,
+          "total": "all"
+        },
+        {
+          "name": "Steven Hall",
+          "political_party": "",
+          "votes": 932,
+          "total_votes": 2497,
+          "percent": 37.32,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 5,
+          "total_votes": 2497,
+          "percent": 0.2,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 2497,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 42,
+          "total_votes": 2497,
+          "percent": 1.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Board of Commissioners",
+      "csv_file": "2017_Fuquay-Varina_Board_of_Commissioners.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Blake Massengill",
+          "political_party": "",
+          "votes": 1356,
+          "total_votes": 4579,
+          "percent": 29.61,
+          "total": "all"
+        },
+        {
+          "name": "Jason Ora Wunsch",
+          "political_party": "",
+          "votes": 1579,
+          "total_votes": 4579,
+          "percent": 34.48,
+          "total": "all"
+        },
+        {
+          "name": "Mark A. Ivey",
+          "political_party": "",
+          "votes": 708,
+          "total_votes": 4579,
+          "percent": 15.46,
+          "total": "all"
+        },
+        {
+          "name": "Tim Beck",
+          "political_party": "",
+          "votes": 921,
+          "total_votes": 4579,
+          "percent": 20.11,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 15,
+          "total_votes": 4579,
+          "percent": 0.33,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 494,
+          "total_votes": 4579,
+          "percent": 10.79,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Town Council",
+      "csv_file": "2017_Garner_Town_Council.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Gra Singleton",
+          "political_party": "",
+          "votes": 630,
+          "total_votes": 1434,
+          "percent": 43.93,
+          "total": "all"
+        },
+        {
+          "name": "Kathy Behringer",
+          "political_party": "",
+          "votes": 716,
+          "total_votes": 1434,
+          "percent": 49.93,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 88,
+          "total_votes": 1434,
+          "percent": 6.14,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 377,
+          "total_votes": 1434,
+          "percent": 26.29,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Mayor",
+      "csv_file": "2017_Holly_Springs_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Dick Sears",
+          "political_party": "",
+          "votes": 2362,
+          "total_votes": 4500,
+          "percent": 52.49,
+          "total": "all"
+        },
+        {
+          "name": "Sean F. Mayefskie",
+          "political_party": "",
+          "votes": 2124,
+          "total_votes": 4500,
+          "percent": 47.2,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 14,
+          "total_votes": 4500,
+          "percent": 0.31,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 27,
+          "total_votes": 4500,
+          "percent": 0.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Town Council",
+      "csv_file": "2017_Holly_Springs_Town_Council.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Kelly",
+          "political_party": "",
+          "votes": 2453,
+          "total_votes": 11703,
+          "percent": 20.96,
+          "total": "all"
+        },
+        {
+          "name": "Dan Berry",
+          "political_party": "",
+          "votes": 2307,
+          "total_votes": 11703,
+          "percent": 19.71,
+          "total": "all"
+        },
+        {
+          "name": "Gerald Holleman",
+          "political_party": "",
+          "votes": 1043,
+          "total_votes": 11703,
+          "percent": 8.91,
+          "total": "all"
+        },
+        {
+          "name": "Hank Dickson",
+          "political_party": "",
+          "votes": 1811,
+          "total_votes": 11703,
+          "percent": 15.47,
+          "total": "all"
+        },
+        {
+          "name": "James (Jimmy) Cobb",
+          "political_party": "",
+          "votes": 1692,
+          "total_votes": 11703,
+          "percent": 14.46,
+          "total": "all"
+        },
+        {
+          "name": "Peter Villadsen",
+          "political_party": "",
+          "votes": 1858,
+          "total_votes": 11703,
+          "percent": 15.88,
+          "total": "all"
+        },
+        {
+          "name": "Van Crandall",
+          "political_party": "",
+          "votes": 476,
+          "total_votes": 11703,
+          "percent": 4.07,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 63,
+          "total_votes": 11703,
+          "percent": 0.54,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 9,
+          "total_votes": 11703,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 1821,
+          "total_votes": 11703,
+          "percent": 15.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Town Council",
+      "csv_file": "2017_Knightdale_Town_Council.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Holly Atkins",
+          "political_party": "",
+          "votes": 567,
+          "total_votes": 4285,
+          "percent": 13.23,
+          "total": "all"
+        },
+        {
+          "name": "Jessica Day",
+          "political_party": "",
+          "votes": 1144,
+          "total_votes": 4285,
+          "percent": 26.7,
+          "total": "all"
+        },
+        {
+          "name": "Mark Swan",
+          "political_party": "",
+          "votes": 823,
+          "total_votes": 4285,
+          "percent": 19.21,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Reardon",
+          "political_party": "",
+          "votes": 282,
+          "total_votes": 4285,
+          "percent": 6.58,
+          "total": "all"
+        },
+        {
+          "name": "Mila Mason",
+          "political_party": "",
+          "votes": 467,
+          "total_votes": 4285,
+          "percent": 10.9,
+          "total": "all"
+        },
+        {
+          "name": "Nick Stelmach",
+          "political_party": "",
+          "votes": 146,
+          "total_votes": 4285,
+          "percent": 3.41,
+          "total": "all"
+        },
+        {
+          "name": "Randy Young",
+          "political_party": "",
+          "votes": 845,
+          "total_votes": 4285,
+          "percent": 19.72,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 11,
+          "total_votes": 4285,
+          "percent": 0.26,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 9,
+          "total_votes": 4285,
+          "percent": 0.21,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 451,
+          "total_votes": 4285,
+          "percent": 10.53,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Mayor",
+      "csv_file": "2017_Morrisville_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Mark Stohlman",
+          "political_party": "",
+          "votes": 1282,
+          "total_votes": 2808,
+          "percent": 45.66,
+          "total": "all"
+        },
+        {
+          "name": "TJ Cawley",
+          "political_party": "",
+          "votes": 1523,
+          "total_votes": 2808,
+          "percent": 54.24,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 3,
+          "total_votes": 2808,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 5,
+          "total_votes": 2808,
+          "percent": 0.18,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 8,
+          "total_votes": 2808,
+          "percent": 0.28,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council At-Large",
+      "csv_file": "2017_Morrisville_Town_Council_At-Large.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Steve Rao",
+          "political_party": "",
+          "votes": 2091,
+          "total_votes": 2253,
+          "percent": 92.81,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 162,
+          "total_votes": 2253,
+          "percent": 7.19,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 2253,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 569,
+          "total_votes": 2253,
+          "percent": 25.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 2",
+      "csv_file": "2017_Morrisville_Town_Council_2.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Guri Burmi",
+          "political_party": "",
+          "votes": 1254,
+          "total_votes": 2766,
+          "percent": 45.34,
+          "total": "all"
+        },
+        {
+          "name": "Jerry Windle",
+          "political_party": "",
+          "votes": 1507,
+          "total_votes": 2766,
+          "percent": 54.48,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 5,
+          "total_votes": 2766,
+          "percent": 0.18,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2,
+          "total_votes": 2766,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 53,
+          "total_votes": 2766,
+          "percent": 1.92,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 4",
+      "csv_file": "2017_Morrisville_Town_Council_4.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Vicki Scroggins Johnson",
+          "political_party": "",
+          "votes": 2123,
+          "total_votes": 2179,
+          "percent": 97.43,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 56,
+          "total_votes": 2179,
+          "percent": 2.57,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2,
+          "total_votes": 2179,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 643,
+          "total_votes": 2179,
+          "percent": 29.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Board of Commissioners",
+      "csv_file": "2017_Rolesville_Board_of_Commissioners.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bryant West",
+          "political_party": "",
+          "votes": 217,
+          "total_votes": 2650,
+          "percent": 8.19,
+          "total": "all"
+        },
+        {
+          "name": "James C. Bradford",
+          "political_party": "",
+          "votes": 117,
+          "total_votes": 2650,
+          "percent": 4.42,
+          "total": "all"
+        },
+        {
+          "name": "Jimmie Sanders",
+          "political_party": "",
+          "votes": 175,
+          "total_votes": 2650,
+          "percent": 6.6,
+          "total": "all"
+        },
+        {
+          "name": "Joseph (Jacky) Wilson",
+          "political_party": "",
+          "votes": 476,
+          "total_votes": 2650,
+          "percent": 17.96,
+          "total": "all"
+        },
+        {
+          "name": "Ms. Gejuan Sweat Batson",
+          "political_party": "",
+          "votes": 344,
+          "total_votes": 2650,
+          "percent": 12.98,
+          "total": "all"
+        },
+        {
+          "name": "Paul Vilga",
+          "political_party": "",
+          "votes": 438,
+          "total_votes": 2650,
+          "percent": 16.53,
+          "total": "all"
+        },
+        {
+          "name": "Ronnie Currin",
+          "political_party": "",
+          "votes": 642,
+          "total_votes": 2650,
+          "percent": 24.23,
+          "total": "all"
+        },
+        {
+          "name": "Susan Flower",
+          "political_party": "",
+          "votes": 231,
+          "total_votes": 2650,
+          "percent": 8.72,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 10,
+          "total_votes": 2650,
+          "percent": 0.38,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 6,
+          "total_votes": 2650,
+          "percent": 0.23,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 279,
+          "total_votes": 2650,
+          "percent": 10.53,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Mayor",
+      "csv_file": "2017_Wake_Forest_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Thompson",
+          "political_party": "",
+          "votes": 1742,
+          "total_votes": 4032,
+          "percent": 43.2,
+          "total": "all"
+        },
+        {
+          "name": "Vivian Jones",
+          "political_party": "",
+          "votes": 2277,
+          "total_votes": 4032,
+          "percent": 56.47,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 13,
+          "total_votes": 4032,
+          "percent": 0.32,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 35,
+          "total_votes": 4032,
+          "percent": 0.87,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Board of Commissioners",
+      "csv_file": "2017_Wake_Forest_Board_of_Commissioners.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bridget Wall-Lennon",
+          "political_party": "",
+          "votes": 1791,
+          "total_votes": 7181,
+          "percent": 24.94,
+          "total": "all"
+        },
+        {
+          "name": "Edward (Ned) Jones, Jr.",
+          "political_party": "",
+          "votes": 952,
+          "total_votes": 7181,
+          "percent": 13.26,
+          "total": "all"
+        },
+        {
+          "name": "John Van Ness",
+          "political_party": "",
+          "votes": 1225,
+          "total_votes": 7181,
+          "percent": 17.06,
+          "total": "all"
+        },
+        {
+          "name": "Liz Simpers",
+          "political_party": "",
+          "votes": 1711,
+          "total_votes": 7181,
+          "percent": 23.83,
+          "total": "all"
+        },
+        {
+          "name": "Thad Juszczak",
+          "political_party": "",
+          "votes": 1467,
+          "total_votes": 7181,
+          "percent": 20.43,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 35,
+          "total_votes": 7181,
+          "percent": 0.49,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 4,
+          "total_votes": 7181,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 898,
+          "total_votes": 7181,
+          "percent": 12.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Board of Commissioners",
+      "csv_file": "2017_Wendell_Board_of_Commissioners.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bennie Collins",
+          "political_party": "",
+          "votes": 263,
+          "total_votes": 1641,
+          "percent": 16.03,
+          "total": "all"
+        },
+        {
+          "name": "Jason Joyner",
+          "political_party": "",
+          "votes": 411,
+          "total_votes": 1641,
+          "percent": 25.05,
+          "total": "all"
+        },
+        {
+          "name": "John M. Boyette",
+          "political_party": "",
+          "votes": 326,
+          "total_votes": 1641,
+          "percent": 19.87,
+          "total": "all"
+        },
+        {
+          "name": "Jon Lutz",
+          "political_party": "",
+          "votes": 496,
+          "total_votes": 1641,
+          "percent": 30.23,
+          "total": "all"
+        },
+        {
+          "name": "Ryan Zakany",
+          "political_party": "",
+          "votes": 121,
+          "total_votes": 1641,
+          "percent": 7.37,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 24,
+          "total_votes": 1641,
+          "percent": 1.46,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 242,
+          "total_votes": 1641,
+          "percent": 14.75,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Mayor",
+      "csv_file": "2017_Zebulon_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Robert S. (Bob) Matheny",
+          "political_party": "",
+          "votes": 192,
+          "total_votes": 203,
+          "percent": 94.58,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 11,
+          "total_votes": 203,
+          "percent": 5.42,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 35,
+          "total_votes": 203,
+          "percent": 17.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Board of Commissioners",
+      "csv_file": "2017_Zebulon_Board_of_Commissioners.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Annie Jean Moore",
+          "political_party": "",
+          "votes": 131,
+          "total_votes": 375,
+          "percent": 34.93,
+          "total": "all"
+        },
+        {
+          "name": "Beverly Wall Clark",
+          "political_party": "",
+          "votes": 133,
+          "total_votes": 375,
+          "percent": 35.47,
+          "total": "all"
+        },
+        {
+          "name": "Glenn York",
+          "political_party": "",
+          "votes": 110,
+          "total_votes": 375,
+          "percent": 29.33,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "",
+          "votes": 1,
+          "total_votes": 375,
+          "percent": 0.27,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 95,
+          "total_votes": 375,
+          "percent": 25.33,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Apex Parks and Rec Facilities Bond",
+      "csv_file": "2017_Apex_Parks_and_Rec_Facilities_Bond.csv",
+      "year": 2017,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "",
+          "votes": 1526,
+          "total_votes": 6267,
+          "percent": 24.35,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "",
+          "votes": 4741,
+          "total_votes": 6267,
+          "percent": 75.65,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 92,
+          "total_votes": 6267,
+          "percent": 1.47,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh Mayor",
+      "csv_file": "2017_Raleigh_Mayor.csv",
+      "year": 2017,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Charles Francis",
+          "political_party": "",
+          "votes": 23320,
+          "total_votes": 55056,
+          "percent": 42.36,
+          "total": "all"
+        },
+        {
+          "name": "Nancy McFarlane",
+          "political_party": "",
+          "votes": 31736,
+          "total_votes": 55056,
+          "percent": 57.64,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 3,
+          "total_votes": 55056,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 74,
+          "total_votes": 55056,
+          "percent": 0.13,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

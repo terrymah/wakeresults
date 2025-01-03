@@ -1,0 +1,1406 @@
+{
+  "contests": [
+    {
+      "name": "Apex Town Council",
+      "csv_file": "2021_Apex_Town_Council.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Audra Killingsworth",
+          "political_party": "NON",
+          "votes": 5708,
+          "total_votes": 31543,
+          "percent": 18.1,
+          "total": "all"
+        },
+        {
+          "name": "Brett Gantt",
+          "political_party": "NON",
+          "votes": 5901,
+          "total_votes": 31543,
+          "percent": 18.71,
+          "total": "all"
+        },
+        {
+          "name": "Christine Hale",
+          "political_party": "NON",
+          "votes": 4831,
+          "total_votes": 31543,
+          "percent": 15.32,
+          "total": "all"
+        },
+        {
+          "name": "Ed Gray",
+          "political_party": "NON",
+          "votes": 5834,
+          "total_votes": 31543,
+          "percent": 18.5,
+          "total": "all"
+        },
+        {
+          "name": "Gordon Williford",
+          "political_party": "NON",
+          "votes": 4420,
+          "total_votes": 31543,
+          "percent": 14.01,
+          "total": "all"
+        },
+        {
+          "name": "Tim Powell",
+          "political_party": "NON",
+          "votes": 4815,
+          "total_votes": 31543,
+          "percent": 15.26,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 34,
+          "total_votes": 31543,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 15,
+          "total_votes": 31543,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 626,
+          "total_votes": 31543,
+          "percent": 1.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Mayor",
+      "csv_file": "2021_Fuquay-Varina_Mayor.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Blake Massengill",
+          "political_party": "NON",
+          "votes": 2979,
+          "total_votes": 5910,
+          "percent": 50.41,
+          "total": "all"
+        },
+        {
+          "name": "Richard Bridgers",
+          "political_party": "NON",
+          "votes": 61,
+          "total_votes": 5910,
+          "percent": 1.03,
+          "total": "all"
+        },
+        {
+          "name": "Ty Ziglar",
+          "political_party": "NON",
+          "votes": 415,
+          "total_votes": 5910,
+          "percent": 7.02,
+          "total": "all"
+        },
+        {
+          "name": "William (Bill) Harris",
+          "political_party": "NON",
+          "votes": 2440,
+          "total_votes": 5910,
+          "percent": 41.29,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 15,
+          "total_votes": 5910,
+          "percent": 0.25,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 3,
+          "total_votes": 5910,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 33,
+          "total_votes": 5910,
+          "percent": 0.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Town Council",
+      "csv_file": "2021_Knightdale_Town_Council.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Parker",
+          "political_party": "NON",
+          "votes": 881,
+          "total_votes": 4059,
+          "percent": 21.7,
+          "total": "all"
+        },
+        {
+          "name": "Latatious Morris",
+          "political_party": "NON",
+          "votes": 1055,
+          "total_votes": 4059,
+          "percent": 25.99,
+          "total": "all"
+        },
+        {
+          "name": "Mark Swan",
+          "political_party": "NON",
+          "votes": 972,
+          "total_votes": 4059,
+          "percent": 23.95,
+          "total": "all"
+        },
+        {
+          "name": "Steve Evans",
+          "political_party": "NON",
+          "votes": 1103,
+          "total_votes": 4059,
+          "percent": 27.17,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 48,
+          "total_votes": 4059,
+          "percent": 1.18,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1058,
+          "total_votes": 4059,
+          "percent": 26.07,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Board of Commissioners",
+      "csv_file": "2021_Fuquay-Varina_Board_of_Commissioners.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bryan Haynes",
+          "political_party": "NON",
+          "votes": 2915,
+          "total_votes": 8909,
+          "percent": 32.72,
+          "total": "all"
+        },
+        {
+          "name": "Jason Ora Wunsch",
+          "political_party": "NON",
+          "votes": 2781,
+          "total_votes": 8909,
+          "percent": 31.22,
+          "total": "all"
+        },
+        {
+          "name": "Tracy Watson",
+          "political_party": "NON",
+          "votes": 3132,
+          "total_votes": 8909,
+          "percent": 35.16,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 81,
+          "total_votes": 8909,
+          "percent": 0.91,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2968,
+          "total_votes": 8909,
+          "percent": 33.31,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Town Council",
+      "csv_file": "2021_Garner_Town_Council.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Gra Singleton",
+          "political_party": "NON",
+          "votes": 1775,
+          "total_votes": 5127,
+          "percent": 34.62,
+          "total": "all"
+        },
+        {
+          "name": "Kathy Behringer",
+          "political_party": "NON",
+          "votes": 1813,
+          "total_votes": 5127,
+          "percent": 35.36,
+          "total": "all"
+        },
+        {
+          "name": "Rachel Tourdot",
+          "political_party": "NON",
+          "votes": 1485,
+          "total_votes": 5127,
+          "percent": 28.96,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 54,
+          "total_votes": 5127,
+          "percent": 1.05,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 5127,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 754,
+          "total_votes": 5127,
+          "percent": 14.71,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Mayor",
+      "csv_file": "2021_Holly_Springs_Mayor.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Kelly",
+          "political_party": "NON",
+          "votes": 2895,
+          "total_votes": 7371,
+          "percent": 39.28,
+          "total": "all"
+        },
+        {
+          "name": "Sean Mayefskie",
+          "political_party": "NON",
+          "votes": 4466,
+          "total_votes": 7371,
+          "percent": 60.59,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 10,
+          "total_votes": 7371,
+          "percent": 0.14,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 17,
+          "total_votes": 7371,
+          "percent": 0.23,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Holly Springs Town Council",
+      "csv_file": "2021_Holly_Springs_Town_Council.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Carrie Randa",
+          "political_party": "NON",
+          "votes": 2773,
+          "total_votes": 20021,
+          "percent": 13.85,
+          "total": "all"
+        },
+        {
+          "name": "Dan Berry",
+          "political_party": "NON",
+          "votes": 4843,
+          "total_votes": 20021,
+          "percent": 24.19,
+          "total": "all"
+        },
+        {
+          "name": "Jahmar Cobb",
+          "political_party": "NON",
+          "votes": 2651,
+          "total_votes": 20021,
+          "percent": 13.24,
+          "total": "all"
+        },
+        {
+          "name": "Kristi Bennett",
+          "political_party": "NON",
+          "votes": 4496,
+          "total_votes": 20021,
+          "percent": 22.46,
+          "total": "all"
+        },
+        {
+          "name": "Susan Smith",
+          "political_party": "NON",
+          "votes": 606,
+          "total_votes": 20021,
+          "percent": 3.03,
+          "total": "all"
+        },
+        {
+          "name": "Timothy Forrest",
+          "political_party": "NON",
+          "votes": 4559,
+          "total_votes": 20021,
+          "percent": 22.77,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 93,
+          "total_votes": 20021,
+          "percent": 0.46,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 6,
+          "total_votes": 20021,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2104,
+          "total_votes": 20021,
+          "percent": 10.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Mayor",
+      "csv_file": "2021_Morrisville_Mayor.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Liz Johnson",
+          "political_party": "NON",
+          "votes": 1245,
+          "total_votes": 3094,
+          "percent": 40.24,
+          "total": "all"
+        },
+        {
+          "name": "TJ Cawley",
+          "political_party": "NON",
+          "votes": 1837,
+          "total_votes": 3094,
+          "percent": 59.37,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 12,
+          "total_votes": 3094,
+          "percent": 0.39,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 3094,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 25,
+          "total_votes": 3094,
+          "percent": 0.81,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council At-Large",
+      "csv_file": "2021_Morrisville_Town_Council_At-Large.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "James (Jim) Semmens",
+          "political_party": "NON",
+          "votes": 1139,
+          "total_votes": 3045,
+          "percent": 37.41,
+          "total": "all"
+        },
+        {
+          "name": "Steve S. Rao",
+          "political_party": "NON",
+          "votes": 1894,
+          "total_votes": 3045,
+          "percent": 62.2,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 12,
+          "total_votes": 3045,
+          "percent": 0.39,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 3045,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 79,
+          "total_votes": 3045,
+          "percent": 2.59,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 2",
+      "csv_file": "2021_Morrisville_Town_Council_2.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donna L. Fender",
+          "political_party": "NON",
+          "votes": 2313,
+          "total_votes": 2562,
+          "percent": 90.28,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 249,
+          "total_votes": 2562,
+          "percent": 9.72,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 561,
+          "total_votes": 2562,
+          "percent": 21.9,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Town Council 4",
+      "csv_file": "2021_Morrisville_Town_Council_4.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Patty Wei-Pei Cheng",
+          "political_party": "NON",
+          "votes": 1158,
+          "total_votes": 2885,
+          "percent": 40.14,
+          "total": "all"
+        },
+        {
+          "name": "Vicki Scroggins-Johnson",
+          "political_party": "NON",
+          "votes": 1714,
+          "total_votes": 2885,
+          "percent": 59.41,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 13,
+          "total_votes": 2885,
+          "percent": 0.45,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 242,
+          "total_votes": 2885,
+          "percent": 8.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Rolesville Board of Commissioners",
+      "csv_file": "2021_Rolesville_Board_of_Commissioners.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "April Sneed",
+          "political_party": "NON",
+          "votes": 653,
+          "total_votes": 2592,
+          "percent": 25.19,
+          "total": "all"
+        },
+        {
+          "name": "Dan Tyrone Alston",
+          "political_party": "NON",
+          "votes": 563,
+          "total_votes": 2592,
+          "percent": 21.72,
+          "total": "all"
+        },
+        {
+          "name": "Jacky Wilson",
+          "political_party": "NON",
+          "votes": 456,
+          "total_votes": 2592,
+          "percent": 17.59,
+          "total": "all"
+        },
+        {
+          "name": "Paul Vilga",
+          "political_party": "NON",
+          "votes": 468,
+          "total_votes": 2592,
+          "percent": 18.06,
+          "total": "all"
+        },
+        {
+          "name": "Steven D. Dieckhaus",
+          "political_party": "NON",
+          "votes": 432,
+          "total_votes": 2592,
+          "percent": 16.67,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 20,
+          "total_votes": 2592,
+          "percent": 0.77,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 684,
+          "total_votes": 2592,
+          "percent": 26.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Mayor",
+      "csv_file": "2021_Wake_Forest_Mayor.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bridget Wall-Lennon",
+          "political_party": "NON",
+          "votes": 2763,
+          "total_votes": 6118,
+          "percent": 45.16,
+          "total": "all"
+        },
+        {
+          "name": "Vivian Jones",
+          "political_party": "NON",
+          "votes": 3305,
+          "total_votes": 6118,
+          "percent": 54.02,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 50,
+          "total_votes": 6118,
+          "percent": 0.82,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 108,
+          "total_votes": 6118,
+          "percent": 1.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Forest Board of Commissioners",
+      "csv_file": "2021_Wake_Forest_Board_of_Commissioners.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Liz Simpers",
+          "political_party": "NON",
+          "votes": 2212,
+          "total_votes": 11338,
+          "percent": 19.51,
+          "total": "all"
+        },
+        {
+          "name": "Michael Molinaro",
+          "political_party": "NON",
+          "votes": 2782,
+          "total_votes": 11338,
+          "percent": 24.54,
+          "total": "all"
+        },
+        {
+          "name": "Nick Sliwinski",
+          "political_party": "NON",
+          "votes": 2816,
+          "total_votes": 11338,
+          "percent": 24.84,
+          "total": "all"
+        },
+        {
+          "name": "Patrick Griffin",
+          "political_party": "NON",
+          "votes": 592,
+          "total_votes": 11338,
+          "percent": 5.22,
+          "total": "all"
+        },
+        {
+          "name": "R. Keith Shackleford",
+          "political_party": "NON",
+          "votes": 2909,
+          "total_votes": 11338,
+          "percent": 25.66,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 27,
+          "total_votes": 11338,
+          "percent": 0.24,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 4,
+          "total_votes": 11338,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1071,
+          "total_votes": 11338,
+          "percent": 9.45,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wendell Board of Commissioners",
+      "csv_file": "2021_Wendell_Board_of_Commissioners.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Allison Yeargin",
+          "political_party": "NON",
+          "votes": 548,
+          "total_votes": 3380,
+          "percent": 16.21,
+          "total": "all"
+        },
+        {
+          "name": "Braxton Davis Honeycutt",
+          "political_party": "NON",
+          "votes": 433,
+          "total_votes": 3380,
+          "percent": 12.81,
+          "total": "all"
+        },
+        {
+          "name": "Deans Eatman",
+          "political_party": "NON",
+          "votes": 661,
+          "total_votes": 3380,
+          "percent": 19.56,
+          "total": "all"
+        },
+        {
+          "name": "Jason Joyner",
+          "political_party": "NON",
+          "votes": 638,
+          "total_votes": 3380,
+          "percent": 18.88,
+          "total": "all"
+        },
+        {
+          "name": "Jon Lutz",
+          "political_party": "NON",
+          "votes": 681,
+          "total_votes": 3380,
+          "percent": 20.15,
+          "total": "all"
+        },
+        {
+          "name": "Josh Sledge",
+          "political_party": "NON",
+          "votes": 96,
+          "total_votes": 3380,
+          "percent": 2.84,
+          "total": "all"
+        },
+        {
+          "name": "Michael Firstbrook",
+          "political_party": "NON",
+          "votes": 311,
+          "total_votes": 3380,
+          "percent": 9.2,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 12,
+          "total_votes": 3380,
+          "percent": 0.36,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 340,
+          "total_votes": 3380,
+          "percent": 10.06,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Mayor",
+      "csv_file": "2021_Zebulon_Mayor.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Glenn York",
+          "political_party": "NON",
+          "votes": 463,
+          "total_votes": 564,
+          "percent": 82.09,
+          "total": "all"
+        },
+        {
+          "name": "Patrick Bolger",
+          "political_party": "NON",
+          "votes": 90,
+          "total_votes": 564,
+          "percent": 15.96,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 11,
+          "total_votes": 564,
+          "percent": 1.95,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 7,
+          "total_votes": 564,
+          "percent": 1.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Board of Commissioners",
+      "csv_file": "2021_Zebulon_Board_of_Commissioners.csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Annie Jean Moore",
+          "political_party": "NON",
+          "votes": 183,
+          "total_votes": 976,
+          "percent": 18.75,
+          "total": "all"
+        },
+        {
+          "name": "Beverly Wall Clark",
+          "political_party": "NON",
+          "votes": 210,
+          "total_votes": 976,
+          "percent": 21.52,
+          "total": "all"
+        },
+        {
+          "name": "Kacie Germano",
+          "political_party": "NON",
+          "votes": 176,
+          "total_votes": 976,
+          "percent": 18.03,
+          "total": "all"
+        },
+        {
+          "name": "Quentin Miles",
+          "political_party": "NON",
+          "votes": 405,
+          "total_votes": 976,
+          "percent": 41.5,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 2,
+          "total_votes": 976,
+          "percent": 0.2,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 158,
+          "total_votes": 976,
+          "percent": 16.19,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Apex Street and Sidewalk Improvement Bond",
+      "csv_file": "2021_Apex_Street_and_Sidewalk_Improvement_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 3080,
+          "total_votes": 10572,
+          "percent": 29.13,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 7492,
+          "total_votes": 10572,
+          "percent": 70.87,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 176,
+          "total_votes": 10572,
+          "percent": 1.66,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Street and Sidewalk Improvement Bond",
+      "csv_file": "2021_Garner_Street_and_Sidewalk_Improvement_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 617,
+          "total_votes": 2942,
+          "percent": 20.97,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2325,
+          "total_votes": 2942,
+          "percent": 79.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 20,
+          "total_votes": 2942,
+          "percent": 0.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Public Safety Improvement Bond",
+      "csv_file": "2021_Morrisville_Public_Safety_Improvement_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 922,
+          "total_votes": 3024,
+          "percent": 30.49,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2102,
+          "total_votes": 3024,
+          "percent": 69.51,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 3024,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 96,
+          "total_votes": 3024,
+          "percent": 3.17,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Parks and Rec Improvement Bond",
+      "csv_file": "2021_Morrisville_Parks_and_Rec_Improvement_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 993,
+          "total_votes": 3017,
+          "percent": 32.91,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2024,
+          "total_votes": 3017,
+          "percent": 67.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 105,
+          "total_votes": 3017,
+          "percent": 3.48,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Morrisville Streets, Sidewalk and Connectivity Bond",
+      "csv_file": "2021_Morrisville_Streets,_Sidewalk_and_Connectivity_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 792,
+          "total_votes": 3026,
+          "percent": 26.17,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2234,
+          "total_votes": 3026,
+          "percent": 73.83,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 96,
+          "total_votes": 3026,
+          "percent": 3.17,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Knightdale Mayor (Unexpired Term)",
+      "csv_file": "2021_Knightdale_Mayor_(Unexpired_Term).csv",
+      "year": 2021,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Charles Bullock, Sr.",
+          "political_party": "NON",
+          "votes": 452,
+          "total_votes": 1697,
+          "percent": 26.64,
+          "total": "all"
+        },
+        {
+          "name": "Jessica Day",
+          "political_party": "NON",
+          "votes": 1239,
+          "total_votes": 1697,
+          "percent": 73.01,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 6,
+          "total_votes": 1697,
+          "percent": 0.35,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 16,
+          "total_votes": 1697,
+          "percent": 0.94,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Parks and Rec Bond",
+      "csv_file": "2021_Fuquay-Varina_Parks_and_Rec_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 1820,
+          "total_votes": 5790,
+          "percent": 31.43,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 3970,
+          "total_votes": 5790,
+          "percent": 68.57,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 5790,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 154,
+          "total_votes": 5790,
+          "percent": 2.66,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Fuquay-Varina Transportation Bond",
+      "csv_file": "2021_Fuquay-Varina_Transportation_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 1391,
+          "total_votes": 5826,
+          "percent": 23.88,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 4435,
+          "total_votes": 5826,
+          "percent": 76.12,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 5826,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 136,
+          "total_votes": 5826,
+          "percent": 2.33,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Parks and Rec Bond",
+      "csv_file": "2021_Garner_Parks_and_Rec_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 751,
+          "total_votes": 2931,
+          "percent": 25.62,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2180,
+          "total_votes": 2931,
+          "percent": 74.38,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 29,
+          "total_votes": 2931,
+          "percent": 0.99,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Public Safety and Services Facilities Bond",
+      "csv_file": "2021_Garner_Public_Safety_and_Services_Facilities_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 612,
+          "total_votes": 2948,
+          "percent": 20.76,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2336,
+          "total_votes": 2948,
+          "percent": 79.24,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 1,
+          "total_votes": 2948,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 24,
+          "total_votes": 2948,
+          "percent": 0.81,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Garner Stormwater Bond",
+      "csv_file": "2021_Garner_Stormwater_Bond.csv",
+      "year": 2021,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 536,
+          "total_votes": 2939,
+          "percent": 18.24,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2403,
+          "total_votes": 2939,
+          "percent": 81.76,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 25,
+          "total_votes": 2939,
+          "percent": 0.85,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}

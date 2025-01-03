@@ -1,0 +1,2660 @@
+{
+  "contests": [
+    {
+      "name": "NC Secretary of State",
+      "csv_file": "2016_NC_Secretary_of_State.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Elaine Marshall",
+          "political_party": "DEM",
+          "votes": 312582,
+          "total_votes": 506898,
+          "percent": 61.67,
+          "total": "all"
+        },
+        {
+          "name": "Michael LaPaglia",
+          "political_party": "REP",
+          "votes": 194316,
+          "total_votes": 506898,
+          "percent": 38.33,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 69,
+          "total_votes": 506898,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 24289,
+          "total_votes": 506898,
+          "percent": 4.79,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Bousman)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Bousman).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Bryant Paris III",
+          "political_party": "NON",
+          "votes": 177596,
+          "total_votes": 424520,
+          "percent": 41.83,
+          "total": "all"
+        },
+        {
+          "name": "Monica M. Bousman",
+          "political_party": "NON",
+          "votes": 246924,
+          "total_votes": 424520,
+          "percent": 58.17,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 211,
+          "total_votes": 424520,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 106525,
+          "total_votes": 424520,
+          "percent": 25.09,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Rader)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Rader).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Robert B. Rader",
+          "political_party": "NON",
+          "votes": 258917,
+          "total_votes": 258917,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 272339,
+          "total_votes": 258917,
+          "percent": 105.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US President",
+      "csv_file": "2016_US_President.csv",
+      "year": 2016,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Donald J. Trump",
+          "political_party": "REP",
+          "votes": 196082,
+          "total_votes": 527624,
+          "percent": 37.16,
+          "total": "all"
+        },
+        {
+          "name": "Gary Johnson",
+          "political_party": "LIB",
+          "votes": 19460,
+          "total_votes": 527624,
+          "percent": 3.69,
+          "total": "all"
+        },
+        {
+          "name": "Hillary Clinton",
+          "political_party": "DEM",
+          "votes": 302736,
+          "total_votes": 527624,
+          "percent": 57.38,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 9346,
+          "total_votes": 527624,
+          "percent": 1.77,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 239,
+          "total_votes": 527624,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 3393,
+          "total_votes": 527624,
+          "percent": 0.64,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 34",
+      "csv_file": "2016_NC_House_34.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Bill Morris",
+          "political_party": "REP",
+          "votes": 15049,
+          "total_votes": 46384,
+          "percent": 32.44,
+          "total": "all"
+        },
+        {
+          "name": "Grier Martin",
+          "political_party": "DEM",
+          "votes": 31335,
+          "total_votes": 46384,
+          "percent": 67.56,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 6,
+          "total_votes": 46384,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2884,
+          "total_votes": 46384,
+          "percent": 6.22,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 35",
+      "csv_file": "2016_NC_House_35.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Malone",
+          "political_party": "REP",
+          "votes": 25117,
+          "total_votes": 47262,
+          "percent": 53.14,
+          "total": "all"
+        },
+        {
+          "name": "Terence Everitt",
+          "political_party": "DEM",
+          "votes": 22145,
+          "total_votes": 47262,
+          "percent": 46.86,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 17,
+          "total_votes": 47262,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2309,
+          "total_votes": 47262,
+          "percent": 4.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge (Zachary)",
+      "csv_file": "2016_NC_Court_of_Appeals_Judge_(Zachary).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Rickye McKoy-Mitchell",
+          "political_party": "DEM",
+          "votes": 266377,
+          "total_votes": 488728,
+          "percent": 54.5,
+          "total": "all"
+        },
+        {
+          "name": "Valerie Zachary",
+          "political_party": "REP",
+          "votes": 222351,
+          "total_votes": 488728,
+          "percent": 45.5,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 102,
+          "total_votes": 488728,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 42426,
+          "total_votes": 488728,
+          "percent": 8.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge (Ge",
+      "csv_file": "2016_NC_Court_of_Appeals_Judge_(Ge.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Donald Ray Buie",
+          "political_party": "UNA",
+          "votes": 28150,
+          "total_votes": 496021,
+          "percent": 5.68,
+          "total": "all"
+        },
+        {
+          "name": "Hunter Murphy",
+          "political_party": "REP",
+          "votes": 193614,
+          "total_votes": 496021,
+          "percent": 39.03,
+          "total": "all"
+        },
+        {
+          "name": "Margaret Eagles",
+          "political_party": "DEM",
+          "votes": 274257,
+          "total_votes": 496021,
+          "percent": 55.29,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 205,
+          "total_votes": 496021,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 35030,
+          "total_votes": 496021,
+          "percent": 7.06,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Nagle)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Nagle).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dan Nagle",
+          "political_party": "NON",
+          "votes": 215411,
+          "total_votes": 410300,
+          "percent": 52.5,
+          "total": "all"
+        },
+        {
+          "name": "Walter Rand",
+          "political_party": "NON",
+          "votes": 194889,
+          "total_votes": 410300,
+          "percent": 47.5,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 262,
+          "total_votes": 410300,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 120694,
+          "total_votes": 410300,
+          "percent": 29.42,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "One-Half Percent Local Sales and Use Tax",
+      "csv_file": "2016_One-Half_Percent_Local_Sales_and_Use_Tax.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 236206,
+          "total_votes": 498840,
+          "percent": 47.35,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 262634,
+          "total_votes": 498840,
+          "percent": 52.65,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 390,
+          "total_votes": 498840,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 32026,
+          "total_votes": 498840,
+          "percent": 6.42,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US Senate",
+      "csv_file": "2016_US_Senate.csv",
+      "year": 2016,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "Deborah K. Ross",
+          "political_party": "DEM",
+          "votes": 290286,
+          "total_votes": 524609,
+          "percent": 55.33,
+          "total": "all"
+        },
+        {
+          "name": "Richard Burr",
+          "political_party": "REP",
+          "votes": 217789,
+          "total_votes": 524609,
+          "percent": 41.51,
+          "total": "all"
+        },
+        {
+          "name": "Sean Haugh",
+          "political_party": "LIB",
+          "votes": 16534,
+          "total_votes": 524609,
+          "percent": 3.15,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 156,
+          "total_votes": 524609,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 6491,
+          "total_votes": 524609,
+          "percent": 1.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Treasurer",
+      "csv_file": "2016_NC_Treasurer.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dale R. Folwell",
+          "political_party": "REP",
+          "votes": 220962,
+          "total_votes": 503752,
+          "percent": 43.86,
+          "total": "all"
+        },
+        {
+          "name": "Dan Blue III",
+          "political_party": "DEM",
+          "votes": 282790,
+          "total_votes": 503752,
+          "percent": 56.14,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 51,
+          "total_votes": 503752,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 27453,
+          "total_votes": 503752,
+          "percent": 5.45,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Co Soil Water",
+      "csv_file": "2016_Wake_Co_Soil_Water.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Marshall Harvey",
+          "political_party": "NON",
+          "votes": 229359,
+          "total_votes": 396020,
+          "percent": 57.92,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Hebb",
+          "political_party": "NON",
+          "votes": 163436,
+          "total_votes": 396020,
+          "percent": 41.27,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 3225,
+          "total_votes": 396020,
+          "percent": 0.81,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 278,
+          "total_votes": 396020,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 134958,
+          "total_votes": 396020,
+          "percent": 34.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 17",
+      "csv_file": "2016_NC_State_Senate_17.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Susan J. Hogarth",
+          "political_party": "LIB",
+          "votes": 5191,
+          "total_votes": 122359,
+          "percent": 4.24,
+          "total": "all"
+        },
+        {
+          "name": "Susan P. Evans",
+          "political_party": "DEM",
+          "votes": 58063,
+          "total_votes": 122359,
+          "percent": 47.45,
+          "total": "all"
+        },
+        {
+          "name": "Tamara Barringer",
+          "political_party": "REP",
+          "votes": 59105,
+          "total_votes": 122359,
+          "percent": 48.3,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 43,
+          "total_votes": 122359,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 6030,
+          "total_votes": 122359,
+          "percent": 4.93,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 18",
+      "csv_file": "2016_NC_State_Senate_18.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chad Barefoot",
+          "political_party": "REP",
+          "votes": 40710,
+          "total_votes": 73614,
+          "percent": 55.3,
+          "total": "all"
+        },
+        {
+          "name": "Gil Johnson",
+          "political_party": "DEM",
+          "votes": 32904,
+          "total_votes": 73614,
+          "percent": 44.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 11,
+          "total_votes": 73614,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 3243,
+          "total_votes": 73614,
+          "percent": 4.41,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10C",
+      "csv_file": "2016_NC_Superior_Court_Judge_10C.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Michael Denning",
+          "political_party": "NON",
+          "votes": 35919,
+          "total_votes": 85550,
+          "percent": 41.99,
+          "total": "all"
+        },
+        {
+          "name": "Rebecca (Becky) Holt",
+          "political_party": "NON",
+          "votes": 49631,
+          "total_votes": 85550,
+          "percent": 58.01,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 158,
+          "total_votes": 85550,
+          "percent": 0.18,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 17238,
+          "total_votes": 85550,
+          "percent": 20.15,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superintendent of Public Instruction",
+      "csv_file": "2016_NC_Superintendent_of_Public_Instruction.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "June Atkinson",
+          "political_party": "DEM",
+          "votes": 302483,
+          "total_votes": 504907,
+          "percent": 59.91,
+          "total": "all"
+        },
+        {
+          "name": "Mark Johnson",
+          "political_party": "REP",
+          "votes": 202424,
+          "total_votes": 504907,
+          "percent": 40.09,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 94,
+          "total_votes": 504907,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 26255,
+          "total_votes": 504907,
+          "percent": 5.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 37",
+      "csv_file": "2016_NC_House_37.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Linda Hunt-Williams",
+          "political_party": "REP",
+          "votes": 27448,
+          "total_votes": 52491,
+          "percent": 52.29,
+          "total": "all"
+        },
+        {
+          "name": "Randy Barrow",
+          "political_party": "DEM",
+          "votes": 22569,
+          "total_votes": 52491,
+          "percent": 43.0,
+          "total": "all"
+        },
+        {
+          "name": "Robert Rose",
+          "political_party": "LIB",
+          "votes": 2474,
+          "total_votes": 52491,
+          "percent": 4.71,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 52491,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2732,
+          "total_votes": 52491,
+          "percent": 5.2,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge (Stephens)",
+      "csv_file": "2016_NC_Court_of_Appeals_Judge_(Stephens).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Linda Stephens",
+          "political_party": "DEM",
+          "votes": 298361,
+          "total_votes": 498774,
+          "percent": 59.82,
+          "total": "all"
+        },
+        {
+          "name": "Phil Berger, Jr.",
+          "political_party": "REP",
+          "votes": 200413,
+          "total_votes": 498774,
+          "percent": 40.18,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 100,
+          "total_votes": 498774,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 32382,
+          "total_votes": 498774,
+          "percent": 6.49,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge (Hunter)",
+      "csv_file": "2016_NC_Court_of_Appeals_Judge_(Hunter).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Abe Jones",
+          "political_party": "DEM",
+          "votes": 271317,
+          "total_votes": 493534,
+          "percent": 54.97,
+          "total": "all"
+        },
+        {
+          "name": "Bob Hunter",
+          "political_party": "REP",
+          "votes": 222217,
+          "total_votes": 493534,
+          "percent": 45.03,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 118,
+          "total_votes": 493534,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 37604,
+          "total_votes": 493534,
+          "percent": 7.62,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Labor",
+      "csv_file": "2016_NC_Commissioner_of_Labor.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Charles Meeker",
+          "political_party": "DEM",
+          "votes": 275796,
+          "total_votes": 508658,
+          "percent": 54.22,
+          "total": "all"
+        },
+        {
+          "name": "Cherie Berry",
+          "political_party": "REP",
+          "votes": 232206,
+          "total_votes": 508658,
+          "percent": 45.65,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 656,
+          "total_votes": 508658,
+          "percent": 0.13,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 250,
+          "total_votes": 508658,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 22348,
+          "total_votes": 508658,
+          "percent": 4.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 11",
+      "csv_file": "2016_NC_House_11.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Lewis",
+          "political_party": "LIB",
+          "votes": 2897,
+          "total_votes": 40445,
+          "percent": 7.16,
+          "total": "all"
+        },
+        {
+          "name": "Duane Hall",
+          "political_party": "DEM",
+          "votes": 24624,
+          "total_votes": 40445,
+          "percent": 60.88,
+          "total": "all"
+        },
+        {
+          "name": "Ray Martin",
+          "political_party": "REP",
+          "votes": 12924,
+          "total_votes": 40445,
+          "percent": 31.95,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 22,
+          "total_votes": 40445,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2586,
+          "total_votes": 40445,
+          "percent": 6.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 16",
+      "csv_file": "2016_NC_State_Senate_16.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Eric Weaver",
+          "political_party": "REP",
+          "votes": 36530,
+          "total_votes": 105372,
+          "percent": 34.67,
+          "total": "all"
+        },
+        {
+          "name": "Jay Chaudhuri",
+          "political_party": "DEM",
+          "votes": 68842,
+          "total_votes": 105372,
+          "percent": 65.33,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 17,
+          "total_votes": 105372,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7509,
+          "total_votes": 105372,
+          "percent": 7.13,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Supreme Court Associate Ju",
+      "csv_file": "2016_NC_Supreme_Court_Associate_Ju.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Michael R. (Mike) Morgan",
+          "political_party": "NON",
+          "votes": 244610,
+          "total_votes": 448483,
+          "percent": 54.54,
+          "total": "all"
+        },
+        {
+          "name": "Robert H. (Bob) Edmunds",
+          "political_party": "NON",
+          "votes": 203873,
+          "total_votes": 448483,
+          "percent": 45.46,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 390,
+          "total_votes": 448483,
+          "percent": 0.09,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 82383,
+          "total_votes": 448483,
+          "percent": 18.37,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Agriculture",
+      "csv_file": "2016_NC_Commissioner_of_Agriculture.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Steve Troxler",
+          "political_party": "REP",
+          "votes": 255283,
+          "total_votes": 507529,
+          "percent": 50.3,
+          "total": "all"
+        },
+        {
+          "name": "Walter Smith",
+          "political_party": "DEM",
+          "votes": 252246,
+          "total_votes": 507529,
+          "percent": 49.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 103,
+          "total_votes": 507529,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 23624,
+          "total_votes": 507529,
+          "percent": 4.65,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 33",
+      "csv_file": "2016_NC_House_33.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Rosa U. Gill",
+          "political_party": "DEM",
+          "votes": 33094,
+          "total_votes": 33094,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 5433,
+          "total_votes": 33094,
+          "percent": 16.42,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 36",
+      "csv_file": "2016_NC_House_36.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Irving",
+          "political_party": "LIB",
+          "votes": 2184,
+          "total_votes": 51354,
+          "percent": 4.25,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer Ferrell",
+          "political_party": "DEM",
+          "votes": 23875,
+          "total_votes": 51354,
+          "percent": 46.49,
+          "total": "all"
+        },
+        {
+          "name": "Nelson Dollar",
+          "political_party": "REP",
+          "votes": 25295,
+          "total_votes": 51354,
+          "percent": 49.26,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 15,
+          "total_votes": 51354,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2123,
+          "total_votes": 51354,
+          "percent": 4.13,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Auditor",
+      "csv_file": "2016_NC_Auditor.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Beth A. Wood",
+          "political_party": "DEM",
+          "votes": 293914,
+          "total_votes": 504437,
+          "percent": 58.27,
+          "total": "all"
+        },
+        {
+          "name": "Chuck Stuber",
+          "political_party": "REP",
+          "votes": 210523,
+          "total_votes": 504437,
+          "percent": 41.73,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 82,
+          "total_votes": 504437,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 26737,
+          "total_votes": 504437,
+          "percent": 5.3,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 4",
+      "csv_file": "2016_Wake_County_Board_of_Commissioners_4.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Erv Portman",
+          "political_party": "DEM",
+          "votes": 274593,
+          "total_votes": 494919,
+          "percent": 55.48,
+          "total": "all"
+        },
+        {
+          "name": "Kenneth (Kenn) Gardner",
+          "political_party": "REP",
+          "votes": 220326,
+          "total_votes": 494919,
+          "percent": 44.52,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 94,
+          "total_votes": 494919,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 36243,
+          "total_votes": 494919,
+          "percent": 7.32,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 41",
+      "csv_file": "2016_NC_House_41.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Chris M. Shoffner",
+          "political_party": "REP",
+          "votes": 20745,
+          "total_votes": 48236,
+          "percent": 43.01,
+          "total": "all"
+        },
+        {
+          "name": "Gale Adcock",
+          "political_party": "DEM",
+          "votes": 27491,
+          "total_votes": 48236,
+          "percent": 56.99,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 13,
+          "total_votes": 48236,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2826,
+          "total_votes": 48236,
+          "percent": 5.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Insurance",
+      "csv_file": "2016_NC_Commissioner_of_Insurance.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Mike Causey",
+          "political_party": "REP",
+          "votes": 203299,
+          "total_votes": 501487,
+          "percent": 40.54,
+          "total": "all"
+        },
+        {
+          "name": "Wayne Goodwin",
+          "political_party": "DEM",
+          "votes": 298188,
+          "total_votes": 501487,
+          "percent": 59.46,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 63,
+          "total_votes": 501487,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 29706,
+          "total_votes": 501487,
+          "percent": 5.92,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 40",
+      "csv_file": "2016_NC_House_40.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Joe John",
+          "political_party": "DEM",
+          "votes": 23786,
+          "total_votes": 47188,
+          "percent": 50.41,
+          "total": "all"
+        },
+        {
+          "name": "Marilyn Avila",
+          "political_party": "REP",
+          "votes": 23402,
+          "total_votes": 47188,
+          "percent": 49.59,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 15,
+          "total_votes": 47188,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2354,
+          "total_votes": 47188,
+          "percent": 4.99,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 39",
+      "csv_file": "2016_NC_House_39.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Darren Jackson",
+          "political_party": "DEM",
+          "votes": 31901,
+          "total_votes": 31901,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 14122,
+          "total_votes": 31901,
+          "percent": 44.27,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 38",
+      "csv_file": "2016_NC_House_38.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Olen Watson III",
+          "political_party": "LIB",
+          "votes": 5196,
+          "total_votes": 34186,
+          "percent": 15.2,
+          "total": "all"
+        },
+        {
+          "name": "Yvonne Lewis Holley",
+          "political_party": "DEM",
+          "votes": 28990,
+          "total_votes": 34186,
+          "percent": 84.8,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 39,
+          "total_votes": 34186,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 3684,
+          "total_votes": 34186,
+          "percent": 10.78,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 4",
+      "csv_file": "2016_US_House_4.csv",
+      "year": 2016,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "David Price",
+          "political_party": "DEM",
+          "votes": 206172,
+          "total_votes": 311499,
+          "percent": 66.19,
+          "total": "all"
+        },
+        {
+          "name": "Sue Googe",
+          "political_party": "REP",
+          "votes": 105327,
+          "total_votes": 311499,
+          "percent": 33.81,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 125,
+          "total_votes": 311499,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 10140,
+          "total_votes": 311499,
+          "percent": 3.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 49",
+      "csv_file": "2016_NC_House_49.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Cynthia Ball",
+          "political_party": "DEM",
+          "votes": 26975,
+          "total_votes": 55429,
+          "percent": 48.67,
+          "total": "all"
+        },
+        {
+          "name": "David Ulmer",
+          "political_party": "LIB",
+          "votes": 2299,
+          "total_votes": 55429,
+          "percent": 4.15,
+          "total": "all"
+        },
+        {
+          "name": "Gary Pendleton",
+          "political_party": "REP",
+          "votes": 26155,
+          "total_votes": 55429,
+          "percent": 47.19,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 55429,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 2064,
+          "total_votes": 55429,
+          "percent": 3.72,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Governor",
+      "csv_file": "2016_NC_Governor.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Lon Cecil",
+          "political_party": "LIB",
+          "votes": 11664,
+          "total_votes": 526575,
+          "percent": 2.22,
+          "total": "all"
+        },
+        {
+          "name": "Pat McCrory",
+          "political_party": "REP",
+          "votes": 199356,
+          "total_votes": 526575,
+          "percent": 37.86,
+          "total": "all"
+        },
+        {
+          "name": "Roy Cooper",
+          "political_party": "DEM",
+          "votes": 315555,
+          "total_votes": 526575,
+          "percent": 59.93,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 152,
+          "total_votes": 526575,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 4529,
+          "total_votes": 526575,
+          "percent": 0.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Lieutenant Governor",
+      "csv_file": "2016_NC_Lieutenant_Governor.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dan Forest",
+          "political_party": "REP",
+          "votes": 217775,
+          "total_votes": 516756,
+          "percent": 42.14,
+          "total": "all"
+        },
+        {
+          "name": "Jacki Cole",
+          "political_party": "LIB",
+          "votes": 16429,
+          "total_votes": 516756,
+          "percent": 3.18,
+          "total": "all"
+        },
+        {
+          "name": "Linda Coleman",
+          "political_party": "DEM",
+          "votes": 282552,
+          "total_votes": 516756,
+          "percent": 54.68,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 124,
+          "total_votes": 516756,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 14376,
+          "total_votes": 516756,
+          "percent": 2.78,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Attorney General",
+      "csv_file": "2016_NC_Attorney_General.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Buck Newton",
+          "political_party": "REP",
+          "votes": 203376,
+          "total_votes": 511991,
+          "percent": 39.72,
+          "total": "all"
+        },
+        {
+          "name": "Josh Stein",
+          "political_party": "DEM",
+          "votes": 308615,
+          "total_votes": 511991,
+          "percent": 60.28,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 86,
+          "total_votes": 511991,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 19179,
+          "total_votes": 511991,
+          "percent": 3.75,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 2",
+      "csv_file": "2016_US_House_2.csv",
+      "year": 2016,
+      "tags": [
+        "federal"
+      ],
+      "candidates": [
+        {
+          "name": "George Holding",
+          "political_party": "REP",
+          "votes": 111363,
+          "total_votes": 202126,
+          "percent": 55.1,
+          "total": "all"
+        },
+        {
+          "name": "John P. McNeil",
+          "political_party": "DEM",
+          "votes": 90763,
+          "total_votes": 202126,
+          "percent": 44.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 52,
+          "total_votes": 202126,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 7314,
+          "total_votes": 202126,
+          "percent": 3.62,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Sasser)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Sasser).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Debra Sasser",
+          "political_party": "NON",
+          "votes": 280204,
+          "total_votes": 280204,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 251052,
+          "total_votes": 280204,
+          "percent": 89.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Walczyk)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Walczyk).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Christine M. Walczyk",
+          "political_party": "NON",
+          "votes": 272181,
+          "total_votes": 272181,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 259075,
+          "total_votes": 272181,
+          "percent": 95.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 6",
+      "csv_file": "2016_Wake_County_Board_of_Commissioners_6.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Greg Ford",
+          "political_party": "DEM",
+          "votes": 277142,
+          "total_votes": 493414,
+          "percent": 56.17,
+          "total": "all"
+        },
+        {
+          "name": "John Odom",
+          "political_party": "REP",
+          "votes": 216272,
+          "total_votes": 493414,
+          "percent": 43.83,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 88,
+          "total_votes": 493414,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 37754,
+          "total_votes": 493414,
+          "percent": 7.65,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Worley)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Worley).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Anna Elena Worley",
+          "political_party": "NON",
+          "votes": 224044,
+          "total_votes": 401973,
+          "percent": 55.74,
+          "total": "all"
+        },
+        {
+          "name": "Marty E. Miller",
+          "political_party": "NON",
+          "votes": 177929,
+          "total_votes": 401973,
+          "percent": 44.26,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 220,
+          "total_votes": 401973,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 129063,
+          "total_votes": 401973,
+          "percent": 32.11,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 5",
+      "csv_file": "2016_Wake_County_Board_of_Commissioners_5.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "James West",
+          "political_party": "DEM",
+          "votes": 364156,
+          "total_votes": 364156,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 167100,
+          "total_votes": 364156,
+          "percent": 45.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Register of Deeds",
+      "csv_file": "2016_Wake_County_Register_of_Deeds.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Laura M. Riddick",
+          "political_party": "REP",
+          "votes": 346908,
+          "total_votes": 346908,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 184348,
+          "total_votes": 346908,
+          "percent": 53.14,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 6",
+      "csv_file": "2016_Wake_County_Board_of_Education_6.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Kushner",
+          "political_party": "NON",
+          "votes": 35926,
+          "total_votes": 36768,
+          "percent": 97.71,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 842,
+          "total_votes": 36768,
+          "percent": 2.29,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 36768,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 24307,
+          "total_votes": 36768,
+          "percent": 66.11,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 3",
+      "csv_file": "2016_Wake_County_Board_of_Education_3.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Roxie Cash",
+          "political_party": "NON",
+          "votes": 28916,
+          "total_votes": 30006,
+          "percent": 96.37,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 1090,
+          "total_votes": 30006,
+          "percent": 3.63,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 29,
+          "total_votes": 30006,
+          "percent": 0.1,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 31303,
+          "total_votes": 30006,
+          "percent": 104.32,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 4",
+      "csv_file": "2016_Wake_County_Board_of_Education_4.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Heather Elliott",
+          "political_party": "NON",
+          "votes": 10381,
+          "total_votes": 39302,
+          "percent": 26.41,
+          "total": "all"
+        },
+        {
+          "name": "Keith Sutton",
+          "political_party": "NON",
+          "votes": 28660,
+          "total_votes": 39302,
+          "percent": 72.92,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 261,
+          "total_votes": 39302,
+          "percent": 0.66,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 42,
+          "total_votes": 39302,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 9722,
+          "total_votes": 39302,
+          "percent": 24.74,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge (Dietz)",
+      "csv_file": "2016_NC_Court_of_Appeals_Judge_(Dietz).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Richard Dietz",
+          "political_party": "REP",
+          "votes": 216488,
+          "total_votes": 491341,
+          "percent": 44.06,
+          "total": "all"
+        },
+        {
+          "name": "Vince Rozier",
+          "political_party": "DEM",
+          "votes": 274853,
+          "total_votes": 491341,
+          "percent": 55.94,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 85,
+          "total_votes": 491341,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 39830,
+          "total_votes": 491341,
+          "percent": 8.11,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 1",
+      "csv_file": "2016_Wake_County_Board_of_Education_1.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Donald Agee",
+          "political_party": "NON",
+          "votes": 17446,
+          "total_votes": 49555,
+          "percent": 35.21,
+          "total": "all"
+        },
+        {
+          "name": "Mary Beth Ainsworth",
+          "political_party": "NON",
+          "votes": 8245,
+          "total_votes": 49555,
+          "percent": 16.64,
+          "total": "all"
+        },
+        {
+          "name": "Sheila W. Ellis",
+          "political_party": "NON",
+          "votes": 6829,
+          "total_votes": 49555,
+          "percent": 13.78,
+          "total": "all"
+        },
+        {
+          "name": "Tom Benton",
+          "political_party": "NON",
+          "votes": 16830,
+          "total_votes": 49555,
+          "percent": 33.96,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 205,
+          "total_votes": 49555,
+          "percent": 0.41,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 95,
+          "total_votes": 49555,
+          "percent": 0.19,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 11966,
+          "total_votes": 49555,
+          "percent": 24.15,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 5",
+      "csv_file": "2016_Wake_County_Board_of_Education_5.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Martin",
+          "political_party": "NON",
+          "votes": 30269,
+          "total_votes": 31065,
+          "percent": 97.44,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 796,
+          "total_votes": 31065,
+          "percent": 2.56,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 21,
+          "total_votes": 31065,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 20724,
+          "total_votes": 31065,
+          "percent": 66.71,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 2",
+      "csv_file": "2016_Wake_County_Board_of_Education_2.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Mark A. Ivey",
+          "political_party": "NON",
+          "votes": 7191,
+          "total_votes": 45329,
+          "percent": 15.86,
+          "total": "all"
+        },
+        {
+          "name": "Monika Johnson-Hostler",
+          "political_party": "NON",
+          "votes": 21151,
+          "total_votes": 45329,
+          "percent": 46.66,
+          "total": "all"
+        },
+        {
+          "name": "Peter Hochstaetter",
+          "political_party": "NON",
+          "votes": 16780,
+          "total_votes": 45329,
+          "percent": 37.02,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 207,
+          "total_votes": 45329,
+          "percent": 0.46,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 155,
+          "total_votes": 45329,
+          "percent": 0.34,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 11417,
+          "total_votes": 45329,
+          "percent": 25.19,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 8",
+      "csv_file": "2016_Wake_County_Board_of_Education_8.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Gary Lewis",
+          "political_party": "NON",
+          "votes": 14240,
+          "total_votes": 52076,
+          "percent": 27.34,
+          "total": "all"
+        },
+        {
+          "name": "Gil Pagan",
+          "political_party": "NON",
+          "votes": 15722,
+          "total_votes": 52076,
+          "percent": 30.19,
+          "total": "all"
+        },
+        {
+          "name": "Lindsay Mahaffey",
+          "political_party": "NON",
+          "votes": 21829,
+          "total_votes": 52076,
+          "percent": 41.92,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 285,
+          "total_votes": 52076,
+          "percent": 0.55,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 57,
+          "total_votes": 52076,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 16757,
+          "total_votes": 52076,
+          "percent": 32.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 7",
+      "csv_file": "2016_Wake_County_Board_of_Education_7.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 789,
+          "total_votes": 35414,
+          "percent": 2.23,
+          "total": "all"
+        },
+        {
+          "name": "Zora S. Felton",
+          "political_party": "NON",
+          "votes": 34625,
+          "total_votes": 35414,
+          "percent": 97.77,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 19,
+          "total_votes": 35414,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 25550,
+          "total_votes": 35414,
+          "percent": 72.15,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 14",
+      "csv_file": "2016_NC_State_Senate_14.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Dan Blue",
+          "political_party": "DEM",
+          "votes": 73870,
+          "total_votes": 73870,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 2,
+          "total_votes": 73870,
+          "percent": 0.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 15286,
+          "total_votes": 73870,
+          "percent": 20.69,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 9",
+      "csv_file": "2016_Wake_County_Board_of_Education_9.csv",
+      "year": 2016,
+      "tags": [
+        "local"
+      ],
+      "candidates": [
+        {
+          "name": "Bill Fletcher",
+          "political_party": "NON",
+          "votes": 26797,
+          "total_votes": 39116,
+          "percent": 68.51,
+          "total": "all"
+        },
+        {
+          "name": "Michael Tanbusch",
+          "political_party": "NON",
+          "votes": 11861,
+          "total_votes": 39116,
+          "percent": 30.32,
+          "total": "all"
+        },
+        {
+          "name": "WRITE-IN",
+          "political_party": "NON",
+          "votes": 458,
+          "total_votes": 39116,
+          "percent": 1.17,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 25,
+          "total_votes": 39116,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 20415,
+          "total_votes": 39116,
+          "percent": 52.19,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Chasse)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Chasse).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Eric Craig Chasse",
+          "political_party": "NON",
+          "votes": 269883,
+          "total_votes": 269883,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 261373,
+          "total_votes": 269883,
+          "percent": 96.85,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 15",
+      "csv_file": "2016_NC_State_Senate_15.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Brad Hessel",
+          "political_party": "LIB",
+          "votes": 5081,
+          "total_votes": 117985,
+          "percent": 4.31,
+          "total": "all"
+        },
+        {
+          "name": "John Alexander",
+          "political_party": "REP",
+          "votes": 58999,
+          "total_votes": 117985,
+          "percent": 50.01,
+          "total": "all"
+        },
+        {
+          "name": "Laurel Deegan-Fricke",
+          "political_party": "DEM",
+          "votes": 53905,
+          "total_votes": 117985,
+          "percent": 45.69,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": "",
+          "votes": 35,
+          "total_votes": 117985,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 5882,
+          "total_votes": 117985,
+          "percent": 4.99,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Griffin)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Griffin).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Jefferson G. Griffin",
+          "political_party": "NON",
+          "votes": 293797,
+          "total_votes": 293797,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 237459,
+          "total_votes": 293797,
+          "percent": 80.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Davidian)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Davidian).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "V.A. (Woofer) Davidian III",
+          "political_party": "NON",
+          "votes": 294848,
+          "total_votes": 294848,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 236408,
+          "total_votes": 294848,
+          "percent": 80.18,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Brewer)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Brewer).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Jacqueline L. Brewer",
+          "political_party": "NON",
+          "votes": 283041,
+          "total_votes": 283041,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 248215,
+          "total_votes": 283041,
+          "percent": 87.7,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge Dist 10 (Christian)",
+      "csv_file": "2016_NC_District_Court_Judge_Dist_10_(Christian).csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "Lori G. Christian",
+          "political_party": "NON",
+          "votes": 284066,
+          "total_votes": 284066,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 247190,
+          "total_votes": 284066,
+          "percent": 87.02,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10F",
+      "csv_file": "2016_NC_Superior_Court_Judge_10F.csv",
+      "year": 2016,
+      "tags": [
+        "state"
+      ],
+      "candidates": [
+        {
+          "name": "A. Graham Shirley",
+          "political_party": "NON",
+          "votes": 62466,
+          "total_votes": 62466,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": "",
+          "votes": 36581,
+          "total_votes": 62466,
+          "percent": 58.56,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}
