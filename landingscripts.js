@@ -359,7 +359,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const color = selectedElection.candidates
       .map(candidate => partyColors[candidate.political_party] || partyColors.default)
       .join(",");
-    const name = selectedElection.candidates.map(candidate => candidate.name).join(",");
+    const name = selectedElection.candidates.map(candidate => encodeURIComponent(candidate.name)).join(",");
     const title = encodeURIComponent(selectedElection.name) + ` (${selectedElection.year})`;
 
     return `map.html?file=${file}&csv=${csv}&portion=${portion}&total=${total}&color=${color}&name=${name}&title=${title}`;
@@ -406,8 +406,8 @@ document.addEventListener("DOMContentLoaded", () => {
       const portion = selectedCandidates.map(candidate => candidate.column).join(",");
       const total = selectedCandidates.map(candidate => candidate.total).join(",");
       const color = selectedCandidates.map(candidate => partyColors[candidate.political_party] || partyColors.default).join(",");
-      const name = selectedCandidates.map(candidate => candidate.name).join(",");
-      const title = selectedCandidates.map(candidate => candidate.name).join(" vs ");
+      const name = selectedCandidates.map(candidate => encodeURIComponent(candidate.name)).join(",");
+      const title = selectedCandidates.map(candidate => encodeURIComponent(candidate.name)).join(" vs ");
 
       const url = `map.html?file=${file}&csv=${csv}&portion=${portion}&total=${total}&color=${color}&name=${name}&title=${title}`;
       window.location.href = url;

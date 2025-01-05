@@ -1127,8 +1127,8 @@
       ]
     },
     {
-      "name": "Morrisville Streets, Sidewalk and Connectivity Bond",
-      "csv_file": "2021_Morrisville_Streets,_Sidewalk_and_Connectivity_Bond.csv",
+      "name": "Morrisville Streets Sidewalk and Connectivity Bond",
+      "csv_file": "2021_Morrisville_Streets_Sidewalk_and_Connectivity_Bond.csv",
       "year": 2021,
       "tags": [
         "local",
@@ -1170,7 +1170,7 @@
       ],
       "candidates": [
         {
-          "name": "Charles Bullock, Sr.",
+          "name": "Charles Bullock Sr.",
           "political_party": "NON",
           "votes": 452,
           "total_votes": 1697,

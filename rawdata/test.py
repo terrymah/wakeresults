@@ -93,6 +93,9 @@ def mutate_contest_title(title: str) -> str:
     # Restore "US " and "NC " as uppercase after title casing
     title = title.replace("Us ", "US ").replace("Nc ", "NC ")
 
+    # Remove all commas
+    title = title.replace(",", "")
+
     return title
 
 def parse_year_from_election_dt(election_dt_values: pd.Series) -> int:
@@ -144,13 +147,16 @@ def main():
         # 2. Write-in rule: If result_type_lbl == "WRI", rename candidate_name to "Write-In"
         df.loc[df["result_type_lbl"] == "WRI", "candidate_name"] = "Write-In"
 
-        # 3. Replace UNDER/OVER votes (with or without 'S') with 'under' and 'over'
+        # 3. Remove commas from candidate names
+        df["candidate_name"] = df["candidate_name"].str.replace(",", "", regex=False)        
+
+        # 4. Replace UNDER/OVER votes (with or without 'S') with 'under' and 'over'
         df.loc[df["candidate_name"].str.upper() == "UNDER VOTE", "candidate_name"] = "under"
         df.loc[df["candidate_name"].str.upper() == "OVER VOTE", "candidate_name"] = "over"
         df.loc[df["candidate_name"].str.upper() == "UNDER VOTES", "candidate_name"] = "under"
         df.loc[df["candidate_name"].str.upper() == "OVER VOTES", "candidate_name"] = "over"
 
-        # 4. Identify all unique contests
+        # 5. Identify all unique contests
         unique_contests = df["contest_title"].unique()
 
         for contest_title in unique_contests:

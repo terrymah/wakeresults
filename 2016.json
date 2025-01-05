@@ -521,8 +521,8 @@
       ]
     },
     {
-      "name": "Wake Co Soil Water",
-      "csv_file": "2016_Wake_Co_Soil_Water.csv",
+      "name": "Wake County Soil and Water",
+      "csv_file": "2016_Wake_County_Soil_and_Water.csv",
       "year": 2016,
       "tags": [
         "local"
@@ -813,7 +813,7 @@
           "total": "all"
         },
         {
-          "name": "Phil Berger, Jr.",
+          "name": "Phil Berger Jr.",
           "political_party": "REP",
           "votes": 200413,
           "total_votes": 498774,

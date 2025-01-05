@@ -200,6 +200,7 @@ const mapEnabled = getQueryParam('showMap', 'yes') === 'yes';
 
 // Validate that the lengths match
 if (portionColumns.length !== totalColumns.length || portionColumns.length !== friendlyNames.length) {
+  console.log(portionColumns, totalColumns, friendlyNames);
   alert('The number of portion, total, and name columns must match.');
   throw new Error('Mismatched portion, total, and name arrays.');
 }
