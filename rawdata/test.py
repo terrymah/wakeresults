@@ -5,6 +5,38 @@ import pandas as pd
 import re
 from datetime import datetime
 
+def parse_winner_count(file_path):
+    """
+    Parses the winner.count file and returns a dictionary of contests with their 'pick' values.
+    Format of the dictionary:
+    {
+        (year, contest_name): pick_value
+    }
+    """
+    winners_dict = {}
+    current_year = None
+
+    with open(file_path, "r") as f:
+        for line in f:
+            line = line.strip()
+
+            # If the line starts with "year XXXX", update the current year
+            if line.startswith("year "):
+                current_year = line.split(" ")[1]
+                continue
+
+            # Otherwise, parse the contest name and "vote for X"
+            match = re.match(r"^(.*) \(VOTE FOR (\d+)\)$", line)
+            if match:
+                contest_name = match.group(1)
+                pick_value = int(match.group(2))
+
+                # Store the contest name and pick value in the dictionary
+                if current_year is not None:
+                    winners_dict[(current_year, contest_name)] = pick_value
+
+    return winners_dict
+
 def get_tags(contest_title: str) -> list:
     """
     Determine tags (local, state, federal, bond) for a contest_title based on simple rules:
@@ -114,6 +146,9 @@ def parse_year_from_election_dt(election_dt_values: pd.Series) -> int:
     return None
 
 def main():
+    # Parse the winner.count file to get the number of winners for contests
+    winners_dict = parse_winner_count("winner.count")
+
     # Process each .txt file in the current directory
     for filepath in glob.glob("*.txt"):
         filename_no_ext = os.path.splitext(filepath)[0]
@@ -164,16 +199,22 @@ def main():
             if "DURHAM" in contest_title.upper() or "ANGIER" in contest_title.upper():
                 continue
 
-            # 4a. Subset the DataFrame for this contest
+            # 5a. Subset the DataFrame for this contest
             sub_df = df[df["contest_title"] == contest_title].copy()
 
-            # 4b. Get tags before mutating the title
+            # 5b. Get tags before mutating the title
             tags = get_tags(contest_title)
 
-            # 4c. Mutate the contest title for brevity and title case
+            # 5c. Mutate the contest title for brevity and title case
             mutated_title = mutate_contest_title(contest_title)
 
-            # 5. Build the pivot table: Rows = precinct_code, Columns = candidate_name, Values = sum(vote_ct)
+            # 5d. Determine the year from the election date
+            election_year = parse_year_from_election_dt(sub_df["election_dt"])
+
+            # 5e. Get the number of winners (pick) for this contest
+            pick_value = winners_dict.get((str(election_year), contest_title), 1)            
+
+            # 6. Build the pivot table: Rows = precinct_code, Columns = candidate_name, Values = sum(vote_ct)
             pivot = (
                 sub_df
                 .groupby(["precinct_code", "candidate_name"], as_index=False)["vote_ct"]
@@ -209,7 +250,7 @@ def main():
             output_csv_name = f"{filename_no_ext}_{mutated_title.replace(' ', '_')}.csv"
             pivot.to_csv(output_csv_name, index=False)
 
-            # 6. Compute total_votes and candidate summary
+            # 7. Compute total_votes and candidate summary
             candidate_sums = (
                 sub_df
                 .groupby("candidate_name", as_index=False)["vote_ct"]
@@ -250,6 +291,7 @@ def main():
                 "csv_file": output_csv_name,
                 "year": parse_year_from_election_dt(sub_df["election_dt"]),
                 "tags": tags,
+                "pick": pick_value,  # Add the pick value                
                 "candidates": candidates_list
             }
 
