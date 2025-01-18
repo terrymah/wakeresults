@@ -9,7 +9,10 @@
             {
                 "name": "Total Voters",
                 "column": "voted_total",
-                "total": "total"
+                "total": "total",
+                "votes": 655542,
+                "total_votes": 789543,
+                "percent": 83.03
             }
         ]
     },
@@ -22,22 +25,34 @@
             {
                 "name": "Female Voters",
                 "column": "gender_F_voted",
-                "total": "gender_F"
+                "total": "gender_F",
+                "votes": 326033,
+                "total_votes": 378840,
+                "percent": 86.06
             },
             {
                 "name": "Male Voters",
                 "column": "gender_M_voted",
-                "total": "gender_M"
+                "total": "gender_M",
+                "votes": 270288,
+                "total_votes": 327900,
+                "percent": 82.43
             },
             {
                 "name": "Unspecified Gender Voters",
                 "column": "gender_U_voted",
-                "total": "gender_U"
+                "total": "gender_U",
+                "votes": 59221,
+                "total_votes": 82803,
+                "percent": 71.52
             },
             {
                 "name": "Total Voters",
                 "column": "voted_total",
-                "total": "total"
+                "total": "total",
+                "votes": 655542,
+                "total_votes": 789543,
+                "percent": 83.03
             }            
         ]
     },
@@ -50,37 +65,58 @@
             {
                 "name": "Asian Voters",
                 "column": "race_A_voted",
-                "total": "race_A"
+                "total": "race_A",
+                "votes": 27579,
+                "total_votes": 34426,
+                "percent": 80.11
             },
             {
                 "name": "Black Voters",
                 "column": "race_B_voted",
-                "total": "race_B"
+                "total": "race_B",
+                "votes": 103898,
+                "total_votes": 135096,
+                "percent": 76.91
             },
             {
                 "name": "Multiple Race Voters",
                 "column": "race_M_voted",
-                "total": "race_M"
+                "total": "race_M",
+                "votes": 3692,
+                "total_votes": 4793,
+                "percent": 77.03
             },
             {
                 "name": "Unspecified Race Voters",
                 "column": "race_U_voted",
-                "total": "race_U"
+                "total": "race_U",
+                "votes": 66493,
+                "total_votes": 93129,
+                "percent": 71.40
             },
             {
                 "name": "White Voters",
                 "column": "race_W_voted",
-                "total": "race_W"
+                "total": "race_W",
+                "votes": 421478,
+                "total_votes": 478067,
+                "percent": 88.16
             },
             {
                 "name": "Hispanic Voters",
                 "column": "ethnic_HL_voted",
-                "total": "ethnic_HL"
+                "total": "ethnic_HL",
+                "votes": 25123,
+                "total_votes": 35595,
+                "percent": 70.58
             },
             {
                 "name": "Total Voters",
                 "column": "voted_total",
-                "total": "total"
+                "total": "total",
+                "votes": 655542,
+                "total_votes": 789543,
+                "percent": 83.03
             }
         ]
     },
@@ -94,38 +130,204 @@
                 "name": "Democratic Voters",
                 "column": "party_DEM_voted",
                 "total": "party_DEM",
-                "party": "dem"
+                "party": "dem",
+                "votes": 228661,
+                "total_votes": 268806,
+                "percent": 85.07
             },
             {
                 "name": "Republican Voters",
                 "column": "party_REP_voted",
                 "total": "party_REP",
-                "party": "rep"
+                "party": "rep",
+                "votes": 147361,
+                "total_votes": 167744,
+                "percent": 87.85
             },
             {
                 "name": "Green Party Voters",
                 "column": "party_GRE_voted",
                 "total": "party_GRE",
-                "party": "gre"
+                "party": "gre",
+                "votes": 396,
+                "total_votes": 511,
+                "percent": 77.50
             },
             {
                 "name": "Libertarian Voters",
                 "column": "party_LIB_voted",
                 "total": "party_LIB",
-                "party": "lib"
+                "party": "lib",
+                "votes": 3699,
+                "total_votes": 5029,
+                "percent": 73.55
             },
             {
                 "name": "Unaffiliated Voters",
                 "column": "party_UNA_voted",
                 "total": "party_UNA",
-                "party": "una"
+                "party": "una",
+                "votes": 273201,
+                "total_votes": 344187,
+                "percent": 79.38
             },     
             {
                 "name": "Total Voters",
                 "column": "voted_total",
-                "total": "total"
+                "total": "total",
+                "votes": 655542,
+                "total_votes": 789543,
+                "percent": 83.03
             }
         ]
-    }
+    },
+
+    {
+        "name": "Demographics - Gender",
+        "csv_file": "demoturnout2024.csv",
+        "year": 2024,
+        "tags": [
+          "turnout"
+        ],
+        "candidates": [
+          {
+            "name": "Female",
+            "column": "gender_F",
+            "total": "total",
+            "votes": 378840,
+            "total_votes": 789543,
+            "percent": 47.98
+          },
+          {
+            "name": "Male",
+            "column": "gender_M",
+            "total": "total",
+            "votes": 327900,
+            "total_votes": 789543,
+            "percent": 41.53
+          },
+          {
+            "name": "Unspecified",
+            "column": "gender_U",
+            "total": "total",
+            "votes": 82803,
+            "total_votes": 789543,
+            "percent": 10.49
+          }
+        ]
+      },
+      {
+        "name": "Demographics - Race",
+        "csv_file": "demoturnout2024.csv",
+        "year": 2024,
+        "tags": [
+          "turnout"
+        ],
+        "candidates": [
+          {
+            "name": "Asian",
+            "column": "race_A",
+            "total": "total",
+            "votes": 34426,
+            "total_votes": 789543,
+            "percent": 4.36
+          },
+          {
+            "name": "Black",
+            "column": "race_B",
+            "total": "total",
+            "votes": 135096,
+            "total_votes": 789543,
+            "percent": 17.11
+          },
+          {
+            "name": "Multiple Race",
+            "column": "race_M",
+            "total": "total",
+            "votes": 4793,
+            "total_votes": 789543,
+            "percent": 0.61
+          },
+          {
+            "name": "Unspecified Race",
+            "column": "race_U",
+            "total": "total",
+            "votes": 93129,
+            "total_votes": 789543,
+            "percent": 11.8
+          },
+          {
+            "name": "White",
+            "column": "race_W",
+            "total": "total",
+            "votes": 478067,
+            "total_votes": 789543,
+            "percent": 60.55
+          },
+          {
+            "name": "Hispanic",
+            "column": "ethnic_HL",
+            "total": "total",
+            "votes": 35595,
+            "total_votes": 789543,
+            "percent": 4.51
+          }
+        ]
+      },
+      {
+        "name": "Demographics - Party",
+        "csv_file": "demoturnout2024.csv",
+        "year": 2024,
+        "tags": [
+          "turnout"
+        ],
+        "candidates": [
+          {
+            "name": "Democrats",
+            "column": "party_DEM",
+            "total": "total",
+            "party": "dem",
+            "votes": 268806,
+            "total_votes": 789543,
+            "percent": 34.05
+          },
+          {
+            "name": "Republican",
+            "column": "party_REP",
+            "total": "total",
+            "party": "rep",
+            "votes": 167744,
+            "total_votes": 789543,
+            "percent": 21.25
+          },
+          {
+            "name": "Green",
+            "column": "party_GRE",
+            "total": "total",
+            "party": "gre",
+            "votes": 396,
+            "total_votes": 789543,
+            "percent": 0.05
+          },
+          {
+            "name": "Libertarian",
+            "column": "party_LIB",
+            "total": "total",
+            "party": "lib",
+            "votes": 5029,
+            "total_votes": 789543,
+            "percent": 0.64
+          },
+          {
+            "name": "Unaffiliated",
+            "column": "party_UNA",
+            "total": "total",
+            "party": "una",
+            "votes": 344187,
+            "total_votes": 789543,
+            "percent": 43.59
+          }
+        ]
+      }
 ]
 }
