@@ -1,0 +1,340 @@
+{
+    "contests": [
+        {
+            "name": "Total Turnout",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 430420,
+                    "total_votes": 704553,
+                    "percent": 61.09
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Gender",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Female Voters",
+                    "column": "gender_F_voted",
+                    "total": "gender_F",
+                    "votes": 217193,
+                    "total_votes": 342553,
+                    "percent": 63.4
+                },
+                {
+                    "name": "Male Voters",
+                    "column": "gender_M_voted",
+                    "total": "gender_M",
+                    "votes": 185085,
+                    "total_votes": 295988,
+                    "percent": 62.53
+                },
+                {
+                    "name": "Unspecified Gender Voters",
+                    "column": "gender_U_voted",
+                    "total": "gender_U",
+                    "votes": 28142,
+                    "total_votes": 66012,
+                    "percent": 42.63
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 430420,
+                    "total_votes": 704553,
+                    "percent": 61.09
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Race",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Asian Voters",
+                    "column": "race_A_voted",
+                    "total": "race_A",
+                    "votes": 14384,
+                    "total_votes": 28120,
+                    "percent": 51.15
+                },
+                {
+                    "name": "Black Voters",
+                    "column": "race_B_voted",
+                    "total": "race_B",
+                    "votes": 62996,
+                    "total_votes": 120869,
+                    "percent": 52.12
+                },
+                {
+                    "name": "Multiple Race Voters",
+                    "column": "race_M_voted",
+                    "total": "race_M",
+                    "votes": 2363,
+                    "total_votes": 4637,
+                    "percent": 50.96
+                },
+                {
+                    "name": "Unspecified Race Voters",
+                    "column": "race_U_voted",
+                    "total": "race_U",
+                    "votes": 31808,
+                    "total_votes": 75236,
+                    "percent": 42.28
+                },
+                {
+                    "name": "White Voters",
+                    "column": "race_W_voted",
+                    "total": "race_W",
+                    "votes": 304170,
+                    "total_votes": 443413,
+                    "percent": 68.6
+                },
+                {
+                    "name": "Hispanic Voters",
+                    "column": "ethnic_HL_voted",
+                    "total": "ethnic_HL",
+                    "votes": 10517,
+                    "total_votes": 27001,
+                    "percent": 38.95
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 430420,
+                    "total_votes": 704553,
+                    "percent": 61.09
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Party",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Democratic Voters",
+                    "column": "party_DEM_voted",
+                    "total": "party_DEM",
+                    "party": "dem",
+                    "votes": 159982,
+                    "total_votes": 251937,
+                    "percent": 63.5
+                },
+                {
+                    "name": "Republican Voters",
+                    "column": "party_REP_voted",
+                    "total": "party_REP",
+                    "party": "rep",
+                    "votes": 105835,
+                    "total_votes": 158529,
+                    "percent": 66.76
+                },
+                {
+                    "name": "Green Party Voters",
+                    "column": "party_GRE_voted",
+                    "total": "party_GRE",
+                    "party": "gre",
+                    "votes": 35,
+                    "total_votes": 53,
+                    "percent": 66.04
+                },
+                {
+                    "name": "Libertarian Voters",
+                    "column": "party_LIB_voted",
+                    "total": "party_LIB",
+                    "party": "lib",
+                    "votes": 2191,
+                    "total_votes": 5103,
+                    "percent": 42.94
+                },
+                {
+                    "name": "Unaffiliated Voters",
+                    "column": "party_UNA_voted",
+                    "total": "party_UNA",
+                    "party": "una",
+                    "votes": 162377,
+                    "total_votes": 288931,
+                    "percent": 56.2
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 430420,
+                    "total_votes": 704553,
+                    "percent": 61.09
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Gender",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Female",
+                    "column": "gender_F",
+                    "total": "total",
+                    "votes": 342553,
+                    "total_votes": 704553,
+                    "percent": 48.62
+                },
+                {
+                    "name": "Male",
+                    "column": "gender_M",
+                    "total": "total",
+                    "votes": 295988,
+                    "total_votes": 704553,
+                    "percent": 42.01
+                },
+                {
+                    "name": "Unspecified",
+                    "column": "gender_U",
+                    "total": "total",
+                    "votes": 66012,
+                    "total_votes": 704553,
+                    "percent": 9.37
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Race",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Asian",
+                    "column": "race_A",
+                    "total": "total",
+                    "votes": 28120,
+                    "total_votes": 704553,
+                    "percent": 3.99
+                },
+                {
+                    "name": "Black",
+                    "column": "race_B",
+                    "total": "total",
+                    "votes": 120869,
+                    "total_votes": 704553,
+                    "percent": 17.16
+                },
+                {
+                    "name": "Multiple Race",
+                    "column": "race_M",
+                    "total": "total",
+                    "votes": 4637,
+                    "total_votes": 704553,
+                    "percent": 0.66
+                },
+                {
+                    "name": "Unspecified Race",
+                    "column": "race_U",
+                    "total": "total",
+                    "votes": 75236,
+                    "total_votes": 704553,
+                    "percent": 10.68
+                },
+                {
+                    "name": "White",
+                    "column": "race_W",
+                    "total": "total",
+                    "votes": 443413,
+                    "total_votes": 704553,
+                    "percent": 62.94
+                },
+                {
+                    "name": "Hispanic",
+                    "column": "ethnic_HL",
+                    "total": "total",
+                    "votes": 27001,
+                    "total_votes": 704553,
+                    "percent": 3.83
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Party",
+            "csv_file": "demoturnout2022.csv",
+            "year": 2022,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Democrats",
+                    "column": "party_DEM",
+                    "total": "total",
+                    "party": "dem",
+                    "votes": 251937,
+                    "total_votes": 704553,
+                    "percent": 35.76
+                },
+                {
+                    "name": "Republican",
+                    "column": "party_REP",
+                    "total": "total",
+                    "party": "rep",
+                    "votes": 158529,
+                    "total_votes": 704553,
+                    "percent": 22.5
+                },
+                {
+                    "name": "Green",
+                    "column": "party_GRE",
+                    "total": "total",
+                    "party": "gre",
+                    "votes": 53,
+                    "total_votes": 704553,
+                    "percent": 0.01
+                },
+                {
+                    "name": "Libertarian",
+                    "column": "party_LIB",
+                    "total": "total",
+                    "party": "lib",
+                    "votes": 5103,
+                    "total_votes": 704553,
+                    "percent": 0.72
+                },
+                {
+                    "name": "Unaffiliated",
+                    "column": "party_UNA",
+                    "total": "total",
+                    "party": "una",
+                    "votes": 288931,
+                    "total_votes": 704553,
+                    "percent": 41.01
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "contests": [
+        {
+            "name": "Total Turnout",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 39040,
+                    "total_votes": 710438,
+                    "percent": 5.5
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Gender",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Female Voters",
+                    "column": "gender_F_voted",
+                    "total": "gender_F",
+                    "votes": 19867,
+                    "total_votes": 346889,
+                    "percent": 5.73
+                },
+                {
+                    "name": "Male Voters",
+                    "column": "gender_M_voted",
+                    "total": "gender_M",
+                    "votes": 17657,
+                    "total_votes": 298770,
+                    "percent": 5.91
+                },
+                {
+                    "name": "Unspecified Gender Voters",
+                    "column": "gender_U_voted",
+                    "total": "gender_U",
+                    "votes": 1516,
+                    "total_votes": 64779,
+                    "percent": 2.34
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 39040,
+                    "total_votes": 710438,
+                    "percent": 5.5
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Race",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Asian Voters",
+                    "column": "race_A_voted",
+                    "total": "race_A",
+                    "votes": 1198,
+                    "total_votes": 26634,
+                    "percent": 4.5
+                },
+                {
+                    "name": "Black Voters",
+                    "column": "race_B_voted",
+                    "total": "race_B",
+                    "votes": 4822,
+                    "total_votes": 125210,
+                    "percent": 3.85
+                },
+                {
+                    "name": "Multiple Race Voters",
+                    "column": "race_M_voted",
+                    "total": "race_M",
+                    "votes": 163,
+                    "total_votes": 5368,
+                    "percent": 3.04
+                },
+                {
+                    "name": "Unspecified Race Voters",
+                    "column": "race_U_voted",
+                    "total": "race_U",
+                    "votes": 1887,
+                    "total_votes": 76133,
+                    "percent": 2.48
+                },
+                {
+                    "name": "White Voters",
+                    "column": "race_W_voted",
+                    "total": "race_W",
+                    "votes": 29946,
+                    "total_votes": 448028,
+                    "percent": 6.68
+                },
+                {
+                    "name": "Hispanic Voters",
+                    "column": "ethnic_HL_voted",
+                    "total": "ethnic_HL",
+                    "votes": 700,
+                    "total_votes": 25981,
+                    "percent": 2.69
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 39040,
+                    "total_votes": 710438,
+                    "percent": 5.5
+                }
+            ]
+        },
+        {
+            "name": "Turnout by Party",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Democratic Voters",
+                    "column": "party_DEM_voted",
+                    "total": "party_DEM",
+                    "party": "dem",
+                    "votes": 12759,
+                    "total_votes": 259467,
+                    "percent": 4.92
+                },
+                {
+                    "name": "Republican Voters",
+                    "column": "party_REP_voted",
+                    "total": "party_REP",
+                    "party": "rep",
+                    "votes": 12085,
+                    "total_votes": 165103,
+                    "percent": 7.32
+                },
+                {
+                    "name": "Green Party Voters",
+                    "column": "party_GRE_voted",
+                    "total": "party_GRE",
+                    "party": "gre",
+                    "votes": 0,
+                    "total_votes": 0,
+                    "percent": 0.0
+                },
+                {
+                    "name": "Libertarian Voters",
+                    "column": "party_LIB_voted",
+                    "total": "party_LIB",
+                    "party": "lib",
+                    "votes": 160,
+                    "total_votes": 5480,
+                    "percent": 2.92
+                },
+                {
+                    "name": "Unaffiliated Voters",
+                    "column": "party_UNA_voted",
+                    "total": "party_UNA",
+                    "party": "una",
+                    "votes": 14036,
+                    "total_votes": 280388,
+                    "percent": 5.01
+                },
+                {
+                    "name": "Total Voters",
+                    "column": "voted_total",
+                    "total": "total",
+                    "votes": 39040,
+                    "total_votes": 710438,
+                    "percent": 5.5
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Gender",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Female",
+                    "column": "gender_F",
+                    "total": "total",
+                    "votes": 346889,
+                    "total_votes": 710438,
+                    "percent": 48.83
+                },
+                {
+                    "name": "Male",
+                    "column": "gender_M",
+                    "total": "total",
+                    "votes": 298770,
+                    "total_votes": 710438,
+                    "percent": 42.05
+                },
+                {
+                    "name": "Unspecified",
+                    "column": "gender_U",
+                    "total": "total",
+                    "votes": 64779,
+                    "total_votes": 710438,
+                    "percent": 9.12
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Race",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Asian",
+                    "column": "race_A",
+                    "total": "total",
+                    "votes": 26634,
+                    "total_votes": 710438,
+                    "percent": 3.75
+                },
+                {
+                    "name": "Black",
+                    "column": "race_B",
+                    "total": "total",
+                    "votes": 125210,
+                    "total_votes": 710438,
+                    "percent": 17.62
+                },
+                {
+                    "name": "Multiple Race",
+                    "column": "race_M",
+                    "total": "total",
+                    "votes": 5368,
+                    "total_votes": 710438,
+                    "percent": 0.76
+                },
+                {
+                    "name": "Unspecified Race",
+                    "column": "race_U",
+                    "total": "total",
+                    "votes": 76133,
+                    "total_votes": 710438,
+                    "percent": 10.72
+                },
+                {
+                    "name": "White",
+                    "column": "race_W",
+                    "total": "total",
+                    "votes": 448028,
+                    "total_votes": 710438,
+                    "percent": 63.06
+                },
+                {
+                    "name": "Hispanic",
+                    "column": "ethnic_HL",
+                    "total": "total",
+                    "votes": 25981,
+                    "total_votes": 710438,
+                    "percent": 3.66
+                }
+            ]
+        },
+        {
+            "name": "Demographics - Party",
+            "csv_file": "demoturnout2021.csv",
+            "year": 2021,
+            "tags": [
+                "turnout"
+            ],
+            "candidates": [
+                {
+                    "name": "Democrats",
+                    "column": "party_DEM",
+                    "total": "total",
+                    "party": "dem",
+                    "votes": 259467,
+                    "total_votes": 710438,
+                    "percent": 36.52
+                },
+                {
+                    "name": "Republican",
+                    "column": "party_REP",
+                    "total": "total",
+                    "party": "rep",
+                    "votes": 165103,
+                    "total_votes": 710438,
+                    "percent": 23.24
+                },
+                {
+                    "name": "Green",
+                    "column": "party_GRE",
+                    "total": "total",
+                    "party": "gre",
+                    "votes": 0,
+                    "total_votes": 710438,
+                    "percent": 0.0
+                },
+                {
+                    "name": "Libertarian",
+                    "column": "party_LIB",
+                    "total": "total",
+                    "party": "lib",
+                    "votes": 5480,
+                    "total_votes": 710438,
+                    "percent": 0.77
+                },
+                {
+                    "name": "Unaffiliated",
+                    "column": "party_UNA",
+                    "total": "total",
+                    "party": "una",
+                    "votes": 280388,
+                    "total_votes": 710438,
+                    "percent": 39.47
+                }
+            ]
+        }
+    ]
+}
