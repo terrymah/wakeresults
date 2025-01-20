@@ -276,8 +276,15 @@ document.addEventListener("DOMContentLoaded", () => {
         .slice() // Create a shallow copy to avoid mutating the original array
         .sort((a, b) => b.votes - a.votes) // Sort by votes descending
         .slice(0, pick); // Get the top "pick" candidates
-            
-      election.candidates.forEach((candidate, index) => {
+      
+      // Sort candidates by percent (descending)
+      const sortedCandidates = election.candidates.slice().sort((a, b) => {
+        const percentA = a.percent || 0; // Default missing percent to 0
+        const percentB = b.percent || 0;
+        return percentB - percentA; // Descending order
+      });
+      
+      sortedCandidates.forEach((candidate, index) => {
         const row = document.createElement("tr");
 
         // Apply party-based coloring if a party is present
