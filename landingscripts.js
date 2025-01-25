@@ -129,14 +129,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "2022.json",
     "2023.json",
     "maps.json",
-    "2016d.json",
-    "2017d.json",
-    "2018d.json",
-    "2019d.json",
-    "2020d.json",
-    "2021d.json",
-    "2022d.json",
-    "2023d.json"
+    "2024.json"
   ];
 
   // Fetch and parse all JSON files

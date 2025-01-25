@@ -1,0 +1,283 @@
+{
+    "contests": [
+        {
+            "name": "Wake County Board of Education 8",
+            "csv_file": "2024_Wake_County_Board_of_Education_8.csv",
+            "year": 2024,
+            "tags": [
+              "local"
+            ],
+            "pick": 1,
+            "candidates": [
+              {
+                "name": "Lindsay Mahaffey",
+                "political_party": "NON",
+                "votes": 36872,
+                "total_votes": 73987,
+                "percent": 58.86,
+                "total": "all"
+              },
+              {
+                "name": "Elizabeth McDuffie",
+                "political_party": "NON",
+                "votes": 25346,
+                "total_votes": 73987,
+                "percent": 40.46,
+                "total": "all"
+              },
+              {
+                "name": "Write-In",
+                "political_party": "NON",
+                "votes": 427,
+                "total_votes": 73987,
+                "percent": 0.68,
+                "total": "all"
+              },
+              {
+                "name": "over",
+                "political_party": " ",
+                "votes": 40,
+                "total_votes": 73987,
+                "percent": 0.05,
+                "total": "all"
+              },
+              {
+                "name": "under",
+                "political_party": " ",
+                "votes": 11302,
+                "total_votes": 73987,
+                "percent": 15.27,
+                "total": "all"
+              }
+            ]
+          },
+          {
+            "name": "NC House 37",
+            "csv_file": "2024_NC_House_37.csv",
+            "year": 2024,
+            "tags": [
+              "state"
+            ],
+            "pick": 1,
+            "candidates": [
+              {
+                "name": "Safiyah Jackson",
+                "political_party": "DEM",
+                "votes": 27137,
+                "total_votes": 61231,
+                "percent": 45.32,
+                "total": "all"
+              },
+              {
+                "name": "Erin Pare",
+                "political_party": "REP",
+                "votes": 30784,
+                "total_votes": 61231,
+                "percent": 51.41,
+                "total": "all"
+              },              
+              {
+                "name": "Christopher Robinson",
+                "political_party": "LIB",
+                "votes": 1963,
+                "total_votes": 61231,
+                "percent": 3.28,
+                "total": "all"
+              },
+              {
+                "name": "over",
+                "political_party": " ",
+                "votes": 11,
+                "total_votes": 61231,
+                "percent": 0.03,
+                "total": "all"
+              },
+              {
+                "name": "under",
+                "political_party": " ",
+                "votes": 1336,
+                "total_votes": 61231,
+                "percent": 0.92,
+                "total": "all"
+              }
+            ]
+          },
+          {
+            "name": "NC House 36",
+            "csv_file": "2024_NC_House_36.csv",
+            "year": 2024,
+            "tags": [
+              "state"
+            ],
+            "pick": 1,
+            "candidates": [
+              {
+                "name": "Travis Groo",
+                "political_party": "LIB",
+                "votes": 1521,
+                "total_votes": 61231,
+                "percent": 2.90,
+                "total": "all"
+              },
+              {
+                "name": "Julie von Haefen",
+                "political_party": "DEM",
+                "votes": 28629,
+                "total_votes": 61231,
+                "percent": 54.52,
+                "total": "all"
+              },              
+              {
+                "name": "Becki Allen",
+                "political_party": "REP",
+                "votes": 22364,
+                "total_votes": 61231,
+                "percent": 3.28,
+                "total": "all"
+              },
+              {
+                "name": "over",
+                "political_party": " ",
+                "votes": 10,
+                "total_votes": 61231,
+                "percent": 0.03,
+                "total": "all"
+              },
+              {
+                "name": "under",
+                "political_party": " ",
+                "votes": 1723,
+                "total_votes": 61231,
+                "percent": 0.92,
+                "total": "all"
+              }
+            ]
+          },                   
+          {
+            "name": "US President",
+            "csv_file": "2024_US_President.csv",
+            "year": 2024,
+            "tags": [
+              "federal"
+            ],
+            "pick": 1,
+            "candidates": [
+              {
+                "name": "Kamala D. Harris",
+                "political_party": "DEM",
+                "votes": 402984,
+                "total_votes": 656878,
+                "percent": 61.66,
+                "total": "all"
+              },
+              {
+                "name": "Chase Oliver",
+                "political_party": "LIB",
+                "votes": 3544,
+                "total_votes": 656878,
+                "percent": 0.54,
+                "total": "all"
+              },
+              {
+                "name": "Jill Stein",
+                "political_party": "GRE",
+                "votes": 5338,
+                "total_votes": 656878,
+                "percent": 0.82,
+                "total": "all"
+              },
+              {
+                "name": "Randall Terry",
+                "political_party": "CST",
+                "votes": 777,
+                "total_votes": 656878,
+                "percent": 0.12,
+                "total": "all"
+              },
+              {
+                "name": "Donald J. Trump",
+                "political_party": "REP",
+                "votes": 236735,
+                "total_votes": 656878,
+                "percent": 36.22,
+                "total": "all"
+              },
+              {
+                "name": "Cornel West",
+                "political_party": "JFA",
+                "votes": 1418,
+                "total_votes": 656878,
+                "percent": 0.22,
+                "total": "all"
+              },              
+              {
+                "name": "Write-In",
+                "political_party": "NON",
+                "votes": 2784,
+                "total_votes": 656878,
+                "percent": 0.43,
+                "total": "all"
+              },
+              {
+                "name": "over",
+                "political_party": " ",
+                "votes": 349,
+                "total_votes": 656878,
+                "percent": 0.01,
+                "total": "all"
+              },
+              {
+                "name": "under",
+                "political_party": " ",
+                "votes": 2949,
+                "total_votes": 656878,
+                "percent": 0.01,
+                "total": "all"
+              }
+            ]
+          },
+          {
+            "name": "US House 13",
+            "csv_file": "2024_US_House_13.csv",
+            "year": 2024,
+            "tags": [
+              "federal"
+            ],
+            "pick": 1,
+            "candidates": [
+              {
+                "name": "Brad Knott",
+                "political_party": "REP",
+                "votes": 54092,
+                "total_votes": 105151,
+                "percent": 52.84,
+                "total": "all"
+              },
+              {
+                "name": "Frank Pierce",
+                "political_party": "DEM",
+                "votes": 48271,
+                "total_votes": 105151,
+                "percent": 47.16,
+                "total": "all"
+              },
+              {
+                "name": "over",
+                "political_party": " ",
+                "votes": 23,
+                "total_votes": 105151,
+                "percent": 0.03,
+                "total": "all"
+              },
+              {
+                "name": "under",
+                "political_party": " ",
+                "votes": 2765,
+                "total_votes": 105151,
+                "percent": 1.07,
+                "total": "all"
+              }
+            ]
+          }  
+    ]
+}
