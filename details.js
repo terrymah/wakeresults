@@ -40,59 +40,84 @@ export function showResultsTable() {
     const enabledPortionColumns = portionColumns.filter(col => enabledColumns[col]);
     const enabledFriendlyNames = friendlyNames.filter((_, index) => enabledColumns[portionColumns[index]]);
 
-    // Transform precinctData into table format
+    // Step 1: Find overall winner and second place across all precincts
+    let totalCandidateValues = {}; // Stores either raw vote counts or percentages
+
+    Object.values(precinctData).forEach(data => {
+        enabledPortionColumns.forEach(column => {
+            const portionValue = parseFloat(data[column]) || 0;
+            const totalValue = parseFloat(data[totalColumns[portionColumns.indexOf(column)]]) || 1;
+            const calculatedValue = isAbsoluteMode ? portionValue : (portionValue / totalValue) * 100;
+
+            if (!totalCandidateValues[column]) {
+                totalCandidateValues[column] = 0;
+            }
+            totalCandidateValues[column] += calculatedValue;
+        });
+    });
+
+    // Sort candidates by total votes to determine overall winner & runner-up
+    const sortedCandidates = Object.entries(totalCandidateValues)
+        .sort((a, b) => b[1] - a[1]);
+
+    const overallWinner = sortedCandidates[0] ? sortedCandidates[0][0] : null;
+    const overallSecondPlace = sortedCandidates[1] ? sortedCandidates[1][0] : null;
+    console.log("Overall Winner:", overallWinner);
+    console.log("Overall Second Place:", overallSecondPlace);
+    // Step 2: Transform precinctData into table format
     const tableData = Object.entries(precinctData).map(([precinct, data]) => {
         let row = { Precinct: precinct };
-        let candidateValues = [];
 
         enabledPortionColumns.forEach((column, index) => {
             const portionValue = parseFloat(data[column]) || 0;
             const totalValue = parseFloat(data[totalColumns[portionColumns.indexOf(column)]]) || 1;
             const value = isAbsoluteMode ? portionValue : (portionValue / totalValue) * 100;
 
-            // Replace periods in field names for Tabulator
             const safeFieldName = (enabledFriendlyNames[index] || column).replace(/\./g, "_");
             row[safeFieldName] = isAbsoluteMode ? value.toFixed(0) : value.toFixed(2) + "%";
-
-            // Store values for margin calculation
-            candidateValues.push({ name: safeFieldName, value });
         });
 
-        // Sort candidates by value (descending) to determine margin
-        candidateValues.sort((a, b) => b.value - a.value);
+        // Step 3: Calculate the margin using the overall top two candidates
+        if (overallWinner && overallSecondPlace) {
+            const winnerPortion = parseFloat(data[overallWinner]) || 0;
+            const secondPlacePortion = parseFloat(data[overallSecondPlace]) || 0;
+            const winnerTotal = parseFloat(data[totalColumns[portionColumns.indexOf(overallWinner)]]) || 1;
+            const secondPlaceTotal = parseFloat(data[totalColumns[portionColumns.indexOf(overallSecondPlace)]]) || 1;
 
-        if (candidateValues.length >= 2) {
-            let marginValue = candidateValues[0].value - candidateValues[1].value;
+            let marginValue;
+            if (isAbsoluteMode) {
+                marginValue = winnerPortion - secondPlacePortion;
+            } else {
+                const winnerPercent = (winnerPortion / winnerTotal) * 100;
+                const secondPlacePercent = (secondPlacePortion / secondPlaceTotal) * 100;
+                marginValue = winnerPercent - secondPlacePercent;
+            }
+
             row["Margin"] = isAbsoluteMode ? marginValue.toFixed(0) : marginValue.toFixed(2) + "%";
         } else {
-            row["Margin"] = "N/A"; // If only one candidate has data
+            row["Margin"] = "N/A";
         }
 
         return row;
     });
 
-    // Clear previous table before rendering new one
+    // Clear previous table before rendering
     document.getElementById("results-table").innerHTML = "";
 
+    // Create the Tabulator table
     const table = new Tabulator("#results-table", {
         data: tableData,
         layout: "fitColumns",
         columns: [
             { title: "Precinct", field: "Precinct" }
-        ]
-        .concat(enabledPortionColumns.map((column, index) => ({
-            title: enabledFriendlyNames[index] || column,  // Use friendly name if available
-            field: (enabledFriendlyNames[index] || column).replace(/\./g, "_"), // Ensure consistency
+        ].concat(enabledPortionColumns.map((column, index) => ({
+            title: enabledFriendlyNames[index] || column,
+            field: (enabledFriendlyNames[index] || column).replace(/\./g, "_"),
             sorter: "number"
         })))
         .concat([
-            { 
-                title: "Margin", 
-                field: "Margin", 
-                sorter: "number", 
-                cssClass: "italic-column" // Apply CSS class
-            }
-        ]),    
+            { title: "Margin", field: "Margin", sorter: "number", cssClass: "italic-column" }
+        ]),
     });
 
     // Show the overlay only AFTER the table has fully loaded data
@@ -100,4 +125,3 @@ export function showResultsTable() {
         overlay.style.display = "flex";
     });   
 }
-
