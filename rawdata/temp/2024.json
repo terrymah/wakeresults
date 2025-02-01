@@ -1,0 +1,3310 @@
+{
+  "contests": [
+    {
+      "name": "Wake County Board of Commissioners 4",
+      "csv_file": "2024_Wake_County_Board_of_Commissioners_4.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Susan P. Evans",
+          "political_party": "DEM",
+          "votes": 64135,
+          "total_votes": 64135,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 24589,
+          "total_votes": 64135,
+          "percent": 38.34,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 5",
+      "csv_file": "2024_Wake_County_Board_of_Commissioners_5.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Tara Waters",
+          "political_party": "DEM",
+          "votes": 66639,
+          "total_votes": 66639,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 14167,
+          "total_votes": 66639,
+          "percent": 21.26,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Commissioners 6",
+      "csv_file": "2024_Wake_County_Board_of_Commissioners_6.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jacob Arthur",
+          "political_party": "REP",
+          "votes": 44548,
+          "total_votes": 96233,
+          "percent": 46.29,
+          "total": "all"
+        },
+        {
+          "name": "Shinica Thomas",
+          "political_party": "DEM",
+          "votes": 51685,
+          "total_votes": 96233,
+          "percent": 53.71,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 19,
+          "total_votes": 96233,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4507,
+          "total_votes": 96233,
+          "percent": 4.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Register of Deeds",
+      "csv_file": "2024_Wake_County_Register_of_Deeds.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Tammy L. Brunner",
+          "political_party": "DEM",
+          "votes": 466267,
+          "total_votes": 466267,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 190651,
+          "total_votes": 466267,
+          "percent": 40.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Attorney General",
+      "csv_file": "2024_NC_Attorney_General.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Dan Bishop",
+          "political_party": "REP",
+          "votes": 222320,
+          "total_votes": 642806,
+          "percent": 34.59,
+          "total": "all"
+        },
+        {
+          "name": "Jeff Jackson",
+          "political_party": "DEM",
+          "votes": 420486,
+          "total_votes": 642806,
+          "percent": 65.41,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 117,
+          "total_votes": 642806,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 13976,
+          "total_votes": 642806,
+          "percent": 2.17,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Auditor",
+      "csv_file": "2024_NC_Auditor.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Bob Drach",
+          "political_party": "LIB",
+          "votes": 23512,
+          "total_votes": 636717,
+          "percent": 3.69,
+          "total": "all"
+        },
+        {
+          "name": "Dave Boliek",
+          "political_party": "REP",
+          "votes": 228658,
+          "total_votes": 636717,
+          "percent": 35.91,
+          "total": "all"
+        },
+        {
+          "name": "Jessica Holmes",
+          "political_party": "DEM",
+          "votes": 384547,
+          "total_votes": 636717,
+          "percent": 60.4,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 149,
+          "total_votes": 636717,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 20026,
+          "total_votes": 636717,
+          "percent": 3.15,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Agriculture",
+      "csv_file": "2024_NC_Commissioner_of_Agriculture.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Sarah Taber",
+          "political_party": "DEM",
+          "votes": 356686,
+          "total_votes": 639014,
+          "percent": 55.82,
+          "total": "all"
+        },
+        {
+          "name": "Sean Haugh",
+          "political_party": "LIB",
+          "votes": 15608,
+          "total_votes": 639014,
+          "percent": 2.44,
+          "total": "all"
+        },
+        {
+          "name": "Steve Troxler",
+          "political_party": "REP",
+          "votes": 266720,
+          "total_votes": 639014,
+          "percent": 41.74,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 145,
+          "total_votes": 639014,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 17737,
+          "total_votes": 639014,
+          "percent": 2.78,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Insurance",
+      "csv_file": "2024_NC_Commissioner_of_Insurance.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mike Causey",
+          "political_party": "REP",
+          "votes": 246945,
+          "total_votes": 634583,
+          "percent": 38.91,
+          "total": "all"
+        },
+        {
+          "name": "Natasha Marcus",
+          "political_party": "DEM",
+          "votes": 387638,
+          "total_votes": 634583,
+          "percent": 61.09,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 89,
+          "total_votes": 634583,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 22227,
+          "total_votes": 634583,
+          "percent": 3.5,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Commissioner of Labor",
+      "csv_file": "2024_NC_Commissioner_of_Labor.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Braxton Winston II",
+          "political_party": "DEM",
+          "votes": 380447,
+          "total_votes": 632350,
+          "percent": 60.16,
+          "total": "all"
+        },
+        {
+          "name": "Luke Farley",
+          "political_party": "REP",
+          "votes": 251903,
+          "total_votes": 632350,
+          "percent": 39.84,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 268,
+          "total_votes": 632350,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 24278,
+          "total_votes": 632350,
+          "percent": 3.84,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 12",
+      "csv_file": "2024_NC_Court_of_Appeals_Judge_Seat_12.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Carolyn Jennings Thompson",
+          "political_party": "DEM",
+          "votes": 398871,
+          "total_votes": 633221,
+          "percent": 62.99,
+          "total": "all"
+        },
+        {
+          "name": "Tom Murry",
+          "political_party": "REP",
+          "votes": 234350,
+          "total_votes": 633221,
+          "percent": 37.01,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 151,
+          "total_votes": 633221,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 23524,
+          "total_votes": 633221,
+          "percent": 3.71,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 14",
+      "csv_file": "2024_NC_Court_of_Appeals_Judge_Seat_14.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Ed Eldred",
+          "political_party": "DEM",
+          "votes": 386650,
+          "total_votes": 630969,
+          "percent": 61.28,
+          "total": "all"
+        },
+        {
+          "name": "Valerie Zachary",
+          "political_party": "REP",
+          "votes": 244319,
+          "total_votes": 630969,
+          "percent": 38.72,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 231,
+          "total_votes": 630969,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 25700,
+          "total_votes": 630969,
+          "percent": 4.07,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Court of Appeals Judge Seat 15",
+      "csv_file": "2024_NC_Court_of_Appeals_Judge_Seat_15.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Chris Freeman",
+          "political_party": "REP",
+          "votes": 238368,
+          "total_votes": 632335,
+          "percent": 37.7,
+          "total": "all"
+        },
+        {
+          "name": "Martin E. Moore",
+          "political_party": "DEM",
+          "votes": 393967,
+          "total_votes": 632335,
+          "percent": 62.3,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 125,
+          "total_votes": 632335,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 24438,
+          "total_votes": 632335,
+          "percent": 3.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10A Seat 2",
+      "csv_file": "2024_NC_District_Court_Judge_District_10A_Seat_2.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Vartan A. (Woofer) Davidian III",
+          "political_party": "REP",
+          "votes": 68903,
+          "total_votes": 68903,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 46554,
+          "total_votes": 68903,
+          "percent": 67.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10A Seat 3",
+      "csv_file": "2024_NC_District_Court_Judge_District_10A_Seat_3.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Cindy Kenney",
+          "political_party": "DEM",
+          "votes": 73119,
+          "total_votes": 73119,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 42342,
+          "total_votes": 73119,
+          "percent": 57.91,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10B Seat 2",
+      "csv_file": "2024_NC_District_Court_Judge_District_10B_Seat_2.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Ashleigh S. Parker",
+          "political_party": "DEM",
+          "votes": 63070,
+          "total_votes": 63070,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 20154,
+          "total_votes": 63070,
+          "percent": 31.95,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10B Seat 3",
+      "csv_file": "2024_NC_District_Court_Judge_District_10B_Seat_3.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Julie Bell",
+          "political_party": "DEM",
+          "votes": 62295,
+          "total_votes": 62295,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 20929,
+          "total_votes": 62295,
+          "percent": 33.6,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10C Seat 1",
+      "csv_file": "2024_NC_District_Court_Judge_District_10C_Seat_1.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mark L. Stevens",
+          "political_party": "DEM",
+          "votes": 55927,
+          "total_votes": 55927,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 18718,
+          "total_votes": 55927,
+          "percent": 33.47,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10C Seat 2",
+      "csv_file": "2024_NC_District_Court_Judge_District_10C_Seat_2.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Christine M. Walczyk",
+          "political_party": "DEM",
+          "votes": 55265,
+          "total_votes": 55265,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 19380,
+          "total_votes": 55265,
+          "percent": 35.07,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10C Seat 3",
+      "csv_file": "2024_NC_District_Court_Judge_District_10C_Seat_3.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Renee Jordan",
+          "political_party": "DEM",
+          "votes": 55262,
+          "total_votes": 55262,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 19388,
+          "total_votes": 55262,
+          "percent": 35.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 4",
+      "csv_file": "2024_NC_District_Court_Judge_District_10D_Seat_4.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Rhonda Graham Young",
+          "political_party": "DEM",
+          "votes": 135985,
+          "total_votes": 135985,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 61357,
+          "total_votes": 135985,
+          "percent": 45.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 5",
+      "csv_file": "2024_NC_District_Court_Judge_District_10D_Seat_5.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Blair Williams",
+          "political_party": "DEM",
+          "votes": 135392,
+          "total_votes": 135392,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 61952,
+          "total_votes": 135392,
+          "percent": 45.76,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10E Seat 3",
+      "csv_file": "2024_NC_District_Court_Judge_District_10E_Seat_3.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Crystal Grimes",
+          "political_party": "DEM",
+          "votes": 52217,
+          "total_votes": 52217,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 13418,
+          "total_votes": 52217,
+          "percent": 25.7,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10F Seat 2",
+      "csv_file": "2024_NC_District_Court_Judge_District_10F_Seat_2.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Damion L. McCullers",
+          "political_party": "DEM",
+          "votes": 87076,
+          "total_votes": 87076,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 33522,
+          "total_votes": 87076,
+          "percent": 38.5,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10F Seat 3",
+      "csv_file": "2024_NC_District_Court_Judge_District_10F_Seat_3.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jim Black",
+          "political_party": "DEM",
+          "votes": 86589,
+          "total_votes": 86589,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 34010,
+          "total_votes": 86589,
+          "percent": 39.28,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Governor",
+      "csv_file": "2024_NC_Governor.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Josh Stein",
+          "political_party": "DEM",
+          "votes": 448874,
+          "total_votes": 642807,
+          "percent": 69.83,
+          "total": "all"
+        },
+        {
+          "name": "Mark Robinson",
+          "political_party": "REP",
+          "votes": 157923,
+          "total_votes": 642807,
+          "percent": 24.57,
+          "total": "all"
+        },
+        {
+          "name": "Mike Ross",
+          "political_party": "LIB",
+          "votes": 23004,
+          "total_votes": 642807,
+          "percent": 3.58,
+          "total": "all"
+        },
+        {
+          "name": "Vinny Smith",
+          "political_party": "CST",
+          "votes": 6028,
+          "total_votes": 642807,
+          "percent": 0.94,
+          "total": "all"
+        },
+        {
+          "name": "Wayne Turner",
+          "political_party": "GRE",
+          "votes": 6978,
+          "total_votes": 642807,
+          "percent": 1.09,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 223,
+          "total_votes": 642807,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 13863,
+          "total_votes": 642807,
+          "percent": 2.16,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 11",
+      "csv_file": "2024_NC_House_11.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Allison A. Dahle",
+          "political_party": "DEM",
+          "votes": 31690,
+          "total_votes": 49016,
+          "percent": 64.65,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Kordon",
+          "political_party": "LIB",
+          "votes": 1416,
+          "total_votes": 49016,
+          "percent": 2.89,
+          "total": "all"
+        },
+        {
+          "name": "Philip Hensley",
+          "political_party": "REP",
+          "votes": 15910,
+          "total_votes": 49016,
+          "percent": 32.46,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 49016,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1705,
+          "total_votes": 49016,
+          "percent": 3.48,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 21",
+      "csv_file": "2024_NC_House_21.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mary Miskimon",
+          "political_party": "REP",
+          "votes": 18153,
+          "total_votes": 48733,
+          "percent": 37.25,
+          "total": "all"
+        },
+        {
+          "name": "Ya Liu",
+          "political_party": "DEM",
+          "votes": 30580,
+          "total_votes": 48733,
+          "percent": 62.75,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 48733,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1879,
+          "total_votes": 48733,
+          "percent": 3.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 33",
+      "csv_file": "2024_NC_House_33.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Chris Costello",
+          "political_party": "LIB",
+          "votes": 8343,
+          "total_votes": 42114,
+          "percent": 19.81,
+          "total": "all"
+        },
+        {
+          "name": "Monika Johnson-Hostler",
+          "political_party": "DEM",
+          "votes": 33771,
+          "total_votes": 42114,
+          "percent": 80.19,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 10,
+          "total_votes": 42114,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4307,
+          "total_votes": 42114,
+          "percent": 10.23,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 34",
+      "csv_file": "2024_NC_House_34.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Ed George",
+          "political_party": "LIB",
+          "votes": 10810,
+          "total_votes": 44649,
+          "percent": 24.21,
+          "total": "all"
+        },
+        {
+          "name": "Tim Longest",
+          "political_party": "DEM",
+          "votes": 33839,
+          "total_votes": 44649,
+          "percent": 75.79,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 14,
+          "total_votes": 44649,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6501,
+          "total_votes": 44649,
+          "percent": 14.56,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 35",
+      "csv_file": "2024_NC_House_35.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Evonne S. Hopkins",
+          "political_party": "DEM",
+          "votes": 26831,
+          "total_votes": 56995,
+          "percent": 47.08,
+          "total": "all"
+        },
+        {
+          "name": "Michael Oakes",
+          "political_party": "LIB",
+          "votes": 1513,
+          "total_votes": 56995,
+          "percent": 2.65,
+          "total": "all"
+        },
+        {
+          "name": "Mike Schietzelt",
+          "political_party": "REP",
+          "votes": 28651,
+          "total_votes": 56995,
+          "percent": 50.27,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 8,
+          "total_votes": 56995,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1586,
+          "total_votes": 56995,
+          "percent": 2.78,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 36",
+      "csv_file": "2024_NC_House_36.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Becki Allen",
+          "political_party": "REP",
+          "votes": 22364,
+          "total_votes": 52514,
+          "percent": 42.59,
+          "total": "all"
+        },
+        {
+          "name": "Julie von Haefen",
+          "political_party": "DEM",
+          "votes": 28629,
+          "total_votes": 52514,
+          "percent": 54.52,
+          "total": "all"
+        },
+        {
+          "name": "Travis Groo",
+          "political_party": "LIB",
+          "votes": 1521,
+          "total_votes": 52514,
+          "percent": 2.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 10,
+          "total_votes": 52514,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1723,
+          "total_votes": 52514,
+          "percent": 3.28,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 37",
+      "csv_file": "2024_NC_House_37.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Christopher Robinson",
+          "political_party": "LIB",
+          "votes": 1963,
+          "total_votes": 59884,
+          "percent": 3.28,
+          "total": "all"
+        },
+        {
+          "name": "Erin Pare",
+          "political_party": "REP",
+          "votes": 30784,
+          "total_votes": 59884,
+          "percent": 51.41,
+          "total": "all"
+        },
+        {
+          "name": "Safiyah Jackson",
+          "political_party": "DEM",
+          "votes": 27137,
+          "total_votes": 59884,
+          "percent": 45.32,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 11,
+          "total_votes": 59884,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1336,
+          "total_votes": 59884,
+          "percent": 2.23,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 38",
+      "csv_file": "2024_NC_House_38.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Abe Jones",
+          "political_party": "DEM",
+          "votes": 32854,
+          "total_votes": 32854,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 6335,
+          "total_votes": 32854,
+          "percent": 19.28,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 39",
+      "csv_file": "2024_NC_House_39.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "James Roberson",
+          "political_party": "DEM",
+          "votes": 36730,
+          "total_votes": 36730,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 14342,
+          "total_votes": 36730,
+          "percent": 39.05,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 40",
+      "csv_file": "2024_NC_House_40.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jerry Doliner",
+          "political_party": "REP",
+          "votes": 18334,
+          "total_votes": 52929,
+          "percent": 34.64,
+          "total": "all"
+        },
+        {
+          "name": "Joe John",
+          "political_party": "DEM",
+          "votes": 32983,
+          "total_votes": 52929,
+          "percent": 62.32,
+          "total": "all"
+        },
+        {
+          "name": "Mike Munger",
+          "political_party": "LIB",
+          "votes": 1612,
+          "total_votes": 52929,
+          "percent": 3.05,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 11,
+          "total_votes": 52929,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 1949,
+          "total_votes": 52929,
+          "percent": 3.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 41",
+      "csv_file": "2024_NC_House_41.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Maria Cervania",
+          "political_party": "DEM",
+          "votes": 31576,
+          "total_votes": 41235,
+          "percent": 76.58,
+          "total": "all"
+        },
+        {
+          "name": "Matthew Laszacs",
+          "political_party": "LIB",
+          "votes": 9659,
+          "total_votes": 41235,
+          "percent": 23.42,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 12,
+          "total_votes": 41235,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4567,
+          "total_votes": 41235,
+          "percent": 11.08,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 49",
+      "csv_file": "2024_NC_House_49.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Cynthia Ball",
+          "political_party": "DEM",
+          "votes": 32820,
+          "total_votes": 32820,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10027,
+          "total_votes": 32820,
+          "percent": 30.55,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC House 66",
+      "csv_file": "2024_NC_House_66.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Michael Nelson",
+          "political_party": "LIB",
+          "votes": 11161,
+          "total_votes": 44385,
+          "percent": 25.15,
+          "total": "all"
+        },
+        {
+          "name": "Sarah Crawford",
+          "political_party": "DEM",
+          "votes": 33224,
+          "total_votes": 44385,
+          "percent": 74.85,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 15,
+          "total_votes": 44385,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 5668,
+          "total_votes": 44385,
+          "percent": 12.77,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Lieutenant Governor",
+      "csv_file": "2024_NC_Lieutenant_Governor.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Hal Weatherman",
+          "political_party": "REP",
+          "votes": 218310,
+          "total_votes": 642761,
+          "percent": 33.96,
+          "total": "all"
+        },
+        {
+          "name": "Rachel Hunt",
+          "political_party": "DEM",
+          "votes": 406713,
+          "total_votes": 642761,
+          "percent": 63.28,
+          "total": "all"
+        },
+        {
+          "name": "Shannon W. Bray",
+          "political_party": "LIB",
+          "votes": 13205,
+          "total_votes": 642761,
+          "percent": 2.05,
+          "total": "all"
+        },
+        {
+          "name": "Wayne Jones",
+          "political_party": "CST",
+          "votes": 4533,
+          "total_votes": 642761,
+          "percent": 0.71,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 156,
+          "total_votes": 642761,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 13977,
+          "total_votes": 642761,
+          "percent": 2.17,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Secretary of State",
+      "csv_file": "2024_NC_Secretary_of_State.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Chad Brown",
+          "political_party": "REP",
+          "votes": 219253,
+          "total_votes": 638074,
+          "percent": 34.36,
+          "total": "all"
+        },
+        {
+          "name": "Elaine Marshall",
+          "political_party": "DEM",
+          "votes": 418821,
+          "total_votes": 638074,
+          "percent": 65.64,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 149,
+          "total_votes": 638074,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 18673,
+          "total_votes": 638074,
+          "percent": 2.93,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 13",
+      "csv_file": "2024_NC_State_Senate_13.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Lisa Grafstein",
+          "political_party": "DEM",
+          "votes": 64077,
+          "total_votes": 127606,
+          "percent": 50.21,
+          "total": "all"
+        },
+        {
+          "name": "Scott Lassiter",
+          "political_party": "REP",
+          "votes": 59829,
+          "total_votes": 127606,
+          "percent": 46.89,
+          "total": "all"
+        },
+        {
+          "name": "Susan Hogarth",
+          "political_party": "LIB",
+          "votes": 3700,
+          "total_votes": 127606,
+          "percent": 2.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 19,
+          "total_votes": 127606,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 3646,
+          "total_votes": 127606,
+          "percent": 2.86,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 14",
+      "csv_file": "2024_NC_State_Senate_14.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Angela McCarty",
+          "political_party": "REP",
+          "votes": 23978,
+          "total_votes": 101442,
+          "percent": 23.64,
+          "total": "all"
+        },
+        {
+          "name": "Dan Blue",
+          "political_party": "DEM",
+          "votes": 74519,
+          "total_votes": 101442,
+          "percent": 73.46,
+          "total": "all"
+        },
+        {
+          "name": "Sammie Brooks",
+          "political_party": "LIB",
+          "votes": 2945,
+          "total_votes": 101442,
+          "percent": 2.9,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 27,
+          "total_votes": 101442,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2892,
+          "total_votes": 101442,
+          "percent": 2.85,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 15",
+      "csv_file": "2024_NC_State_Senate_15.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "David Bankert",
+          "political_party": "REP",
+          "votes": 30871,
+          "total_votes": 102144,
+          "percent": 30.22,
+          "total": "all"
+        },
+        {
+          "name": "Jay J. Chaudhuri",
+          "political_party": "DEM",
+          "votes": 67358,
+          "total_votes": 102144,
+          "percent": 65.94,
+          "total": "all"
+        },
+        {
+          "name": "Kat McDonald",
+          "political_party": "LIB",
+          "votes": 3915,
+          "total_votes": 102144,
+          "percent": 3.83,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 59,
+          "total_votes": 102144,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4039,
+          "total_votes": 102144,
+          "percent": 3.95,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 16",
+      "csv_file": "2024_NC_State_Senate_16.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Gale Adcock",
+          "political_party": "DEM",
+          "votes": 84427,
+          "total_votes": 84427,
+          "percent": 100.0,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 29145,
+          "total_votes": 84427,
+          "percent": 34.52,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 17",
+      "csv_file": "2024_NC_State_Senate_17.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mrs. Sydney Batch",
+          "political_party": "DEM",
+          "votes": 71610,
+          "total_votes": 96271,
+          "percent": 74.38,
+          "total": "all"
+        },
+        {
+          "name": "Patrick J. Bowersox",
+          "political_party": "LIB",
+          "votes": 24661,
+          "total_votes": 96271,
+          "percent": 25.62,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 29,
+          "total_votes": 96271,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10898,
+          "total_votes": 96271,
+          "percent": 11.32,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC State Senate 18",
+      "csv_file": "2024_NC_State_Senate_18.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Ashlee Bryan Adams",
+          "political_party": "REP",
+          "votes": 43115,
+          "total_votes": 91824,
+          "percent": 46.95,
+          "total": "all"
+        },
+        {
+          "name": "Brad Hessel",
+          "political_party": "LIB",
+          "votes": 3062,
+          "total_votes": 91824,
+          "percent": 3.33,
+          "total": "all"
+        },
+        {
+          "name": "Terence Everitt",
+          "political_party": "DEM",
+          "votes": 45647,
+          "total_votes": 91824,
+          "percent": 49.71,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 16,
+          "total_votes": 91824,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2417,
+          "total_votes": 91824,
+          "percent": 2.63,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superintendent of Public Instruction",
+      "csv_file": "2024_NC_Superintendent_of_Public_Instruction.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Maurice (Mo) Green",
+          "political_party": "DEM",
+          "votes": 419287,
+          "total_votes": 636880,
+          "percent": 65.83,
+          "total": "all"
+        },
+        {
+          "name": "Michele Morrow",
+          "political_party": "REP",
+          "votes": 217593,
+          "total_votes": 636880,
+          "percent": 34.17,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 165,
+          "total_votes": 636880,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 19857,
+          "total_votes": 636880,
+          "percent": 3.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10C Seat 1",
+      "csv_file": "2024_NC_Superior_Court_Judge_10C_Seat_1.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Becky Holt",
+          "political_party": "REP",
+          "votes": 54537,
+          "total_votes": 124404,
+          "percent": 43.84,
+          "total": "all"
+        },
+        {
+          "name": "Sean A. B. Cole",
+          "political_party": "DEM",
+          "votes": 60119,
+          "total_votes": 124404,
+          "percent": 48.33,
+          "total": "all"
+        },
+        {
+          "name": "Stephanie Davis",
+          "political_party": "UNA",
+          "votes": 9748,
+          "total_votes": 124404,
+          "percent": 7.84,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 36,
+          "total_votes": 124404,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4583,
+          "total_votes": 124404,
+          "percent": 3.68,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Superior Court Judge 10F Seat 1",
+      "csv_file": "2024_NC_Superior_Court_Judge_10F_Seat_1.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Graham Shirley",
+          "political_party": "REP",
+          "votes": 64152,
+          "total_votes": 137237,
+          "percent": 46.75,
+          "total": "all"
+        },
+        {
+          "name": "Jennifer Bedford",
+          "political_party": "DEM",
+          "votes": 73085,
+          "total_votes": 137237,
+          "percent": 53.25,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 38,
+          "total_votes": 137237,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 5505,
+          "total_votes": 137237,
+          "percent": 4.01,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Supreme Court Associate Justice Seat 6",
+      "csv_file": "2024_NC_Supreme_Court_Associate_Justice_Seat_6.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Allison Riggs",
+          "political_party": "DEM",
+          "votes": 406253,
+          "total_votes": 635926,
+          "percent": 63.88,
+          "total": "all"
+        },
+        {
+          "name": "Jefferson G. Griffin",
+          "political_party": "REP",
+          "votes": 229673,
+          "total_votes": 635926,
+          "percent": 36.12,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 392,
+          "total_votes": 635926,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 20575,
+          "total_votes": 635926,
+          "percent": 3.24,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC Treasurer",
+      "csv_file": "2024_NC_Treasurer.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Brad Briner",
+          "political_party": "REP",
+          "votes": 252294,
+          "total_votes": 634516,
+          "percent": 39.76,
+          "total": "all"
+        },
+        {
+          "name": "Wesley Harris",
+          "political_party": "DEM",
+          "votes": 382222,
+          "total_votes": 634516,
+          "percent": 60.24,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 105,
+          "total_votes": 634516,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 22273,
+          "total_votes": 634516,
+          "percent": 3.51,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 2",
+      "csv_file": "2024_US_House_2.csv",
+      "year": 2024,
+      "tags": [
+        "federal"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Alan D. Swain",
+          "political_party": "REP",
+          "votes": 128171,
+          "total_votes": 405529,
+          "percent": 31.61,
+          "total": "all"
+        },
+        {
+          "name": "Deborah K. Ross",
+          "political_party": "DEM",
+          "votes": 268667,
+          "total_votes": 405529,
+          "percent": 66.25,
+          "total": "all"
+        },
+        {
+          "name": "Michael Dublin",
+          "political_party": "GRE",
+          "votes": 8691,
+          "total_votes": 405529,
+          "percent": 2.14,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 234,
+          "total_votes": 405529,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8751,
+          "total_votes": 405529,
+          "percent": 2.16,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 4",
+      "csv_file": "2024_US_House_4.csv",
+      "year": 2024,
+      "tags": [
+        "federal"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Eric Blankenburg",
+          "political_party": "REP",
+          "votes": 50638,
+          "total_votes": 133557,
+          "percent": 37.91,
+          "total": "all"
+        },
+        {
+          "name": "Guy Meilleur",
+          "political_party": "LIB",
+          "votes": 3152,
+          "total_votes": 133557,
+          "percent": 2.36,
+          "total": "all"
+        },
+        {
+          "name": "Valerie P. Foushee",
+          "political_party": "DEM",
+          "votes": 79767,
+          "total_votes": 133557,
+          "percent": 59.73,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 15,
+          "total_votes": 133557,
+          "percent": 0.01,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 3654,
+          "total_votes": 133557,
+          "percent": 2.74,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US House 13",
+      "csv_file": "2024_US_House_13.csv",
+      "year": 2024,
+      "tags": [
+        "federal"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Brad Knott",
+          "political_party": "REP",
+          "votes": 54092,
+          "total_votes": 102364,
+          "percent": 52.84,
+          "total": "all"
+        },
+        {
+          "name": "Frank Pierce",
+          "political_party": "DEM",
+          "votes": 48272,
+          "total_votes": 102364,
+          "percent": 47.16,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 23,
+          "total_votes": 102364,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2765,
+          "total_votes": 102364,
+          "percent": 2.7,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "US President",
+      "csv_file": "2024_US_President.csv",
+      "year": 2024,
+      "tags": [
+        "federal"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Chase Oliver",
+          "political_party": "LIB",
+          "votes": 3562,
+          "total_votes": 653598,
+          "percent": 0.54,
+          "total": "all"
+        },
+        {
+          "name": "Cornel West",
+          "political_party": "JFA",
+          "votes": 1418,
+          "total_votes": 653598,
+          "percent": 0.22,
+          "total": "all"
+        },
+        {
+          "name": "Donald J. Trump",
+          "political_party": "REP",
+          "votes": 236735,
+          "total_votes": 653598,
+          "percent": 36.22,
+          "total": "all"
+        },
+        {
+          "name": "Jill Stein",
+          "political_party": "GRE",
+          "votes": 5338,
+          "total_votes": 653598,
+          "percent": 0.82,
+          "total": "all"
+        },
+        {
+          "name": "Kamala D. Harris",
+          "political_party": "DEM",
+          "votes": 402984,
+          "total_votes": 653598,
+          "percent": 61.66,
+          "total": "all"
+        },
+        {
+          "name": "Randall Terry",
+          "political_party": "CST",
+          "votes": 777,
+          "total_votes": 653598,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 2784,
+          "total_votes": 653598,
+          "percent": 0.43,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 349,
+          "total_votes": 653598,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 2949,
+          "total_votes": 653598,
+          "percent": 0.45,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 3",
+      "csv_file": "2024_Wake_County_Board_of_Education_3.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jordyne Blaise",
+          "political_party": "NON",
+          "votes": 34465,
+          "total_votes": 70207,
+          "percent": 49.09,
+          "total": "all"
+        },
+        {
+          "name": "Wing Ng",
+          "political_party": "NON",
+          "votes": 35279,
+          "total_votes": 70207,
+          "percent": 50.25,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 463,
+          "total_votes": 70207,
+          "percent": 0.66,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 57,
+          "total_votes": 70207,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 12338,
+          "total_votes": 70207,
+          "percent": 17.57,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 4",
+      "csv_file": "2024_Wake_County_Board_of_Education_4.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mike Williams",
+          "political_party": "NON",
+          "votes": 9139,
+          "total_votes": 49209,
+          "percent": 18.57,
+          "total": "all"
+        },
+        {
+          "name": "Robert Morales Vergara",
+          "political_party": "NON",
+          "votes": 4890,
+          "total_votes": 49209,
+          "percent": 9.94,
+          "total": "all"
+        },
+        {
+          "name": "Sean Callan",
+          "political_party": "NON",
+          "votes": 2737,
+          "total_votes": 49209,
+          "percent": 5.56,
+          "total": "all"
+        },
+        {
+          "name": "Toshiba Rice",
+          "political_party": "NON",
+          "votes": 31965,
+          "total_votes": 49209,
+          "percent": 64.96,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 478,
+          "total_votes": 49209,
+          "percent": 0.97,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 85,
+          "total_votes": 49209,
+          "percent": 0.17,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 9543,
+          "total_votes": 49209,
+          "percent": 19.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 5",
+      "csv_file": "2024_Wake_County_Board_of_Education_5.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Lynn Edmonds",
+          "political_party": "NON",
+          "votes": 38542,
+          "total_votes": 56516,
+          "percent": 68.2,
+          "total": "all"
+        },
+        {
+          "name": "Ted Hills",
+          "political_party": "NON",
+          "votes": 17476,
+          "total_votes": 56516,
+          "percent": 30.92,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 498,
+          "total_votes": 56516,
+          "percent": 0.88,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 32,
+          "total_votes": 56516,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 12509,
+          "total_votes": 56516,
+          "percent": 22.13,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 6",
+      "csv_file": "2024_Wake_County_Board_of_Education_6.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Josh Points",
+          "political_party": "NON",
+          "votes": 17114,
+          "total_votes": 57475,
+          "percent": 29.78,
+          "total": "all"
+        },
+        {
+          "name": "Sam Hershey",
+          "political_party": "NON",
+          "votes": 39866,
+          "total_votes": 57475,
+          "percent": 69.36,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 495,
+          "total_votes": 57475,
+          "percent": 0.86,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 45,
+          "total_votes": 57475,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 13471,
+          "total_votes": 57475,
+          "percent": 23.44,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Board of Education 8",
+      "csv_file": "2024_Wake_County_Board_of_Education_8.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Elizabeth McDuffie",
+          "political_party": "NON",
+          "votes": 25346,
+          "total_votes": 62645,
+          "percent": 40.46,
+          "total": "all"
+        },
+        {
+          "name": "Lindsay Mahaffey",
+          "political_party": "NON",
+          "votes": 36872,
+          "total_votes": 62645,
+          "percent": 58.86,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 427,
+          "total_votes": 62645,
+          "percent": 0.68,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 40,
+          "total_votes": 62645,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 11302,
+          "total_votes": 62645,
+          "percent": 18.04,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake Soil and Water",
+      "csv_file": "2024_Wake_Soil_and_Water.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Brian K. Lewis",
+          "political_party": "NON",
+          "votes": 98344,
+          "total_votes": 523463,
+          "percent": 18.79,
+          "total": "all"
+        },
+        {
+          "name": "Mark Boone",
+          "political_party": "NON",
+          "votes": 207768,
+          "total_votes": 523463,
+          "percent": 39.69,
+          "total": "all"
+        },
+        {
+          "name": "Reese Wamsley",
+          "political_party": "NON",
+          "votes": 212287,
+          "total_votes": 523463,
+          "percent": 40.55,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 5064,
+          "total_votes": 523463,
+          "percent": 0.97,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 315,
+          "total_votes": 523463,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 133111,
+          "total_votes": 523463,
+          "percent": 25.43,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh Mayor",
+      "csv_file": "2024_Raleigh_Mayor.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Eugene Myrick",
+          "political_party": "NON",
+          "votes": 14359,
+          "total_votes": 221814,
+          "percent": 6.47,
+          "total": "all"
+        },
+        {
+          "name": "James L. Shaughnessy IV",
+          "political_party": "NON",
+          "votes": 8038,
+          "total_votes": 221814,
+          "percent": 3.62,
+          "total": "all"
+        },
+        {
+          "name": "Janet Cowell",
+          "political_party": "NON",
+          "votes": 132315,
+          "total_votes": 221814,
+          "percent": 59.65,
+          "total": "all"
+        },
+        {
+          "name": "Paul Fitts",
+          "political_party": "NON",
+          "votes": 40688,
+          "total_votes": 221814,
+          "percent": 18.34,
+          "total": "all"
+        },
+        {
+          "name": "Terrance (Truth) Ruth",
+          "political_party": "NON",
+          "votes": 25355,
+          "total_votes": 221814,
+          "percent": 11.43,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 1059,
+          "total_votes": 221814,
+          "percent": 0.48,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 276,
+          "total_votes": 221814,
+          "percent": 0.12,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 25304,
+          "total_votes": 221814,
+          "percent": 11.41,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council At-Large",
+      "csv_file": "2024_Raleigh_City_Council_At-Large.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 2,
+      "candidates": [
+        {
+          "name": "James Bledsoe",
+          "political_party": "NON",
+          "votes": 48776,
+          "total_votes": 346024,
+          "percent": 14.1,
+          "total": "all"
+        },
+        {
+          "name": "Jonathan Lambert-Melton",
+          "political_party": "NON",
+          "votes": 84244,
+          "total_votes": 346024,
+          "percent": 24.35,
+          "total": "all"
+        },
+        {
+          "name": "Joshua Bradley",
+          "political_party": "NON",
+          "votes": 26583,
+          "total_votes": 346024,
+          "percent": 7.68,
+          "total": "all"
+        },
+        {
+          "name": "Katie Pate",
+          "political_party": "NON",
+          "votes": 32174,
+          "total_votes": 346024,
+          "percent": 9.3,
+          "total": "all"
+        },
+        {
+          "name": "Reeves Peeler",
+          "political_party": "NON",
+          "votes": 34108,
+          "total_votes": 346024,
+          "percent": 9.86,
+          "total": "all"
+        },
+        {
+          "name": "Robert Steele Jr.",
+          "political_party": "NON",
+          "votes": 18129,
+          "total_votes": 346024,
+          "percent": 5.24,
+          "total": "all"
+        },
+        {
+          "name": "Stormie Denise Forte",
+          "political_party": "NON",
+          "votes": 99480,
+          "total_votes": 346024,
+          "percent": 28.75,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 2530,
+          "total_votes": 346024,
+          "percent": 0.73,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 332,
+          "total_votes": 346024,
+          "percent": 0.1,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 148419,
+          "total_votes": 346024,
+          "percent": 42.89,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council A",
+      "csv_file": "2024_Raleigh_City_Council_A.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Mary Black-Branch",
+          "political_party": "NON",
+          "votes": 11866,
+          "total_votes": 44711,
+          "percent": 26.54,
+          "total": "all"
+        },
+        {
+          "name": "Mitchell Silver",
+          "political_party": "NON",
+          "votes": 17900,
+          "total_votes": 44711,
+          "percent": 40.03,
+          "total": "all"
+        },
+        {
+          "name": "Whitney Hill",
+          "political_party": "NON",
+          "votes": 14746,
+          "total_votes": 44711,
+          "percent": 32.98,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 199,
+          "total_votes": 44711,
+          "percent": 0.45,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 51,
+          "total_votes": 44711,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8940,
+          "total_votes": 44711,
+          "percent": 20.0,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council B",
+      "csv_file": "2024_Raleigh_City_Council_B.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jennifer McCollum",
+          "political_party": "NON",
+          "votes": 19221,
+          "total_votes": 42607,
+          "percent": 45.11,
+          "total": "all"
+        },
+        {
+          "name": "Megan Patton",
+          "political_party": "NON",
+          "votes": 23140,
+          "total_votes": 42607,
+          "percent": 54.31,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 246,
+          "total_votes": 42607,
+          "percent": 0.58,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 35,
+          "total_votes": 42607,
+          "percent": 0.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 8768,
+          "total_votes": 42607,
+          "percent": 20.58,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council C",
+      "csv_file": "2024_Raleigh_City_Council_C.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Corey Branch",
+          "political_party": "NON",
+          "votes": 15676,
+          "total_votes": 39112,
+          "percent": 40.08,
+          "total": "all"
+        },
+        {
+          "name": "DaQuanta Copeland",
+          "political_party": "NON",
+          "votes": 4060,
+          "total_votes": 39112,
+          "percent": 10.38,
+          "total": "all"
+        },
+        {
+          "name": "Daniel Grant-King",
+          "political_party": "NON",
+          "votes": 1956,
+          "total_votes": 39112,
+          "percent": 5.0,
+          "total": "all"
+        },
+        {
+          "name": "Jared S. Ollison",
+          "political_party": "NON",
+          "votes": 2918,
+          "total_votes": 39112,
+          "percent": 7.46,
+          "total": "all"
+        },
+        {
+          "name": "Portia W. Rochelle",
+          "political_party": "NON",
+          "votes": 3351,
+          "total_votes": 39112,
+          "percent": 8.57,
+          "total": "all"
+        },
+        {
+          "name": "Tolulope O. Omokaiye",
+          "political_party": "NON",
+          "votes": 7847,
+          "total_votes": 39112,
+          "percent": 20.06,
+          "total": "all"
+        },
+        {
+          "name": "Tomara DeCosta",
+          "political_party": "NON",
+          "votes": 3155,
+          "total_votes": 39112,
+          "percent": 8.07,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 149,
+          "total_votes": 39112,
+          "percent": 0.38,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 421,
+          "total_votes": 39112,
+          "percent": 1.08,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4622,
+          "total_votes": 39112,
+          "percent": 11.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council D",
+      "csv_file": "2024_Raleigh_City_Council_D.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Jane Harrison",
+          "political_party": "NON",
+          "votes": 30015,
+          "total_votes": 30581,
+          "percent": 98.15,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 566,
+          "total_votes": 30581,
+          "percent": 1.85,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 10,
+          "total_votes": 30581,
+          "percent": 0.03,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 11308,
+          "total_votes": 30581,
+          "percent": 36.98,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh City Council E",
+      "csv_file": "2024_Raleigh_City_Council_E.csv",
+      "year": 2024,
+      "tags": [
+        "local"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Christina Jones",
+          "political_party": "NON",
+          "votes": 23586,
+          "total_votes": 45916,
+          "percent": 51.37,
+          "total": "all"
+        },
+        {
+          "name": "John Cerqueira",
+          "political_party": "NON",
+          "votes": 22050,
+          "total_votes": 45916,
+          "percent": 48.02,
+          "total": "all"
+        },
+        {
+          "name": "Write-In",
+          "political_party": "NON",
+          "votes": 280,
+          "total_votes": 45916,
+          "percent": 0.61,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 31,
+          "total_votes": 45916,
+          "percent": 0.07,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 10284,
+          "total_votes": 45916,
+          "percent": 22.4,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "NC District Court Judge District 10D Seat 3 (Unexpired)",
+      "csv_file": "2024_NC_District_Court_Judge_District_10D_Seat_3_(Unexpired).csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Karl Roth",
+          "political_party": "REP",
+          "votes": 76882,
+          "total_votes": 188219,
+          "percent": 40.85,
+          "total": "all"
+        },
+        {
+          "name": "Kevin Boxberger",
+          "political_party": "DEM",
+          "votes": 111337,
+          "total_votes": 188219,
+          "percent": 59.15,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 35,
+          "total_votes": 188219,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 9079,
+          "total_votes": 188219,
+          "percent": 4.82,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Wake County Public Libraries Bond",
+      "csv_file": "2024_Wake_County_Public_Libraries_Bond.csv",
+      "year": 2024,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 270753,
+          "total_votes": 621263,
+          "percent": 43.58,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 350510,
+          "total_votes": 621263,
+          "percent": 56.42,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 289,
+          "total_votes": 621263,
+          "percent": 0.05,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 35335,
+          "total_votes": 621263,
+          "percent": 5.69,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Zebulon Streets and Sidewalks Bond",
+      "csv_file": "2024_Zebulon_Streets_and_Sidewalks_Bond.csv",
+      "year": 2024,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 2607,
+          "total_votes": 4801,
+          "percent": 54.3,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 2194,
+          "total_votes": 4801,
+          "percent": 45.7,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 2,
+          "total_votes": 4801,
+          "percent": 0.04,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 198,
+          "total_votes": 4801,
+          "percent": 4.12,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Amendment - Citizens-Only Voting",
+      "csv_file": "2024_Constitutional_Amendment_-_Citizens-Only_Voting.csv",
+      "year": 2024,
+      "tags": [
+        "state"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "Against",
+          "political_party": "NON",
+          "votes": 211308,
+          "total_votes": 628679,
+          "percent": 33.61,
+          "total": "all"
+        },
+        {
+          "name": "For",
+          "political_party": "NON",
+          "votes": 417371,
+          "total_votes": 628679,
+          "percent": 66.39,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 664,
+          "total_votes": 628679,
+          "percent": 0.11,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 27572,
+          "total_votes": 628679,
+          "percent": 4.39,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Cary Housing Bond",
+      "csv_file": "2024_Cary_Housing_Bond.csv",
+      "year": 2024,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 48522,
+          "total_votes": 94705,
+          "percent": 51.23,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 46183,
+          "total_votes": 94705,
+          "percent": 48.77,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 56,
+          "total_votes": 94705,
+          "percent": 0.06,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4262,
+          "total_votes": 94705,
+          "percent": 4.5,
+          "total": "all"
+        }
+      ]
+    },
+    {
+      "name": "Cary Parks and Rec Bond",
+      "csv_file": "2024_Cary_Parks_and_Rec_Bond.csv",
+      "year": 2024,
+      "tags": [
+        "local",
+        "ref"
+      ],
+      "pick": 1,
+      "candidates": [
+        {
+          "name": "No",
+          "political_party": "NON",
+          "votes": 52056,
+          "total_votes": 94931,
+          "percent": 54.84,
+          "total": "all"
+        },
+        {
+          "name": "Yes",
+          "political_party": "NON",
+          "votes": 42875,
+          "total_votes": 94931,
+          "percent": 45.16,
+          "total": "all"
+        },
+        {
+          "name": "over",
+          "political_party": " ",
+          "votes": 22,
+          "total_votes": 94931,
+          "percent": 0.02,
+          "total": "all"
+        },
+        {
+          "name": "under",
+          "political_party": " ",
+          "votes": 4073,
+          "total_votes": 94931,
+          "percent": 4.29,
+          "total": "all"
+        }
+      ]
+    }
+  ]
+}
