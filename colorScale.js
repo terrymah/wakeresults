@@ -1,13 +1,3 @@
-// Define color scales
-// Esri color ramps - Blue 20
-// #003a49ff,#004a5dff,#005a71ff,#006a85ff,#007b9aff,#008baeff,#009bc2ff,#00aed6ff,#00c6ebff,#00ddffff
-const colors = ["#003a49ff", "#004a5dff", "#005a71ff", "#006a85ff", "#007b9aff", "#008baeff", "#009bc2ff", "#00aed6ff", "#00c6ebff", "#00ddffff"];
-// Esri color ramps - Red 5
-// #fff5f0ff,#fee0d2ff,#fcbba1ff,#fc9272ff,#fb6a4aff,#ef3b2cff,#cb181dff,#a50f15ff,#7d0011ff,#52000bff
-const colors = ["#fff5f0ff", "#fee0d2ff", "#fcbba1ff", "#fc9272ff", "#fb6a4aff", "#ef3b2cff", "#cb181dff", "#a50f15ff", "#7d0011ff", "#52000bff"];
-// Esri color ramps - Green 1
-// #f7fcf5ff,#e5f5e0ff,#c7e9c0ff,#a1d99bff,#74c476ff,#41ab5dff,#238b45ff,#006d2cff,#065220ff,#023414ff
-const colors = ["#f7fcf5ff", "#e5f5e0ff", "#c7e9c0ff", "#a1d99bff", "#74c476ff", "#41ab5dff", "#238b45ff", "#006d2cff", "#065220ff", "#023414ff"];
   const colorScales = [
     {
       name: "blue",
