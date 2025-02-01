@@ -1,29 +1,28 @@
 // Define color scales
-
+// Esri color ramps - Blue 20
+// #003a49ff,#004a5dff,#005a71ff,#006a85ff,#007b9aff,#008baeff,#009bc2ff,#00aed6ff,#00c6ebff,#00ddffff
+const colors = ["#003a49ff", "#004a5dff", "#005a71ff", "#006a85ff", "#007b9aff", "#008baeff", "#009bc2ff", "#00aed6ff", "#00c6ebff", "#00ddffff"];
+// Esri color ramps - Red 5
+// #fff5f0ff,#fee0d2ff,#fcbba1ff,#fc9272ff,#fb6a4aff,#ef3b2cff,#cb181dff,#a50f15ff,#7d0011ff,#52000bff
+const colors = ["#fff5f0ff", "#fee0d2ff", "#fcbba1ff", "#fc9272ff", "#fb6a4aff", "#ef3b2cff", "#cb181dff", "#a50f15ff", "#7d0011ff", "#52000bff"];
+// Esri color ramps - Green 1
+// #f7fcf5ff,#e5f5e0ff,#c7e9c0ff,#a1d99bff,#74c476ff,#41ab5dff,#238b45ff,#006d2cff,#065220ff,#023414ff
+const colors = ["#f7fcf5ff", "#e5f5e0ff", "#c7e9c0ff", "#a1d99bff", "#74c476ff", "#41ab5dff", "#238b45ff", "#006d2cff", "#065220ff", "#023414ff"];
   const colorScales = [
     {
       name: "blue",
-      base: "#004c6d",
-      shades: [
-        "#d1eef9", "#a5dbf4", "#69bbe3", "#369ac8", "#1c6f9d", "#004c6d", "#003348",
-        "#002132", "#00131c", "#000a0d", 
-      ],
+      base: "#005a71",
+      shades: ["#003a49", "#004a5d", "#005a71", "#006a85", "#007b9a", "#008bae", "#009bc2", "#00aed6", "#00c6eb", "#00ddff"],
     },
     {
       name: "red",
-      base: "#8e0b0b",
-      shades: [
-        "#fac3c3", "#f59393", "#e85b5b", "#d72f2f", "#b31a1a", "#8e0b0b", "#5d0505",
-        "#3c0202", "#220000", "#110000", 
-      ],
+      base: "#fcbba1",
+      shades: ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#7d0011", "#52000b"],
     },
     {
       name: "green",
-      base: "#1b7f27",
-      shades: [
-        "#c5efc2", "#96e394", "#4ebf5c", "#23a633", "#188a27", "#1b7f27", "#0b5118",
-        "#04320e", "#001d05", "#001001", 
-      ],
+      base: "#c7e9c0",
+      shades: ["#f7fcf5", "#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#065220", "#023414"],
     },
     {
       name: "orange",
