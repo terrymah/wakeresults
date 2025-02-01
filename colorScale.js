@@ -1,17 +1,17 @@
   const colorScales = [
     {
       name: "blue",
-      base: "#005a71",
-      shades: ["#003a49", "#004a5d", "#005a71", "#006a85", "#007b9a", "#008bae", "#009bc2", "#00aed6", "#00c6eb", "#00ddff"],
+      base: "#00aed6",
+      shades: ["#00ddff", "#00c6eb", "#00aed6", "#009bc2", "#008bae", "#007b9a", "#006a85", "#005a71", "#004a5d", "#003a49"],
     },
     {
       name: "red",
-      base: "#fcbba1",
+      base: "#a50f15",
       shades: ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#7d0011", "#52000b"],
     },
     {
       name: "green",
-      base: "#c7e9c0",
+      base: "#006d2c",
       shades: ["#f7fcf5", "#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#065220", "#023414"],
     },
     {

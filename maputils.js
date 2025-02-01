@@ -1,4 +1,5 @@
 import { getColorScaleForColumn, initColors, getColorForMargin, getGradientColor } from './colorScale.js';
+import { showResultsTable } from './details.js';
 
 export function loadGeoJson(map, geoJsonFileUrl, precinctData, styleFeature, onEachFeature, labelMarkers) {
   fetch(geoJsonFileUrl)
@@ -22,6 +23,31 @@ export function loadGeoJson(map, geoJsonFileUrl, precinctData, styleFeature, onE
       }).addTo(map);
 
       map.fitBounds(geoJsonLayer.getBounds());
+
+      let isDragging = false;
+      let dragStart = { x: 0, y: 0 };
+  
+      // Detect when the user starts dragging
+      map.on("mousedown", (event) => {
+          isDragging = false;
+          dragStart = { x: event.containerPoint.x, y: event.containerPoint.y };
+      });
+  
+      // Detect if the user moved the mouse significantly
+      map.on("mousemove", (event) => {
+          const moveThreshold = 5; // Minimum movement (pixels) before we count as a drag
+          if (Math.abs(event.containerPoint.x - dragStart.x) > moveThreshold ||
+              Math.abs(event.containerPoint.y - dragStart.y) > moveThreshold) {
+              isDragging = true;
+          }
+      });
+  
+      // Only trigger the table if it was a real click, not a drag
+      map.on("mouseup", (event) => {
+          if (!isDragging) {
+              showResultsTable();
+          }
+      });      
     })
     //.catch(error => alert(`Error loading GeoJSON file: ${error.message}`));
 }
@@ -312,5 +338,3 @@ function createArrowSVG(color, size, rotation) {
 
   return svg;
 }
-
-

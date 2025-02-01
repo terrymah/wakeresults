@@ -1,7 +1,8 @@
 import { loadGeoJson, styleFeature, onEachFeature } from './maputils.js';
 import { initColors, getColorScaleForColumn } from './colorScale.js';
 
-let precinctData = {};
+export let precinctData = {};
+export let isAbsoluteMode = false;
 
 // Precinct splits
 const precinctSplits = {
@@ -183,9 +184,9 @@ async function calculatePrecinctData(csvFiles, portionColumns, totalColumns) {
 
 const geoJsonFileName = getQueryParam('file', '2024.geojson');
 const csvFileNames = getQueryParam('csv', 'demoturnout2024.csv,demoturnout2024.csv').split(',');
-const portionColumns = getQueryParam('portion', 'party_DEM_voted,party_REP_voted').split(',');
-const totalColumns = getQueryParam('total', 'party_DEM,party_REP').split(',');
-const friendlyNames = getQueryParam('name', 'Democrat,Republican').split(',');
+export let portionColumns = getQueryParam('portion', 'party_DEM_voted,party_REP_voted').split(',');
+export let totalColumns = getQueryParam('total', 'party_DEM,party_REP').split(',');
+export let friendlyNames = getQueryParam('name', 'Democrat,Republican').split(',');
 const colorPreferences = getQueryParam('color', 'blue,red').split(',');
 
 const showLabels = getQueryParam('labels', 'no') === 'yes';
@@ -212,7 +213,7 @@ if (portionColumns.length !== csvFileNames.length) {
 
 const geoJsonFileUrl = `shapes/${geoJsonFileName}`;
 
-const enabledColumns = {};
+export let enabledColumns = {};
 
 // DOM Elements
 const titleElement = document.getElementById('title');
@@ -277,6 +278,7 @@ styleOptions.forEach(radio => {
 });  
 
 absoluteModeCheckbox.addEventListener('change', () => {
+  isAbsoluteMode = absoluteModeCheckbox.checked; // Update value dynamically
   if (absoluteModeCheckbox.checked) {
     // Checkbox event listeners
     styleOptions.forEach(radio => {
