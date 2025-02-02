@@ -185,6 +185,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const selectedElection = filteredElections.find(election => election.name === selectedName);
         if (selectedElection) {
           const url = constructURL(selectedElection);
+          gtag("event", "navigate_to_election", {
+            event_category: "Navigation",
+            event_label: selectedElection.name,
+            election_name: selectedElection.name
+          });
           window.location.href = url;
         } else {
           console.error("Selected election not found!");
@@ -418,6 +423,12 @@ document.addEventListener("DOMContentLoaded", () => {
       const title = selectedCandidates.map(candidate => encodeURIComponent(candidate.name)).join(" vs ");
 
       const url = `map.html?file=${file}&csv=${csv}&portion=${portion}&total=${total}&color=${color}&name=${name}&title=${title}`;
+
+      gtag("event", "navigate_to_election", {
+        event_category: "Navigation",
+        event_label: title, // Use election name
+        election_name: title
+      });      
       window.location.href = url;
     });
   }
