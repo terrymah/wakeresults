@@ -1,4 +1,4 @@
-import { precinctData, isAbsoluteMode, portionColumns, totalColumns, friendlyNames, enabledColumns } from './script.js';
+import { trackEvent, precinctData, isAbsoluteMode, portionColumns, totalColumns, friendlyNames, enabledColumns } from './script.js';
 
 document.addEventListener("DOMContentLoaded", () => {
     createTableOverlay();
@@ -22,6 +22,9 @@ function createTableOverlay() {
 
     // Close on ESC key
     document.addEventListener("keydown", (event) => {
+        trackEvent("close_results_table", {
+            event_label: "Results Table Closed",
+        });
         if (event.key === "Escape") {
             overlay.style.display = "none";
         }
@@ -29,6 +32,9 @@ function createTableOverlay() {
 
     // Close button event
     document.getElementById("close-table").addEventListener("click", () => {
+        trackEvent("close_results_table", {
+            event_label: "Results Table Closed",
+        });
         overlay.style.display = "none";
     });
 }

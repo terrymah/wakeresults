@@ -24,6 +24,12 @@ function getQueryParam(param, defaultValue) {
   return urlParams.get(param) || defaultValue;
 }
 
+export function trackEvent(eventName, eventParams = {}) {
+  if (typeof gtag === "function") {
+      gtag("event", eventName, eventParams);
+  }
+}
+
 function calculateTotals(precinctData, portionColumns, totalColumns) {
   const totals = {};
 
@@ -274,6 +280,7 @@ styleOptions.forEach(radio => {
 
   radio.addEventListener('change', event => {
     styleMode = event.target.value; // Update the mode
+    trackEvent("change_mode", { event_label: styleMode });
     if (styleMode !== 'winnerTakeAll') {
       absoluteModeCheckbox.checked = false;
     }
@@ -283,6 +290,7 @@ styleOptions.forEach(radio => {
 
 absoluteModeCheckbox.addEventListener('change', () => {
   isAbsoluteMode = absoluteModeCheckbox.checked; // Update value dynamically
+  trackEvent("change_absolute", { event_label: isAbsoluteMode });
   if (absoluteModeCheckbox.checked) {
     // Checkbox event listeners
     styleOptions.forEach(radio => {
@@ -298,6 +306,7 @@ absoluteModeCheckbox.addEventListener('change', () => {
 });
 
 toggleLabelsCheckbox.addEventListener('change', () => {
+  trackEvent("toggle_labels", { event_label: toggleLabelsCheckbox.checked });
   labelMarkers.forEach(marker => {
     if (toggleLabelsCheckbox.checked) {
       map.addLayer(marker);
@@ -308,14 +317,17 @@ toggleLabelsCheckbox.addEventListener('change', () => {
 });
 
 toggleTitleCheckbox.addEventListener('change', () => {
+  trackEvent("toggle_title", { event_label: toggleTitleCheckbox.checked });
   titleElement.style.display = toggleTitleCheckbox.checked ? 'block' : 'none';
 });
 
 toggleKeyCheckbox.addEventListener('change', () => {
+  trackEvent("toggle_key", { event_label: toggleKeyCheckbox.checked });
   keyElement.style.display = toggleKeyCheckbox.checked ? 'block' : 'none';
 });
 
 toggleMapCheckbox.addEventListener('change', () => {
+  trackEvent("toggle_map", { event_label: toggleMapCheckbox.checked });
   if (toggleMapCheckbox.checked) {
     // Add the background layer back to the map
     backgroundLayer.addTo(map);
@@ -393,6 +405,10 @@ function createKey(totals, absoluteMode) {
       enabledColumns[column] = !enabledColumns[column];
       createKey(totals, absoluteModeCheckbox.checked); // Recreate key with updated state
       reloadMap(precinctData);
+      trackEvent("toggle_candidate", {
+        event_label: friendlyNames[index] || column,
+        enabled: enabledColumns[column]
+      });
     });
   });
 }
