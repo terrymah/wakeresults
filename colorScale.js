@@ -2,89 +2,58 @@
     {
       name: "blue",
       base: "#00aed6",
-      shades: ["#00ddff", "#00c6eb", "#00aed6", "#009bc2", "#008bae", "#007b9a", "#006a85", "#005a71", "#004a5d", "#003a49"],
+      shades: ["#d6e6ff","#c6d6ff","#b6c6ff","#a6b6ff","#96a6ff","#8696ff","#7686ff","#6676ff","#5666ee","#4656dd","#3646cc","#2636bb","#1626aa","#101699","#000088"],
     },
     {
       name: "red",
       base: "#a50f15",
-      shades: ["#fff5f0", "#fee0d2", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#7d0011", "#52000b"],
+      shades: ["#ffe9d9","#ffd9bc","#ffb9ac","#ffa39c","#ff998c","#ff867c","#ff776c","#f0665c","#ef554c","#d3443c","#c0332c","#b9221c","#a0110c","#990906","#800000"],
     },
     {
       name: "green",
       base: "#006d2c",
-      shades: ["#f7fcf5", "#e5f5e0", "#c7e9c0", "#a1d99b", "#74c476", "#41ab5d", "#238b45", "#006d2c", "#065220", "#023414"],
+      shades: ["#eeffd3","#ddffc3","#ccffb3","#bbf3a0","#aae986","#99dd76","#88cc66","#77bb55","#66aa44","#559933","#448822","#337711","#226c10","#115c0c","#005000"],
     },
     {
       name: "orange",
       base: "#d15c1e",
-      shades: [
-        "#fbdcc5", "#f6b693", "#ef8147", "#e5581a", "#c04612", "#d15c1e", "#84350b",
-        "#4c1d06", "#261103", "#120902", 
-      ],
+      shades: ["#fff3dd","#ffeebb","#ffe3a0","#ffd680","#ffc966","#fab644","#f9a333","#f39022","#ee8811","#dd7700","#c36900","#ac5c00","#9c4c00","#7c4300","#663300"],
     },
     {
       name: "purple",
       base: "#60298e",
-      shades: [
-        "#e3d1f7", "#c5a5ed", "#a869e0", "#8939d0", "#6c2ab5", "#60298e", "#482069",
-        "#2c1340", "#170920", "#0a0410", 
-      ],
+      shades: ["#f9d9ff","#e6bbff","#d3aaff","#c399ff","#b388ff","#a977ff","#a366ff","#9355ff","#8044ff","#7333ee","#6622dd","#5511cc","#4409aa","#330699","#220077"],
     },
     {
       name: "yellow",
       base: "#d8b31f",
-      shades: [
-        "#fff5b5", "#ffec6b", "#ffdf23", "#f7c404", "#a1840d", "#d8b31f", "#604b07",
-        "#362903", "#1d1601", "#0d0b00", 
-      ],
-    },
-    {
-      name: "pink",
-      base: "#cc337d",
-      shades: [
-        "#f9c7dd", "#f399bb", "#ea5f90", "#db3472", "#b1265a", "#cc337d", "#822047",
-        "#4c132a", "#270a16", "#13070b", 
-      ],
-    },
-    {
-      name: "teal",
-      base: "#206d6b",
-      shades: [
-        "#c1eded", "#8bd6d6", "#47b8b7", "#239f9e", "#1d7c7c", "#206d6b", "#124847",
-        "#082727", "#041515", "#020b0b", 
-      ],
-    },
-    {
-      name: "brown",
-      base: "#7a5230",
-      shades: [
-        "#eedccc", "#e1bfa0", "#d19c6e", "#bb7642", "#8f5a2f", "#7a5230", "#4e341f",
-        "#2e1f12", "#17100a", "#0a0805", 
-      ],
+      shades: ["#ffffdd","#ffffcc","#fffaaa","#fef688","#f6f066","#eee344","#e3d933","#ddd022","#d3c311","#d0b909","#b9a000","#9c9000","#898000","#736c00","#555000"],
     },
     {
       name: "gray",
       base: "#5c5c5c",
-      shades: [
-        "#ececec", "#c7c7c7", "#9a9a9a", "#757575", "#5c5c5c", "#3a3a3a", "#202020",
-        "#111111", "#080808", "#030303", 
-      ],
+      shades: ["#eeeeee","#dddddd","#cccccc","#bbbbbb","#aaaaaa","#999999","#888888","#777777","#666666","#555555","#444444","#333333","#222222","#111111","#000000"],
     },
   ];
   
   
-  // Define bucket thresholds (hardcoded for now, ramping 1.5)
+  // Define bucket thresholds
   const buckets = [
-    { min: 0, max: 1.5 },
-    { min: 1.5, max: 3 },
-    { min: 3, max: 4.5 },
-    { min: 4.5, max: 6 },
-    { min: 6, max: 7.5 },
-    { min: 7.5, max: 9 },
-    { min: 9, max: 10.5 },
-    { min: 10.5, max: 12 },
-    { min: 12, max: 13.5 },
-    { min: 13.5, max: Infinity },
+    { min: 0, max: 1 },
+    { min: 1, max: 2 },
+    { min: 2, max: 3 },
+    { min: 3, max: 4 },
+    { min: 4, max: 5 },
+    { min: 5, max: 6 },
+    { min: 6, max: 7 },
+    { min: 7, max: 8 },
+    { min: 8, max: 9 },
+    { min: 9, max: 10 },
+    { min: 10, max: 11 },
+    { min: 11, max: 12 },
+    { min: 12, max: 13 },
+    { min: 13, max: 14 },    
+    { min: 14, max: Infinity },        
   ];
   
   const assignedColors = {}; // Maps column names to color scales
@@ -115,7 +84,14 @@
       }
     });
   
-    
+    // Third pass: You get gray
+    portionColumns.forEach(column => {
+      if (!assignedColors[column]) {
+        const grayColor = colorScales.find(scale => scale.name === "gray");
+        assignedColors[column] = grayColor;
+      }
+    });
+
   }
 
   function getColorScaleForColumn(column) {
